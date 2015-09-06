@@ -1,0 +1,37 @@
+40. A MIRACULOUS HAIL-STORM
+
+Tum Herculēs bovēs per Hispāniam et Liguriam compellere 
+cōnstituit; postquam igitur omnia parāta sunt, bovēs ex īnsulā ad
+continentem transportāvit. Ligurēs autem, gēns bellicōsissima, dum
+ille per fīnēs eōrum iter facit, magnās cōpiās coēgērunt atque eum
+longius progredī prohibēbant. Herculēs magnam difficultātem 
+habēbat, barbarō enim in locīs superiōribus cōnstiterant et saxa
+telaque in eum coniciēbant. Ille quīdem paene omnem spem salūtis
+dēposuerat, sed tempore opportūnissimō Iuppiter imbrem lapidum
+ingentium ē caelō dēmīsit. Hī tantā vī cecidērunt ut magnum
+numerum Ligurum occiderint; ipse tamen Herculēs (ut in tālibus 
+rēbus accidere cōnsuēvit) nihil incommodī cēpit.
+
+ Tum Hercules boves per Hispaniam et Liguriam compellere constituit; postquam
+ igitur omnia parata sunt, boves ex insula ad continentem transportavit. Ligures
+ autem, gens bellicosissima, dum ille per finis eorum iter facit, magnas copias
+ coegerunt atque eum longius progredi prohibebant. Hercules magnam difficultatem
+ habebat, barbari enim in locis superioribus constiterant et saxa telaque in eum
+ coniciebant. Ille quidem paene omnem spem salutis deposuerat, sed tempore
+ opportunissimo Iuppiter imbrem lapidum ingentium e caelo demisit. Hi tanta vi
+ ceciderunt ut magnum numerum Ligurum occiderint; ipse tamen Hercules (ut in
+ talibus rebus accidere consuevit) nihil incommodi cepit.
+
+START
+AJC Then Hercules resolved to drive the oxen through Spain and Liguria.
+Therefore, after everything was ready, he carried the oxen off of the
+island and onto the mainland.  But the Ligurians, a most warlike tribe,
+while he was journeying through their territory, collected a great force
+and prevented his further progress.  Hercules had great hardship,
+for the savages had made a stand on the higher ground and were throwing
+rocks and spears at him.  Indeed, he had all but given up hope, but
+at a most advantageous time Jupiter sent down a rain of huge stones from
+the sky.
+These fell with such force that they killed a great number of the Ligurians;
+but Hercules himself (as was normal in such things) took no harm.
+END
