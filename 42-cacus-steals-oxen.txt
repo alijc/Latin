@@ -1,0 +1,39 @@
+42. CACUS STEALS THE OXEN
+
+Brevī tempore ad flūmen Tiberim vēnit. Tum tamen nūlla erat urbs
+in eō locō, Roma enim nōndum condita erat. Herculēs itinere
+fessus cōnstituit ibi paucōs diēs morārī, ut sē ex labōribus recreāret.
+Haud procul ā valle ubi bovēs pascēbantur spēlunca erat, in quā
+Cācus, horribile mōnstrum, tum habitābat. Hic speciem terribilem
+praebēbat, nōn modō quod ingentī magnitūdine corporis erat, sed
+quod ignem ex ore exspirābat. Cācus autem dē adventū Herculis
+fāmam accēperat; noctū igitur vēnit, et dum Herculēs dormit,
+quattuor pulcherrimōrum boüm abripuit. Hōs caudīs in spēluncam
+trāxit, nē Herculēs ē vestigiīs cognoscere posset quō in locō cēlātī 
+essent.
+
+ Brevi tempore ad flumen Tiberim venit. Tum tamen nulla erat urbs in eo
+ loco, Roma enim nondum condita erat. Hercules itinere fessus
+ constituit ibi paucos dies morari, ut se ex laboribus recrearet. Haud
+ procul a valle ubi boves pascebantur spelunca erat, in qua Cacus,
+ horribile monstrum, tum habitabat. Hic speciem terribilem praebebat,
+ non modo quod ingenti magnitudine corporis erat, sed quod ignem ex ore
+ exspirabat. Cacus autem de adventu Herculis famam acceperat; noctu
+ igitur venit, et dum Hercules dormit, quattuor pulcherrimorum boum
+ abripuit. Hos caudis in speluncam traxit, ne Hercules e vestigiis
+ cognoscere posset quo in loco celati essent.
+
+START AJC
+In a little while he came to the River Tiber.  But there wasn't at that
+time a city in that place, for Rome hadn't yet been founded.  Hercules,
+wearied by his travels, decided to linger there for few days, to refresh
+himself from his labors.  Not very far off from where the oxen were
+grazing was a cave, in which Cacus, a horrible monster, was then
+living.  This one presented a terrible sight, not only because of his
+immense size, but also because he breathed out fire.  But Cacus had
+heard of Hercules' fame since his arrival; therefore he came by night,
+and while Hercules slept, snatched the four best looking oxen away. He
+led these into his cave by their tails, so that Hercules wouldn't be
+able to figure out from their tracks what place they'd been hidden
+in. 
+END
