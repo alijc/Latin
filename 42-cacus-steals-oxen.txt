@@ -12,18 +12,7 @@ quattuor pulcherrimōrum boüm abripuit. Hōs caudīs in spēluncam
 trāxit, nē Herculēs ē vestigiīs cognoscere posset quō in locō cēlātī 
 essent.
 
- Brevi tempore ad flumen Tiberim venit. Tum tamen nulla erat urbs in eo
- loco, Roma enim nondum condita erat. Hercules itinere fessus
- constituit ibi paucos dies morari, ut se ex laboribus recrearet. Haud
- procul a valle ubi boves pascebantur spelunca erat, in qua Cacus,
- horribile monstrum, tum habitabat. Hic speciem terribilem praebebat,
- non modo quod ingenti magnitudine corporis erat, sed quod ignem ex ore
- exspirabat. Cacus autem de adventu Herculis famam acceperat; noctu
- igitur venit, et dum Hercules dormit, quattuor pulcherrimorum boum
- abripuit. Hos caudis in speluncam traxit, ne Hercules e vestigiis
- cognoscere posset quo in loco celati essent.
 
-START AJC
 In a little while he came to the River Tiber.  But there wasn't at that
 time a city in that place, for Rome hadn't yet been founded.  Hercules,
 wearied by his travels, decided to linger there for few days, to refresh
@@ -36,4 +25,3 @@ and while Hercules slept, snatched the four best looking oxen away. He
 led these into his cave by their tails, so that Hercules wouldn't be
 able to figure out from their tracks what place they'd been hidden
 in. 
-END
