@@ -1,0 +1,43 @@
+43. HERCULES DISCOVERS THE THEFT
+
+Posterō diē simul atque ē somnō excitātus est, Herculēs furtum
+animadvertit et bovēs āmissōs omnibus locīs quaerēbat. Hōs tamen
+nusquam reperīre poterat, nōn modō quod locī natūram ignorābat,
+sed quod vestigiīs falsīs deceptus est. Tandem cum magnam
+partem diēī frustrā cōnsumpsisset, cum reliquīs bōbus progredī
+cōnstituit. At dum proficiscī parat, ūnus ē bōbus quōs sēcum habuit
+mugīre coepit. Subitō eī quī in spēluncā inclusī erant mugitum
+reddidērunt, et hōc modō Herculem certiōrem fēcerunt quō in locō
+cēlātī essent. Ille vehementer īrātus ad spēluncam quam celerrimē
+sē cōntulit, ut praedam reciperet. At Cācus saxum ingens ita 
+dēiēcerat ut adītus spēluncae omnīnō obstruerētur.
+
+ Postero die simul atque e somno excitatus est, Hercules furtum
+ animadvertit et boves amissos omnibus locis quaerebat. Hos tamen
+ nusquam reperire poterat, non modo quod loci naturam ignorabat,
+ sed quod vestigiis falsis deceptus est. Tandem cum magnam partem
+ diei frustra consumpsisset, cum reliquis bobus progredi
+ constituit. At dum proficisci parat, unus e bobus quos secum
+ habuit mugire coepit. Subito ii qui in spelunca inclusi erant
+ mugitum reddiderunt, et hoc modo Herculem certiorem fecerunt quo
+ in loco celati essent. Ille vehementer iratus ad speluncam quam
+ celerrime se contulit, ut praedam reciperet. At Cacus saxum ingens
+ ita deiecerat ut aditus speluncae omnino obstrueretur.
+
+START
+AJC
+On the next day, as soon as he awoke, Hercules noticed the theft
+and searched all around for the missing oxen.  But he couldn't find
+them anywhere, not only because he didn't know the nature of the
+place, but also because he was misled by the false trail.  At last,
+when he had spent a great part of the day in vain, he decided to go
+on with the rest of the oxen.  But while he was getting ready to
+set out, one of the oxen that he had with him began to
+bellow. Suddenly the ones that had been shut up in the cave
+bellowed back, and so made Hercules sure that they
+had been hidden nearby.  Very much angered, he carried himself off
+to the cave as quickly as he could to recover his spoils.  But
+Cacus had thrown such a huge stone down that the cave's entrance
+was blocked up altogether.
+END
+
