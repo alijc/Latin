@@ -12,20 +12,6 @@ cēlātī essent. Ille vehementer īrātus ad spēluncam quam celerrimē
 sē cōntulit, ut praedam reciperet. At Cācus saxum ingens ita 
 dēiēcerat ut adītus spēluncae omnīnō obstruerētur.
 
- Postero die simul atque e somno excitatus est, Hercules furtum
- animadvertit et boves amissos omnibus locis quaerebat. Hos tamen
- nusquam reperire poterat, non modo quod loci naturam ignorabat,
- sed quod vestigiis falsis deceptus est. Tandem cum magnam partem
- diei frustra consumpsisset, cum reliquis bobus progredi
- constituit. At dum proficisci parat, unus e bobus quos secum
- habuit mugire coepit. Subito ii qui in spelunca inclusi erant
- mugitum reddiderunt, et hoc modo Herculem certiorem fecerunt quo
- in loco celati essent. Ille vehementer iratus ad speluncam quam
- celerrime se contulit, ut praedam reciperet. At Cacus saxum ingens
- ita deiecerat ut aditus speluncae omnino obstrueretur.
-
-START
-AJC
 On the next day, as soon as he awoke, Hercules noticed the theft
 and searched all around for the missing oxen.  But he couldn't find
 them anywhere, not only because he didn't know the nature of the
@@ -33,11 +19,10 @@ place, but also because he was misled by the false trail.  At last,
 when he had spent a great part of the day in vain, he decided to go
 on with the rest of the oxen.  But while he was getting ready to
 set out, one of the oxen that he had with him began to
-bellow. Suddenly the ones that had been shut up in the cave
+bellow. At once the ones that had been shut up in the cave
 bellowed back, and so made Hercules sure that they
-had been hidden nearby.  Very much angered, he carried himself off
+had been hidden there.  Very much angered, he carried himself off
 to the cave as quickly as he could to recover his spoils.  But
 Cacus had thrown such a huge stone down that the cave's entrance
 was blocked up altogether.
-END
 
