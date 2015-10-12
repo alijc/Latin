@@ -13,32 +13,18 @@ Eurystheus Herculī imperāverat erat summae difficultātis, nōn modō ob
 causās quās memorāvimus, sed etiam quod Herculēs omnīnō ignorābat
 quō in locō hortus ille situs esset.
 
- Eurystheus postquam boves Geryonis accepit, laborem undecimum Herculi
- imposuit, graviorem quam quos supra narravimus. Mandavit enim ei ut
- aurea poma ex horto Hesperidum auferret. Hesperides autem nymphae
- erant quaedam forma praestantissima, quae in terra longinqua
- habitabant, et quibus aurea quaedam poma a Iunone commissa
- erant. Multi homines auri cupiditate inducti haec poma auferre iam
- antea conati erant. Res tamen difficillima erat, namque hortus in quo
- poma erant muro ingenti undique circumdatus erat; praeterea draco
- quidam cui centum erant capita portam horti diligenter
- custodiebat. Opus igitur quod Eurystheus Herculi imperaverat erat
- summae difficultatis, non modo ob causas quas memoravimus, sed etiam
- quod Hercules omnino ignorabat quo in loco hortus ille situs esset.
-
-START
-AJC After Eurystheus got the oxen of Geryon, he set for Hercules an
-eleventh labor, harder than the ones we've already described. 
+After Eurystheus got the oxen of Geryon, he set an eleventh labor 
+for Hercules, harder than the ones we've already described. 
 For he commanded him to carry off the golden apples from the garden of
 the Hesperides. Now the Hesperides were nymphs of a certain inestimable
 beauty, who lived in a far-off land, and to whom certain golden apples 
-had been entrusted by Juno.  Many men, induced by the desire for gold, 
+had been entrusted by Juno.  Many men, lured by the desire for gold, 
 had already tried to carry these apples off before.
-But the thing was difficult, for and in fact the garden in which the
-apples were had been complete enclosed by an enormous wall;
-in addition, a certain snake, that had a hundred heads, carefully
+But it was a difficult thing to do, for the garden in which the
+apples were had been completely enclosed by an enormous wall;
+in addition, a certain dragon, with a hundred heads, diligently
 guarded the gates of the garden.  And so the work that Eurystheus had
 ordered Hercules to do was of the utmost difficulty, not only on
 account of the reasons that we've recounted, but also because Hercules
 didn't know where in the world this garden was.
-END
+
