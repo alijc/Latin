@@ -13,29 +13,15 @@ Herculēs tantās vīrēs magnopere mirātus statim in colloquium cum
 Atlante vēnit, et cum causam itineris docuisset, auxilium ab eō
 petiit.
 
- Hercules quamquam quietem vehementer cupiebat, tamen Eurystheo
- parere constituit, et simul ac iussa eius accepit, proficisci
- maturavit. A multis mercatoribus quaesiverat quo in loco Hesperides
- habitarent, nihil tamen certum reperire potuerat. Frustra per multas
- terras iter fecit et multa pericula subiit; tandem, cum in his
- itineribus totum annum consumpsisset, ad extremam partem orbis
- terrarum, quae proxima est Oceano, pervenit. Hic stabat vir quidam,
- nomine Atlas, ingenti magnitudine corporis, qui caelum (ita traditum
- est) umeris suis sustinebat, ne in terram decideret. Hercules tantas
- viris magnopere miratus statim in conloquium cum Atlante venit, et
- cum causam itineris docuisset, auxilium ab eo petiit.
-
-START
-AJC Although Hercules longed for rest, nonetheless he resolved to obey
-Eurystheus, and no sooner had he received his orders, but he hastened to set
-out.  He had inquired of many traders for the place that the Hesperides
-lived, but hadn't been able to find out anything for sure. He
-journeyed through many lands and underwent many dangers; in the end,
-after he spent an entire year in these journeys, he reached the
-farthest part of the world, next to Oceanus.  Here stood a certain
-man, Altas by name, who had an enormous body and who held up the sky (or
-so it has been reported) with his shoulders, so that it wouldn't fall
-onto the earth.  Hercules, after marvelling at such an immensity of
-strength, fell into conversation with Atlas, and after telling him
+Although Hercules longed for rest, nonetheless he decided to obey
+Eurystheus, and hastened to set out as soon as he'd received his
+orders. He had inquired of many traders for the place that the
+Hesperides lived, but hadn't been able to find out anything for
+sure. He journeyed through many lands and underwent many dangers in
+vain; in the end, after spending an entire year in these journeys, he
+reached the farthest part of the world, near Oceanus.  Here stood a
+certain man, Altas by name, who had an enormous body and who held up
+the sky (or so it has been reported) with his shoulders, so that it
+wouldn't fall to earth.  Hercules, marvelling at such an immensity of
+strength, at once fell to talking with Atlas, and after telling him
 the reason for his journey, asked him for his help.
-END
