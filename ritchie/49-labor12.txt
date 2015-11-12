@@ -12,20 +12,7 @@ Antequam tamen dē hōc labore narrāmus, non aliēnum vidētur,
 quoniam dē Orcō mentiōnem fēcimus, pauca dē eā regiōne
 prōpōnere.
 
- Postquam aurea poma ad Eurystheum relata sunt, unus modo
- relinquebatur e duodecim laboribus quos Pythia Herculi
- praeceperat. Eurystheus autem cum Herculem magnopere timeret, eum
- in aliquem locum mittere volebat unde numquam redire
- posset. Negotium igitur ei dedit ut canem Cerberum ex Orco in
- lucem traheret. Hoc opus omnium difficillimum erat, nemo enim
- umquam ex Orco redierat. Praeterea Cerberus iste monstrum erat
- horribili specie, cui tria erant capita serpentibus saevis
- cincta. Antequam tamen de hoc labore narramus, non alienum
- videtur, quoniam de Orco mentionem fecimus, pauca de ea regione
- proponere.
-
-START
-AJC After the golden apples had been tendered to Eurystheus,
+After the golden apples had been tendered to Eurystheus,
 there remained only one of the twelve tasks that Pythia had
 ordered for Hercules.  But Eurystheus, since he greatly feared
 Hercules, wanted to send him to some place that he'd never be
@@ -37,4 +24,3 @@ of monster, who had three heads that were surrounded by savage
 snakes.  Still, before we tell of this labor, it would not be
 amiss, because we have mentioned the Underworld, to relate a bit
 about that region.
-END
