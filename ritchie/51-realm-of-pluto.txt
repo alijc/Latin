@@ -13,20 +13,7 @@ Campōs Elysiōs, sēdem beātōrum, veniēbant; improbī autem in
 Tartarum mittēbantur ac multīs et variīs suppliciīs ibi
 excruciābantur.
 
- Ut autem manes Stygem hoc modo transierant, ad alterum veniebant
- flumen, quod Lethe appellabatur. Ex hoc flumine aquam bibere
- cogebantur; quod cum fecissent, res omnis in vita gestas e memoria
- deponebant. Denique ad sedem ipsius Plutonis veniebant, cuius
- introitus a cane Cerbero custodiebatur. Ibi Pluto nigro vestitu
- indutus cum uxore Proserpina in solio sedebat. Stabant etiam non
- procul ab eo loco tria alia solia, in quibus sedebant Minos,
- Rhadamanthus, Aeacusque, iudices apud inferos. Hi mortuis ius
- dicebant et praemia poenasque constituebant. Boni enim in Campos
- Elysios, sedem beatorum, veniebant; improbi autem in Tartarum
- mittebantur ac multis et variis suppliciis ibi excruciabantur.
-
-START
-AJC But when the shades had crossed the Styx in this way, they came to
+But when the shades had crossed the Styx in this way, they came to
 another river, which was called the Lethe.  They were forced to drink
 water from this river; because after they had done so, they would put aside
 from their memory everything that they had borne in their lives.
@@ -34,9 +21,9 @@ Finally, they came to the abode of Pluto himself, the entrance of
 which was guarded by the dog Cereberus.  There Pluto, dressed in a
 black garment, sat on his throne with his wife Proserpina.  Three
 other thrones also stood not far from that place, on which sat Minos,
-Rhadamanthus, and Aeacus, the judges of Hell.  These would pronounce
+Rhadamanthus, and Aeacus, the judges of the dead.  These would pronounce
 the law to the dead and ordain their rewards and punishments.  For
 the good would go to the Elysian Fields, a habitation of blessings;
 but the wicked were sent to Tartarus and were tormented with many
 various tortures there.
-END
+
