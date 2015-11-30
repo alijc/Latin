@@ -14,22 +14,7 @@ scapha sua tantō pondere onerāta in mediō flūmine mergerētur.
 Tandem tamen, minīs Herculis territus, Charōn scapham solvit, et
 eum incolumem ad ulteriōrem rīpam perdūxit.
 
- Hercules postquam imperia Eurysthei accepit, in Laconiam ad
- Taenarum statim se contulit; ibi enim spelunca erat ingenti
- magnitudine, per quam, ut tradebatur, homines ad Orcum
- descendebant. Eo cum venisset, ex incolis quaesivit quo in loco
- spelunca illa sita esset; quod cum cognovisset, sine mora
- descendere constituit. Nec tamen solus hoc iter faciebat,
- Mercurius enim et Minerva se ei socios adiunxerant. Ubi ad ripam
- Stygis venit, Hercules scapham Charontis conscendit, ut ad
- ulteriorem ripam transiret. Cum tamen Hercules vir esset ingenti
- magnitudine corporis, Charon solvere nolebat; magnopere enim
- verebatur ne scapha sua tanto pondere onerata in medio flumine
- mergeretur. Tandem tamen minis Herculis territus Charon scapham
- solvit, et eum incolumem ad ulteriorem ripam perduxit.
-
-START
-AJC Hercules, after he had accepted the commands of Eurystheus, betook
+Hercules, after he had accepted the commands of Eurystheus, betook
 himself at once to Taenarus in Laconia; for that was where the huge
 cave was, through which, as it is related, men used to descend into
 the Underworld.  When he had gotten there, he inquired of the
@@ -40,7 +25,6 @@ attached themselves to him as allies.  When he came to the bank of
 the Styx, Hercules climbed into Charon's boat, in order to cross to
 the far bank.  But since Hercules was an enormous man, Charon
 didn't want to cast off; for he dreaded that his boat, laden with 
-so much weight, would sink in the middle of the river.  But finally,
+so much weight, would capsize in the middle of the river.  But finally,
 frightened by Hercules' threats, Charon launched his boat, and
-conducted him unharmed to the far shore.
-END
+conducted him safely to the far shore.
