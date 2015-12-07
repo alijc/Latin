@@ -15,27 +15,11 @@ contrā omnium opīniōnem duodecim illī labōrēs quōs Pythia praecēperat
 intrā duodecim annōs confectī sunt; quae cum ita essent, Herculēs
 servitūte tandem liberātus magnō cum gaudiō Thēbās rediit.
 
- Postquam flumen Stygem hoc modo transiit, Hercules in sedem ipsius
- Plutonis venit; et postquam causam veniendi docuit, ab eo petivit ut
- Cerberum auferre sibi liceret. Pluto, qui de Hercule famam acceperat,
- eum benigne excepit, et facultatem quam ille petebat libenter
- dedit. Postulavit tamen ut Hercules ipse, cum imperata Eurysthei
- fecisset, Cerberum in Orcum rursus reduceret. Hercules hoc pollicitus
- est, et Cerberum, quem non sine magno periculo manibus prehenderat,
- summo cum labore ex Orco in lucem et ad urbem Eurysthei traxit. Eo cum
- venisset, tantus timor animum Eurysthei occupavit ut ex atrio statim
- refugerit; cum autem paulum se ex timore recepisset, multis cum
- lacrimis obsecravit Herculem ut monstrum sine mora in Orcum
- reduceret. Sic contra omnium opinionem duodecim illi labores quos
- Pythia praeceperat intra duodecim annos confecti sunt; quae cum ita
- essent, Hercules servitute tandem liberatus magno cum gaudio Thebas
- rediit.
 
-START
-AJC After he'd crossed the River Styx in this way, Hercules came to
-the throne of Pluto himself; and after informing him of why he
-had come, he asked that he might be allowed to carry Cerberus
-away.  Pluto, who had heard of Hercules' reputation, welcomed him
+After he'd crossed the River Styx in this way, Hercules came to
+the abode of Pluto himself; and after informing him of why he had
+come, he asked that he might be allowed to carry Cerberus away.
+Pluto, who had heard of Hercules' reputation, welcomed him
 kindly, and freely gave him the opportunity that he was asking
 for.  Nevertheless he asked that, after Hercules had accomplished
 the commands of Eurystheus, he would bring Cerberus back to the
@@ -48,6 +32,6 @@ bolted from his atrium; but after he'd recovered a bit from this
 terror, he implored Hercules, with many tears, to immediately
 return the monster to the Underworld. So against all
 expectations, the twelve labors that Pythia had ordered were
-completed within twelve years.  And Hercules, liberated from
-servitude, returned to Thebes with great joy.
-END
+completed within twelve years.  And with that being the case,
+Hercules, liberated from servitude, returned to Thebes with great
+joy.
