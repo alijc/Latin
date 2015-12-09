@@ -18,19 +18,22 @@ pernici aureolum fuisse malum,
 quod zonam soluit diu ligatam. 
 
 
+START
+AJC
 II The lament for Lesbia's sparrow
 
-O sparrow, my sweetheart's pet,
-with whom she's wont to play, and hold in her breast,
+O sparrow, my dear sweetheart's pet,
+with whom she's wont to play, hold in her breast,
 and to whom she gives her forefinger
 and spurs sharp pecks,
 when it pleases her, radiant with my desire,
 to jest I know not what dear thing
-and some small comfort of her grief,
-I trust that painful love might rest:
+and some small comfort for her grief,
+I trust her painful love might rest:
 if only I, like her, could play with you 
 and comfort the sad worries of my soul.
 
-What girls bring is so pleasing to me,
+It is as pleasing to me, as they say, as
 the golden apple was for the swift maid,
 that loosened her long-fastened belt.
+END
