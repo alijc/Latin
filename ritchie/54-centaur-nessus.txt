@@ -1,0 +1,47 @@
+54. THE CENTAUR NESSUS
+
+Posteā Herculēs multa alia praeclara perfēcit, quae nunc perscribere
+longum est. Tandem iam aetāte prōvectus Dēianīram, Oeneī fīliam, in
+matrimōnium dūxit; post tamen trēs annōs accidit ut puerum quendam,
+cui nōmen erat Eunomus, cāsū occīderit. Cum autem mōs esset, ut sī quis
+hominem cāsū occīdisset, in exsilium īret, Herculēs cum uxōre sua ē
+fīnibus eius civitātis exīre matūrāvit. Dum tamen iter faciunt, ad flūmen
+quoddam pervēnērunt in quō nūllus pōns erat; et dum quaerunt quōnam
+modō flūmen trānseant, accurrit centaurus Nessus, quī viātōribus
+auxilium obtulit. Herculēs igitur uxōrem suam in tergum Nessī impōsuit;
+tum ipse flūmen trānāvit. Nessus autem paulum in aquam prōgressus ad
+rīpam subitō revertēbātur et Deīanīram auferre conābātur. Quod cum
+animadvertisset Herculēs, ira graviter commōtus arcum intendit et pectus
+Nessī sagittā trānsfīxit.
+
+ Postea Hercules multa alia praeclara perfecit, quae nunc perscribere
+ longum est. Tandem iam aetate provectus Deianiram, Oenei filiam, in
+ matrimonium duxit; post tamen tris annos accidit ut puerum quendam,
+ cui nomen erat Eunomus, casu occiderit. Cum autem mos esset ut si quis
+ hominem casu occidisset, in exsilium iret, Hercules cum uxore sua e
+ finibus eius civitatis exire maturavit. Dum tamen iter faciunt, ad
+ flumen quoddam pervenerunt in quo nullus pons erat; et dum quaerunt
+ quonam modo flumen transeant, accurrit centaurus Nessus, qui
+ viatoribus auxilium obtulit. Hercules igitur uxorem suam in tergum
+ Nessi imposuit; tum ipse flumen tranavit. Nessus autem paulum in aquam
+ progressus ad ripam subito revertebatur et Deianiram auferre
+ conabatur. Quod cum animadvertisset Hercules, ira graviter commotus
+ arcum intendit et pectus Nessi sagitta transfixit.
+
+START
+AJC Afterwards Hercules accomplished many other famous deeds, which would
+be tedious to write out in full now.  Finally, after he had grown old
+he married Deianira, the daughter of Oeneus.  Yet after three years it
+happened that he accidentally killed a certain boy, whose name was
+Eunomus.  Now since it was the custom that if anyone had killed a man
+by accident he should go into exile, Hercules and his wife hastened to
+leave the territory of their state.  But while they were making the
+journey, they arrived at a certain river that didn't have a bridge over
+it; and while they searched for some way to cross the river, the
+centaur Nessus rushed up and offered his aid to the travelers.  And so
+Hercules set his wife on Nessus' back; and then he himself swam across
+the river. But after advancing a little way into the water Nessus
+suddenly returned to the shore and attempted to carry Deianira off.
+When Hercules observed this he was deeply provoked with rage.  He bent
+his bow and pierced Nessus' breast with an arrow.
+END
