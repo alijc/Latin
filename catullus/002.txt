@@ -18,8 +18,6 @@ pernici aureolum fuisse malum,
 quod zonam soluit diu ligatam. 
 
 
-START
-AJC
 II The lament for Lesbia's sparrow
 
 O sparrow, my dear sweetheart's pet,
@@ -36,4 +34,3 @@ and comfort the sad worries of my soul.
 It is as pleasing to me, as they say, as
 the golden apple was for the swift maid,
 that loosened her long-fastened belt.
-END
