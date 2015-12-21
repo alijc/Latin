@@ -16,24 +16,6 @@ apud antīquōs, dum sacrificia facerent, albam vestem gerere. At Deīanīra
 verita nē Herculēs amōrem ergā Iolēn habēret, vestem priusquam Lichae
 dedit, sanguine Nessī infēcit.
 
- Nessus igitur sagitta Herculis transfixus moriens humi iacebat; at ne
- occasionem sui ulciscendi dimitteret, ita locutus est: "Tu, Deianira,
- verba morientis audi. Si amorem mariti tui conservare vis, hunc
- sanguinem qui nunc e pectore meo effunditur sume ac repone; tum, si
- umquam in suspicionem tibi venerit, vestem mariti hoc sanguine
- inficies." Haec locutus Nessus animam efflavit; Deianira autem nihil
- mali suspicata imperata fecit. Paulo post Hercules bellum contra
- Eurytum, regem Oechaliae, suscepit; et cum regem ipsum cum filiis
- interfecisset, Iolen eius filiam captivam secum reduxit. Antequam tamen
- domum venit, navem ad Cenaeum promunturium appulit, et in terram
- egressus aram constituit, ut Iovi sacrificaret. Dum tamen sacrificium
- parat, Licham comitem suum domum misit, qui vestem albam referret; mos
- enim erat apud antiquos, dum sacrificia facerent, albam vestem
- gerere. At Deianira verita ne Hercules amorem erga Iolen haberet,
- vestem priusquam Lichae dedit, sanguine Nessi infecit.
-
-START
-AJC
 And so Nessus, pierced by Hercules' arrow, lay dying on the ground.  But
 rather than give up his chance for vengeance, he spoke thus: "You,
 Deianira, hear the words of a dying man.  If you wish to preserve the
@@ -43,7 +25,7 @@ your husband's garment in this blood."  As soon as he said this Nessus
 breathed his last.  But Deianira, suspecting no ill, performed his
 commands.  A little later, Hercules undertook a war against Eurytus, the
 king of Oechalia; and after he had killed that king, along with his
-sons, he brought his daughter Iole back as a captive.  But before he
+sons, he brought his daughter Iole back with him as a captive.  But before he
 came home, he put the ship ashore at the Cenaeum headland, and,
 embarking onto the land, erected an altar to sacrifice to Jupiter.  But
 while he was preparing the sacrifice, he sent his companion Lichas to
@@ -51,4 +33,3 @@ his house to fetch his white cloak; for it was the custom among the
 ancients to wear white while they made sacrifices.  But Deianira,
 fearing that Hercules felt love torwards Iole, gave Lichas a cloak that
 she had already stained with Nessus' blood.
-END
