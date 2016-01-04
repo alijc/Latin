@@ -14,8 +14,7 @@ comata silva; nam Cytorio in iugo
 loquente saepe sibilum edidit coma.
 
 START
-AJC
-IV. The cutter
+AJC IV. The cutter
 
 That cutter that you see, my guests,
 says that she was the swiftest of ships,
@@ -28,8 +27,7 @@ both the noble Rhodes and frightful Thrace
 the Propontis or savage Pontic bay,
 what later was a cutter was before
 a leafy forest; for on Cytorius' ridge,
-often rustling, she puts forth leaves.
-
+often rustling, she did put forth leaves.
 END
 
 
