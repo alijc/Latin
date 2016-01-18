@@ -41,10 +41,6 @@ the Propontis or savage Pontic bay,
 what later was a cutter was before
 a leafy forest; for on Cytorius' ridge,
 often rustling, she did put forth leaves.
-
-START
-AJC 
-
 O Pontic Amastris and Cytorus, bearing boxwood,
 the cutter says that this was and is well-known to you:
 far from her birth
@@ -57,7 +53,5 @@ a fair Jovian wind did fill the sails;
 nor were any vows made by her to the seaside gods, 
 when she came from the farthest sea up to the clear lake.
 But that's as she was before: now laid away,
-she  quietly grows old and gives herself to you,
+she quietly grows old and gives herself to you,
 the twin-born Castor and Castor's twin.
-
-END
