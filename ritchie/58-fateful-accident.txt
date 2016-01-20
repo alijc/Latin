@@ -1,0 +1,47 @@
+58. A FATEFUL ACCIDENT
+
+Post breve tempus Peliās, veritus nē regnum suum tantā vī et
+fraude occupātum āmitteret, amīcum quendam Delphōs mīsit, quī
+ōrāculum cōnsuleret. Ille igitur quam celerrimē Delphōs sē contulit
+et quam ob causam vēnisset demōnstrāvit. Respondit ōrāculum
+nūllum esse in praesentiā perīculum; monuit tamen Peliam ut sī
+quis ūnum calceum gerens venīret, eum cavēret. Post paucīs annīs
+accidit ut Peliās magnum sacrificium factūrus esset; nuntiōs in
+omnēs partēs dīmīserat et certam diem conveniendī dīxerat. Diē
+constitūtā magnus hominum numerus undique ex agrīs convēnit; in
+hīs autem vēnit etiam Iāson, quī ā pueritiā apud centaurum
+quendam habitāverat. Dum tamen iter facit, ūnum ē calceīs in
+trānseundō nesciō quō flūmine āmīsit.
+
+ Post breve tempus Pelias, veritus ne regnum suum tanta vi et
+ fraude occupatum amitteret, amicum quendam Delphos misit, qui
+ oraculum consuleret. Ille igitur quam celerrime Delphos se
+ contulit et quam ob causam venisset demonstravit. Respondit
+ oraculum nullum esse in praesentia periculum; monuit tamen Peliam
+ ut si quis unum calceum gerens veniret, eum caveret. Post paucis
+ annis accidit ut Pelias magnum sacrificium facturus esset; nuntios
+ in omnis partis dimiserat et certam diem conveniendi dixerat. Die
+ constituta magnus hominum numerus undique ex agris convenit; in
+ his autem venit etiam Iason, qui a pueritia apud centaurum quendam
+ habitaverat. Dum tamen iter facit, unum e calceis in transeundo
+ nescio quo flumine amisit.
+
+START
+AJC
+
+A little while later, Pelias, fearful that he might lose the
+kingdom that he had seized through such force and deceit, sent one
+of his friends to Delphi to consult the oracle.  And so this friend
+betook himself to Delphi as quickly as possible and explained the
+reason that he had come.  The oracle replied that there was no
+danger at present; however it warned Pelias that if anyone arrived
+wearing a single shoe, then he should be wary of him.  After a few
+years it came about that Pelias was going to make a great
+sacrifice, and had sent messengers out to all directions and had
+named a fixed day for people to assemble.  On the appointed day a
+great many people assembled from all parts of the country; and
+among these was also Jason, who had been living with a certain
+centaur.  But when he was making the journey, he lost one of his
+shoes while crossing some river.
+
+END
