@@ -13,30 +13,15 @@ trānsportandam nāvis paulō erat lātior quam quibus in nostrō marī
 ūtī consuēvimus, et ad vim tempestātum perferendam tōta ē rōbore
 facta est.
 
- Cum tamen Colchis multorum dierum iter ab eo loco abesset, solus
- Iason proficisci noluit. Dimisit igitur nuntios in omnis partis,
- qui causam itineris docerent et diem certam conveniendi
- dicerent. Interea, postquam omnia quae sunt usui ad armandas navis
- comportari iussit, negotium dedit Argo cuidam, qui summam scientiam
- nauticarum rerum habebat, ut navem aedificaret. In his rebus
- circiter decem dies consumpti sunt; Argus enim, qui operi praeerat,
- tantam diligentiam adhibebat ut ne nocturnum quidem tempus ad
- laborem intermitteret. Ad multitudinem hominum transportandam navis
- paulo erat latior quam quibus in nostro mari uti consuevimus, et ad
- vim tempestatum perferendam tota e robore facta est.
-
-START
-AJC
-However, since Colchis was a journey of many days away from that
-place, Jason was unwilling to set out alone. And so he sent
-messengers in every direction, to explain the reason for the journey
-and to fix a day for assembling.  In the meantime, after he'd
-ordered everything useful for arming ships to be amassed, he
-gave a task to a certain Argus, who had the most knowledge of
-nautical matters, to build a ship.  About ten days were spent in
-these matters; for Argus, who led the work, employed such great
-industry that not even night interrupted the effort.  Built for
-transporting a host of men, the ship was a little broader than the
-ones that we are accustomed to see in our sea, and was built of oak
-to withstand the force of storms.
-END
+However, since Colchis was a journey of many days away from there,
+Jason didn't want to set out alone. And so he sent messengers in
+every direction, to explain the reason for the journey and to fix a
+day for assembling.  In the meantime, after he'd ordered everything
+useful for arming ships to be amassed, he gave a task of building a
+ship to a certain Argus, who had the most knowledge of nautical
+matters.  About ten days were spent in these matters; for Argus, who
+led the work, employed such great industry that not even night
+interrupted the effort.  Built for transporting a host of men, the
+ship was a little broader than the ones that we are accustomed to
+see in our sea, and was built of oak to withstand the force of
+storms.
