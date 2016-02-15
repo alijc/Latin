@@ -12,24 +12,9 @@ diēs commorātus, ut ad omnēs cāsūs subsidia comparāret, nāvem
 dēdūxit, et tempestātem ad nāvigandum idōneam nactus magnō
 cum plausū omnium solvit.
 
- Interea is dies appetebat quem Iason per nuntios edixerat, et ex
- omnibus regionibus Graeciae multi, quos aut rei novitas aut spes
- gloriae movebat, undique conveniebant. Traditum est autem in hoc
- numero fuisse Herculem, de quo supra multa perscripsimus, Orpheum,
- citharoedum praeclarissimum, Theseum, Castorem, multosque alios
- quorum nomina sunt notissima. Ex his Iason quos arbitratus est ad
- omnia pericula subeunda paratissimos esse, eos ad numerum
- quinquaginta delegit et socios sibi adiunxit; tum paucos dies
- commoratus, ut ad omnis casus subsidia compararet, navem deduxit,
- et tempestatem ad navigandum idoneam nactus magno cum plausu omnium
- solvit.
-
-START
-AJC
-
 In the meantime, the day that Jason had proclaimed drew near, and
 from every part of Greece many men, stirred by either the novelty of
-the affair or by their hope for glory, assembled from every side.
+the affair or by their hope for glory, assembled from every direction.
 Now it has been related that among this number was Hercules, of whom
 we have already written much, Orpheus, the most famous singer,
 Theseus, Castor, and many others whose names are very well known.
@@ -39,4 +24,3 @@ remaining a few more days to set up emergency plans for every
 contingency, he launched the ship, and after getting a fair wind
 for sailing, set sail with the great applause of every man.
 
-END
