@@ -1,0 +1,50 @@
+62. A FATAL MISTAKE
+
+Haud multō post Argonautae (ita enim appellābantur quī in istā nāvī
+vehēbantur) īnsulam quandam, nōmine Cyzicum, attigērunt; et ē nāvī
+ēgressī ā rēge illīus regiōnis hospitiō exceptī sunt. Paucās
+hōrās ibi commorātī ad sōlis occāsum rursus solvērunt; sed postquam
+pauca mīlia passuum progressī sunt, tanta tempestās subitō coörta est ut
+cursum tenēre nōn possent, et in eandem partem īnsulae unde nuper
+profectī erant magnō cum perīculō dēicerentur. Incolae tamen, cum nox
+esset obscūra, Argonautās nōn agnōscēbant, et nāvem inimīcam vēnisse
+arbitrātī arma rapuērunt et eōs ēgredī prohibēbant. Ācriter in lītore
+pugnātum est, et rēx ipse, quī cum aliīs dēcucurrerat, ab Argonautīs
+occīsus est. Mox tamen, cum iam dīlucēsceret, sēnsērunt incolae sē errāre
+et arma abiēcērunt; Argonautae autem cum rēgem occīsum esse vīdērent,
+magnum dolōrem percēpērunt.
+
+ Haud multo post Argonautae (ita enim appellabantur qui in ista navi
+ vehebantur) insulam quandam, nomine Cyzicum, attigerunt; et e navi
+ egressi a rege illius regionis hospitio excepti sunt. Paucas horas ibi
+ commorati ad solis occasum rursus solverunt; sed postquam pauca milia
+ passuum progressi sunt, tanta tempestas subito coorta est ut cursum
+ tenere non possent, et in eandem partem insulae unde nuper profecti
+ erant magno cum periculo deicerentur. Incolae tamen, cum nox esset
+ obscura, Argonautas non agnoscebant, et navem inimicam venisse arbitrati
+ arma rapuerunt et eos egredi prohibebant. Acriter in litore pugnatum
+ est, et rex ipse, qui cum aliis decucurrerat, ab Argonautis occisus
+ est. Mox tamen, cum iam dilucesceret, senserunt incolae se errare et
+ arma abiecerunt; Argonautae autem cum regem occisum esse viderent,
+ magnum dolorem perceperunt.
+
+START
+AJC
+
+Not much later the Argonauts (for this was what the men who sailed in
+that ship were called) reached the island of Cyzicus; and after they had
+disembarked they were welcomed and entertained by the king of that
+region.  They lingered there for a few hours and then set sail again at
+sunset; but after they had gone a few miles, such a great storm suddenly
+rose up that they could not hold to their course, and they were driven,
+with great peril, onto the same part of the island that they had just
+left. But the inhabitants didn't recognize the Argonauts, because the
+night was dark, and, having decided that an enemy ship had arrived,
+snatched up their weapons to keep them from disembarking.  They fought
+fiercely on the shore, and the king himself ran down to the shore with
+the others, and was cut down by the Argonauts.  But soon, when it grew
+light, the inhabitants realized that they'd made a mistake and threw
+their weapons aside; but when the Argonauts saw that the king had been
+killed, they fell into a deep grief.
+
+END
