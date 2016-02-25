@@ -14,22 +14,6 @@ occīsus est. Mox tamen, cum iam dīlucēsceret, sēnsērunt incolae sē errāre
 et arma abiēcērunt; Argonautae autem cum rēgem occīsum esse vīdērent,
 magnum dolōrem percēpērunt.
 
- Haud multo post Argonautae (ita enim appellabantur qui in ista navi
- vehebantur) insulam quandam, nomine Cyzicum, attigerunt; et e navi
- egressi a rege illius regionis hospitio excepti sunt. Paucas horas ibi
- commorati ad solis occasum rursus solverunt; sed postquam pauca milia
- passuum progressi sunt, tanta tempestas subito coorta est ut cursum
- tenere non possent, et in eandem partem insulae unde nuper profecti
- erant magno cum periculo deicerentur. Incolae tamen, cum nox esset
- obscura, Argonautas non agnoscebant, et navem inimicam venisse arbitrati
- arma rapuerunt et eos egredi prohibebant. Acriter in litore pugnatum
- est, et rex ipse, qui cum aliis decucurrerat, ab Argonautis occisus
- est. Mox tamen, cum iam dilucesceret, senserunt incolae se errare et
- arma abiecerunt; Argonautae autem cum regem occisum esse viderent,
- magnum dolorem perceperunt.
-
-START
-AJC
 
 Not much later the Argonauts (for this was what the men who sailed in
 that ship were called) reached the island of Cyzicus; and after they had
@@ -46,5 +30,3 @@ the others, and was cut down by the Argonauts.  But soon, when it grew
 light, the inhabitants realized that they'd made a mistake and threw
 their weapons aside; but when the Argonauts saw that the king had been
 killed, they fell into a deep grief.
-
-END
