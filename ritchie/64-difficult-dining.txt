@@ -1,0 +1,45 @@
+64. DIFFICULT DINING
+
+Post haec Argonautae ad Thrāciam cursum tenuērunt, et postquam
+ad oppidum Salmydessum nāvem appulērunt, in terram ēgressī
+sunt. Ibi cum ab incolīs quaesissent quis regnum eius regiōnis
+obtinēret, certiōrēs factī sunt Phineum quendam tum rēgem esse.
+Cognōvērunt etiam hunc caecum esse et dīrō quōdam suppliciō
+afficī, quod ōlim sē crudelissimum in fīliōs suōs praebuisset. Cuius
+supplicī hoc erat genus: missa erant ā Iove mōnstra quaedam speciē
+horribilī, quae capita virginum, corpora volucrum habēbant. Hae
+volucrēs, quae Harpyiae appellābantur, Phineō summam molestiam
+adferēbant; quotiēns enim ille accubuerat, veniēbant et cibum
+appositum statim auferēbant. Quō factum est ut haud multum
+abesset quīn Phineus famē morerētur.
+
+ Post haec Argonautae ad Thraciam cursum tenuerunt, et postquam ad
+ oppidum Salmydessum navem appulerunt, in terram egressi sunt. Ibi
+ cum ab incolis quaesissent quis regnum eius regionis obtineret,
+ certiores facti sunt Phineum quendam tum regem esse. Cognoverunt
+ etiam hunc caecum esse et diro quodam supplicio adfici, quod olim
+ se crudelissimum in filios suos praebuisset. Cuius supplici hoc
+ erat genus. Missa erant a Iove monstra quaedam specie horribili,
+ quae capita virginum, corpora volucrum habebant. Hae volucres, quae
+ Harpyiae appellabantur, Phineo summam molestiam adferebant;
+ quotiens enim ille accubuerat, veniebant et cibum appositum statim
+ auferebant. Quo factum est ut haud multum abesset quin Phineus fame
+ moreretur.
+
+START
+AJC
+
+After this the Argonauts held their course for Thrace, and
+disembarked after they had put ashore at the town of Salmydessus.
+There, after they'd asked the inhabitants who held control of their
+country, they were informed that a certain Phineus was king
+there. They also learned that he was blind and afflicted with 
+a fearful punishment, because he had once shown himself to be
+most cruel to his sons.  This was the manner of his punishment:
+Jupiter had sent some monsters of a horrible sort, who had the heads
+of maidens and the bodies of birds.  These birds, which were called
+Harpies, brought great distress to Phineus; for whenever he sat down
+to eat, they would come and immediately snatch away the food placed
+before him.  And due to this Phineus was on the verge of starvation.
+
+END
