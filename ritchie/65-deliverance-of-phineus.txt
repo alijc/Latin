@@ -15,32 +15,14 @@ Calais, quī alīs erant instructī, in āëra sē sublevāvērunt, ut dēsuper
 impetum facerent. Quod cum sēnsissent Harpyiae, reī novitāte perterritae
 statim aufūgērunt, neque posteā umquam rediērunt.
 
- Res igitur male se habebat cum Argonautae navem appulerunt. Phineus
- autem simul atque audivit eos in suos finis egressos esse, magnopere
- gavisus est. Sciebat enim quantam opinionem virtutis Argonautae
- haberent, nec dubitabat quin sibi auxilium ferrent. Nuntium igitur ad
- navem misit, qui Iasonem sociosque ad regiam vocaret. Eo cum venissent,
- Phineus demonstravit quanto in periculo suae res essent, et promisit se
- magna praemia daturum esse, si illi remedium repperissent. Argonautae
- negotium libenter susceperunt, et ubi hora venit, cum rege accubuerunt;
- at simul ac cena apposita est, Harpyiae cenaculum intraverunt et cibum
- auferre conabantur. Argonautae primum gladiis volucres petierunt; cum
- tamen viderent hoc nihil prodesse, Zetes et Calais, qui alis erant
- instructi, in aera se sublevaverunt, ut desuper impetum facerent. Quod
- cum sensissent Harpyiae, rei novitate perterritae statim aufugerunt,
- neque postea umquam redierunt.
-
-START
-AJC
-
-And so the business was going badly when the Argonauts put ashore.  But
+And so things were going badly when the Argonauts put ashore.  But
 as soon as Phineus heard that they had landed in his country he was
-overjoyed. For he knew how great was the reputation of the strength that
+overjoyed. For he knew how great a reputation of the strength that
 the Argonauts had, and had no doubts that they would be able to render
 him aid.  And so he sent a messenger to the ship, to summon Jason and
-his companions to the king.  When he had come, Phineus showed him how
+his companions to court.  When they had come, Phineus showed them how
 great was the danger that matters stood in, and promised to bestow a
-vast reward on them, if they could figure out a remedy.  The Argonauts
+vast reward on them if they could figure out a remedy.  The Argonauts
 gladly undertook the task, and when the hour arrived, sat down to eat
 with the king.  But as soon as the dinner was served, The Harpies
 entered the dining hall and attempted to carry off the food.  The
@@ -49,5 +31,3 @@ that didn't do anything, Zetes and Calais, who were equipped with wings,
 launched themselves into the air to attack from above.  When the Harpies
 realized this, they fled at once, terrified by this strange thing, and
 never again returned.
-
-END
