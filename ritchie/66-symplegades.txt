@@ -17,27 +17,7 @@ Hōc factō dīs grātiās maximās ēgerunt, quōrum auxiliō ē tantō perīcu
 ereptī essent; omnēs enim sciēbant nōn sine auxiliō deōrum rem tam
 fēlīciter ēvēnisse.
 
- Hoc facto Phineus, ut pro tanto beneficio meritam gratiam referret,
- Iasoni demonstravit qua ratione Symplegades vitare posset. Symplegades
- autem duae erant rupes ingenti magnitudine, quae a Iove positae erant
- eo consilio, ne quis ad Colchida perveniret. Hae parvo intervallo in
- mari natabant, et si quid in medium spatium venerat, incredibili
- celeritate concurrebant. Postquam igitur a Phineo doctus est quid
- faciendum esset, Iason sublatis ancoris navem solvit, et leni vento
- provectus mox ad Symplegades appropinquavit. Tum in prora stans
- columbam quam in manu tenebat emisit. Illa recta via per medium spatium
- volavit, et priusquam rupes conflixerunt, incolumis evasit cauda tantum
- amissa. Tum rupes utrimque discesserunt; antequam tamen rursus
- concurrerent, Argonautae, bene intellegentes omnem spem salutis in
- celeritate positam esse, summa vi remis contenderunt et navem incolumem
- perduxerunt. Hoc facto dis gratias maximas egerunt, quorum auxilio e
- tanto periculo erepti essent; omnes enim sciebant non sine auxilio
- deorum rem tam feliciter evenisse.
-
-START
-AJC
-
-After this was done Phineus, in order to repay the gratitude deserved
+After this was done Phineus, in order to show the gratitude deserved
 for such a great kindness, revealed to Jason a plan by which he might
 evade the Symplegades.  Now the two Symplegades were rocks of an
 enormous size, which had been placed by Jupiter so that no one could
@@ -55,5 +35,3 @@ unscathed.  After accomplishing this they gave loud thanks to the gods,
 by whose help they had been rescued from such peril; for everyone knew
 that the business would not have come out so well without the gods'
 help. 
-
-END
