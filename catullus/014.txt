@@ -12,22 +12,23 @@ munus dat tibi Sulla litterator,
 non est mi male, sed bene ac beate,
 quod non dispereunt tui labores.
 
-
-START
-AJC
-
 XIV. to the poet Calvus
 
 If I didn't love you more than my own eyes,
 most agreeable Calvus, on account of that gift of yours
 I would hate you as much as Vatinius does:
 for what have I done, or what have I said,
-why have you destroyed me so shamefully with poets?
+that you have destroyed me so shamefully with poets?
 May your gods bestow much harm on your client,
-who hurls so many scroundrels at you.
+who sent to you so many scroundrels.
 But if, as I suspect, this fresh and newly discovered 
 gift was bestowed on you by the schoolmaster Sulla, 
-is to me not ill, but right and happy,
+it is not ill to me, but well and fortunate,
 because your labors are not lost.
+
+
+
+START
+AJC
 
 END
