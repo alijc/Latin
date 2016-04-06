@@ -13,22 +13,6 @@ Iason etsī paene omnibus hominibus magnitūdine et vīribus corporis
 antecellēbat (vīta enim omnis in venātiōnibus atque in studiō reī militāris
 cōnsumēbatur), tamen hoc cōnsilium nōn neglegendum esse censēbat.
 
- Medea, regis filia, Iasonem adamavit, et ubi audivit eum tantum periculum
- subiturum esse, rem aegre ferebat. Intellegebat enim patrem suum hunc
- laborem proposuisse eo ipso consilio, ut Iason moreretur. Quae cum ita
- essent, Medea, quae summam scientiam medicinae habebat, hoc consilium
- iniit. Media nocte insciente patre ex urbe evasit, et postquam in montis
- finitimos venit, herbas quasdam carpsit; tum suco expresso unguentum
- paravit quod vi sua corpus aleret nervosque confirmaret. Hoc facto Iasoni
- unguentum dedit; praecepit autem ut eo die quo isti labores conficiendi
- essent corpus suum et arma mane oblineret. Iason etsi paene omnibus
- hominibus magnitudine et viribus corporis antecellebat (vita enim omnis in
- venationibus atque in studio rei militaris consumebatur), tamen hoc
- consilium non neglegendum esse censebat.
-
-START
-AJC
-
 Medea, the king's daughter fell in love with Jason and bore it ill when
 she heard that he was about to be placed in such peril.  For she
 understood that her father had proposed this labor in order for Jason to
@@ -39,9 +23,7 @@ mountains, picked certain herbs.  Then she squeezed out the sap and
 prepared an ointment that by its own power would nourish the body and
 support the sinews.  When she'd finished this she gave the ointment to
 Jason; and she warned him that he should smear it on his body and weapons
-the morning after those labors were completed.  Although Jason excelled
+on the morning that those labors were to be done.  Even though Jason excelled
 nearly every other man in the size and strength of his body (for his whole
 life was spent in the chase and in military affairs), nonetheless he
 reckoned that this advice should not be ignored.
-
-END
