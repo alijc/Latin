@@ -13,22 +13,6 @@ quō ubi accēpit, in agrum quem arāverat magnā cum dīligentiā
 sparsit. Hōrum autem dentium natūra erat tālis ut in eō locō ubi
 sēmentēs factae essent virī armātī mīrō quōdam modō gīgnerentur.
 
- Ubi is dies venit quem rex ad arandum agrum edixerat, Iason orta luce
- cum sociis ad locum constitutum se contulit. Ibi stabulum ingens
- repperit, in quo tauri erant inclusi; tum portis apertis tauros in
- lucem traxit, et summa cum difficultate iugum imposuit. At Aeetes cum
- videret tauros nihil contra Iasonem valere, magnopere miratus est;
- nesciebat enim filiam suam auxilium ei dedisse. Tum Iason omnibus
- aspicientibus agrum arare coepit, qua in re tantam diligentiam
- praebuit ut ante meridiem totum opus confecerit. Hoc facto ad locum
- ubi rex sedebat adiit et dentis draconis postulavit; quos ubi
- accepit, in agrum quem araverat magna cum diligentia sparsit. Horum
- autem dentium natura erat talis ut in eo loco ubi sementes factae
- essent viri armati miro quodam modo gignerentur.
-
-START
-AJC
-
 At daybreak on the day that the king had proclaimed for plowing the
 field, Jason and his companions gathered at the appointed place. There
 he discovered a huge stable that the bulls were shut up in.  Then he
@@ -43,5 +27,3 @@ demanded the dragon's teeth; when he got them, he scattered them onto
 the field that he had plowed with great industry.  Now the nature of
 these teeth was such that wherever they were planted armed men would
 spring forth in some miraculous way.
-
-END
