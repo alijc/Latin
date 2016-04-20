@@ -11,6 +11,19 @@ quod si, ut suspicor, hoc novum ac repertum
 munus dat tibi Sulla litterator,
 non est mi male, sed bene ac beate,
 quod non dispereunt tui labores.
+di magni, horribilem et sacrum libellum!
+quem tu scilicet ad tuum Catullum
+misti, continuo ut die periret,
+Saturnalibus, optimo dierum!
+non non hoc tibi, false, sic abibit.
+nam si luxerit ad librariorum
+curram scrinia, Caesios, Aquinos,
+Suffenum, omnia colligam venena.
+ac te his suppliciis remunerabor.
+vos hinc interea valete abite
+illuc, unde malum pedem attulistis,
+saecli incommoda, pessimi poetae. 
+
 
 XIV. to the poet Calvus
 
@@ -26,23 +39,6 @@ gift was bestowed on you by the schoolmaster Sulla,
 I think it, not ill, but good and fortunate,
 because your labors are not lost.
 
-
-di magni, horribilem et sacrum libellum!
-quem tu scilicet ad tuum Catullum
-misti, continuo ut die periret,
-Saturnalibus, optimo dierum!
-non non hoc tibi, false, sic abibit.
-nam si luxerit ad librariorum
-curram scrinia, Caesios, Aquinos,
-Suffenum, omnia colligam venena.
-ac te his suppliciis remunerabor.
-vos hinc interea valete abite
-illuc, unde malum pedem attulistis,
-saecli incommoda, pessimi poetae. 
-
-START
-AJC
-
 Great gods! What an awful and accursed book!
 That you, naturally, sent to your Catullus,
 so that he might pass straight away 
@@ -57,16 +53,12 @@ And you all meanwhile, farewell, begone from here,
 to the place from which you brought your ugly feet,
 misfortunes to the age, the most wretched poets.
 
-XIVb.
-
-If perchance any of you will be readers of my follies
-and you will not dread to bring your hands near us,
-
-END
-
 
 XIVb.
 
 Si qui forte mearum ineptiarum
 lectores eritis manusque vestras
 non horrebitis admovere nobis,
+
+If perchance any of you will be readers of my follies
+and you will not dread to bring your hands near us,
