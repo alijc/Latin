@@ -17,25 +17,6 @@ exspectābat, venēnō sparsit; deinde, dum dracō somnō oppressus
 dormit, Iāsōn vellus aureum de arbore dēripuit et cum Mēdēā quam
 celerrimē pedem rettulit.
 
- Postridie eius diei Iason cum sociis suis orta luce navem deduxit,
- et tempestatem idoneam nacti ad eum locum remis contenderunt, quo
- in loco Medea vellus celatum esse demonstrabat. Cum eo venissent,
- Iason in terram egressus est, et sociis ad mare relictis, qui
- praesidio navi essent, ipse cum Medea in silvas se contulit. Pauca
- milia passuum per silvam progressus vellus quod quaerebat ex arbore
- suspensum vidit. Id tamen auferre erat summae difficultatis; non
- modo enim locus ipse egregie et natura et arte erat munitus, sed
- etiam draco quidam specie terribili arborem custodiebat. Tum Medea,
- quae, ut supra demonstravimus, medicinae summam scientiam habuit,
- ramum quem de arbore proxima deripuerat veneno infecit. Hoc facto
- ad locum appropinquavit, et draconem, qui faucibus apertis eius
- adventum exspectabat, veneno sparsit; deinde, dum draco somno
- oppressus dormit, Iason vellus aureum de arbore deripuit et cum
- Medea quam celerrime pedem rettulit.
-
-START
-AJC
-
 The next day, at sunrise, Jason and his companions launched the
 ship, and, finding a favorable wind, bent the oars to the place that
 Medea pointed out, where the fleece was hidden.  When they'd gotten
@@ -46,11 +27,9 @@ from a tree.  But it was very difficult to carry it off, for not
 only was the place well defended by means of both nature and craft,
 but a frightful sort of dragon also guarded the tree.  Then Medea,
 who, as we have already shown, had a great knowledge of the art of
-medicine, broke a branch off the tree and dipped it in poison.
+medicine, broke a branch off a nearby tree and dipped it in poison.
 After doing this she approached the tree and sprinkled poison on
 the dragon, which was awaiting her arrival with an open maw; then,
-when the dragon was overcome by sleep, Jason pulled the golden
+when the dragon slept overcome by drowsiness, Jason pulled the golden
 fleece down from the tree and retreated with Medea as quickly as
 they could.
-
-END
