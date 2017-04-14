@@ -1,58 +1,51 @@
 Book I section [21] 
 
-Quibus rebus cognitis Caesar, 
-etsi magni interesse arbitrabatur quam primum oppido potiri cohortesque ad se in
-castra traducere, 
-ne qua aut largitionibus aut animi confirmatione aut falsis nuntiis commutatio
-fieret voluntatis, 
-quod saepe in bello parvis momentis magni casus intercederent, tamen veritus, 
-ne militum introitu et nocturni temporis licentia oppidum diriperetur, 
-eos, qui venerant, collaudat atque in oppidum dimittit, 
-portas murosque adservari iubet. 
-
-After Caesar learned of these matters,
-although (of)great(s) he considered to lie between 
-than at first to gain possession by the town and to lead the cohorts 
-into his camp,
-lest a change of mind be brought about on that side, 
-either by bribery or by firmness of will or by false messages.
-because in war often great fortunes may come between with smalls efforts,
-yet fearing that the town would be destroyed
-by the entrance of the soldier and the disorder of night,
-he commends those who had come and sends them away into the town,
-and orders the gates and walls to be guarded.
-
-Ipse eis operibus, quae facere instituerat, 
-milites disponit non certis spatiis intermissis, 
-ut erat superiorum dierum consuetudo, sed perpetuis vigiliis stationibusque, 
-ut contingant inter se atque omnem munitionem expleant; 
-tribunos militum et praefectos circummittit atque hortatur, 
-non solum ab eruptionibus caveant, 
-sed etiam singulorum hominum occultos exitus adservent. 
-
-He himself posts soldiers along the fortifications that he had caused to be erected,
-not at fixed intervals, as the normal practice had been heretofore,
-but in continuous watches and outposts,
-so that they touch between themselves and fill out the whole fortification;
-he sends around and encourages the soldiers' tribunes and commanders,
-not only that they might guard against sorties,
-but also of each man that they might watch for undercover eqresses.
+Quibus rebus cognitis Caesar, etsi magni interesse
+arbitrabatur quam primum oppido potiri cohortesque ad se in
+castra traducere, ne qua aut largitionibus aut animi
+confirmatione aut falsis nuntiis commutatio fieret
+voluntatis, quod saepe in bello parvis momentis magni casus
+intercederent, tamen veritus, ne militum introitu et
+nocturni temporis licentia oppidum diriperetur, eos, qui
+venerant, collaudat atque in oppidum dimittit, portas
+murosque adservari iubet.  Ipse eis operibus, quae facere
+instituerat, milites disponit non certis spatiis
+intermissis, ut erat superiorum dierum consuetudo, sed
+perpetuis vigiliis stationibusque, ut contingant inter se
+atque omnem munitionem expleant; tribunos militum et
+praefectos circummittit atque hortatur, non solum ab
+eruptionibus caveant, sed etiam singulorum hominum occultos
+exitus adservent.  Neque vero tam remisso ac languido animo
+quisquam omnium fuit, qui ea nocte conquieverit.  Tanta erat
+summae rerum exspectatio, ut alius in aliam partem mente
+atque animo traheretur, quid ipsis Corfiniensibus, quid
+Domitio, quid Lentulo, quid reliquis accideret, qui quosque
+eventus exciperent.
 
 
-Neque vero tam remisso ac languido animo quisquam omnium fuit, 
-qui ea nocte conquieverit. 
+After Caesar learned of these matters, although he
+considered it to be of great importance to gain possession
+of the town as quickly as possible and to draw the cohorts
+over into his camp, lest a change of mind be brought about
+on that side, either by bribery or by firmness of will or by
+false messages, because in war great fortunes may often come
+to pass from small efforts.  But he feared that the town
+would be plundered by the entrance of the soldiers in the
+disorder of night, so he commends those who had come and
+sends them back into the town, and orders the gates and
+walls to be guarded.  He himself posts soldiers along the
+fortifications that he had caused to be erected, not at
+fixed intervals, as his practice had been heretofore, but in
+continuous watches and outposts, so that they are adjacent
+to each other and fill out the whole fortification; he sends
+the soldiers' tribunes and commanders around and charges
+them, not only that to guard against sorties, but also to
+watch for individual escapes.  And indeed, so unrelaxed and
+unsluggish was every man that no one took rest that night.
+There was such a high expectation of events, that each man
+was drawn off in mind and spirit; what would happen to the
+Corfinians themselves, and Domitius, and Lentulus, and
+everyone else, which outcomes would follow from which.
 
-And not truly so having sent back and with a faint spirit anyone was each,
-who took rest in the night.
 
-Tanta erat summae rerum exspectatio, 
-ut alius in aliam partem mente atque animo traheretur, 
-quid ipsis Corfiniensibus, 
-quid Domitio, quid Lentulo, quid reliquis accideret, 
-qui quosque eventus exciperent.
 
-There was such a high exspectation of things,
-that each into another part was drawn in mind and spirit,
-what would befall the Corfinians themselves,
-Domitius, Lentulus, and everyone else,
-those who would follow whichever outcomes.
