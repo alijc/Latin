@@ -263,6 +263,31 @@ tam vetus sine liberis
 nomen esse, sed indidem
      semper ingenerari.
 
+Torquatus volo parvulus
+matris e gremio suae
+porrigens teneras manus
+dulce rideat ad patrem
+     semihiante labello.
+
+sit suo similis patri
+Manlio et facile insciis
+noscitetur ab omnibus,
+et pudicitiam suae
+     matris indicet ore.
+
+talis illius a bona
+matre laus genus approbet,
+qualis unica ab optima
+matre Telemacho manet
+     fama Penelopeo.
+
+claudite ostia, virgines:
+lusimus satis. at boni
+coniuges, bene vivite et
+munere assiduo valentem
+     exercete iuventam.
+
+
 
 LXI. wedding song for Junia and Malius
 
@@ -520,5 +545,29 @@ children, but from the same stock
 
 START
 AJC
+
+I wish/fly, an infant wearing a collar
+from its mother's lap
+stretching out its tender hands
+would laugh at its father
+    with a sweet half-open lip.
+
+May it be like its father
+Manlius and easily ignorant
+would recognize from everyone,
+and the chastity of its own
+    mother proclaims with its face.
+
+So great praise of that from
+a good mother would approve noble birth,
+what kind of one of the best
+mothers to Telemachus remains
+    the reputation to Penelope.
+
+Close the door, maidens:
+we have teased enough, but good
+spouses, live well, and
+train healthy youth 
+    to constant duty.
 
 END
