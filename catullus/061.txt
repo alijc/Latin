@@ -482,9 +482,6 @@ Now let her near her husband's bed.
 Hurrah Hymen Hymenaeus hurrah,
   hurrah Hymen Hymenaeus.
 
-START
-AJC
-
 You good women,
 well vetted by old husbands
 lay the lass down.
@@ -493,7 +490,7 @@ Hurrah Hymen Hymenaeus hurrah,
 
 You may come now, husband:
 your wife is in your bedchamber,
-glistening with her blooming mouth,
+glistening with her blooming face,
 like a white bachelor button
   or a red poppy.
 
@@ -520,5 +517,8 @@ bestow children.  It isn't right
 for such an old name to be without
 children, but from the same stock
   to always be engendered.
+
+START
+AJC
 
 END
