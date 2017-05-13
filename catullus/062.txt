@@ -31,23 +31,6 @@ Now's the time to rise, now to leave the rich meal,
 now the maiden will come, now the wedding song will be sung.
 Hymen o Hymenaeus, come Hymen o Hymenaeus!
 
-Single lasses, do you see the lads? Stand up to face them;
-without doubt the evening star points out the fires of Mount Oeta.
-as it certainly is; don't you see how they nimbly leapt up?
-And didn't leap up by chance, they will sing what is fitting to beat.
-Hymen o Hymenaeus, come Hymen o Hymenaeus!
-
-Not easily for us, comrades, is the victory palm prepared:
-look, the lasses seek among themselves as they practiced.
-Not in vain did they ponder: what they have might be memorable;
-and it's not strange, they inwardly strive with all their minds.
-We some minds, some ears divide;
-and so by right we will be beaten: victory loves diligence.
-How now, turn your minds back at least;
-they'll start to sing now, soon it will be meet to respond.
-Hymen o Hymenaeus, come Hymen o Hymenaeus!
-==================================================
-
 Hespere, quis caelo fertur crudelior ignis?
 qui natam possis complexu avellere matris,
 complexu matris retinentem avellere natam,
@@ -63,10 +46,23 @@ quid datur a divis felici optatius hora?
 Hymen o Hymenaee, Hymen ades o Hymenaee!
 
 Hesperus e nobis, aequales, abstulit unam.
-****************************
+...
 
-START
-AJC
+Single lasses, do you see the lads? Stand up to face them;
+without doubt the evening star points out the fires of Mount Oeta.
+as it certainly is; don't you see how they nimbly leapt up?
+And didn't leap up by chance, they will sing what is fitting to beat.
+Hymen o Hymenaeus, come Hymen o Hymenaeus!
+
+Not easily for us, comrades, is the victory palm prepared:
+look, the lasses seek among themselves as they practiced.
+Not in vain did they ponder: what they have might be memorable;
+and it's not strange, they inwardly strive with all their minds.
+We some minds, some ears divide;
+and so by right we will be beaten: victory loves diligence.
+How now, turn your minds back at least;
+they'll start to sing now, soon it will be meet to respond.
+Hymen o Hymenaeus, come Hymen o Hymenaeus!
 
 Evening star, what crueler fire is carried through the sky?
 How you could wrest a daughter from her mother's embrace,
@@ -83,5 +79,10 @@ What is given by the blessed gods more welcome than that hour?
 Hymen o Hymenaeus, come Hymen o Hymenaeus!
 
 The evening star, comrades, bears one of our number away...
+==================================================
+****************************
+
+START
+AJC
 
 END
