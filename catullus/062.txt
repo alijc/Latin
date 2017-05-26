@@ -22,15 +22,6 @@ quare nunc animos saltem convertite vestros;
 dicere iam incipient, iam respondere decebit.
 Hymen o Hymenaee, Hymen ades o Hymenaee!
 
-==========================================
-LXII. a wedding song in hexameter
-
-Evening's at hand, young men, arise: the evening 
-has at last barely raised the long awaited lights in the sky.
-Now's the time to rise, now to leave the rich meal,
-now the maiden will come, now the wedding song will be sung.
-Hymen o Hymenaeus, come Hymen o Hymenaeus!
-
 Hespere, quis caelo fertur crudelior ignis?
 qui natam possis complexu avellere matris,
 complexu matris retinentem avellere natam,
@@ -66,7 +57,35 @@ cum castum amisit polluto corpore florem,
 nec pueris iucunda manet, nec cara puellis.
 Hymen o Hymenaee, Hymen ades o Hymenaee!
 
+Ut vidua in nudo vitis quae nascitur aruo,
+numquam se extollit, numquam mitem educat uvam,
+sed tenerum prono deflectens pondere corpus
+iam iam contingit summum radice flagellum;
+hanc nulli agricolae, nulli coluere iuvenci:
+at si forte eadem est ulmo coniuncta marito,
+multi illam agricolae, multi coluere iuvenci:
+sic virgo dum intacta manet, dum inculta senescit;
+cum par conubium maturo tempore adepta est,
+cara viro magis et minus est invisa parenti.
+Hymen o Hymenaee, Hymen ades o Hymenaee!
 
+Et tu ne pugna cum tali coniuge virgo.
+non aequom est pugnare, pater cui tradidit ipse,
+ipse pater cum matre, quibus parere necesse est.
+virginitas non tota tua est, ex parte parentum est,
+tertia pars patrest, pars est data tertia matri,
+tertia sola tua est: noli pugnare duobus,
+qui genero suo iura simul cum dote dederunt.
+Hymen o Hymenaee, Hymen ades o Hymenaee!
+
+==========================================
+LXII. a wedding song in hexameter
+
+Evening's at hand, young men, arise: the evening 
+has at last barely raised the long awaited lights in the sky.
+Now's the time to rise, now to leave the rich meal,
+now the maiden will come, now the wedding song will be sung.
+Hymen o Hymenaeus, come Hymen o Hymenaeus!
 
 Single lasses, do you see the lads? Stand up to face them;
 without doubt the evening star points out the fires of Mount Oeta.
@@ -119,33 +138,6 @@ but when she has let the virtuous flower slip from her defiled body,
 she is no longer pleasing to the lads, nor dear to the lasses.
 Hymen o Hymenaeus, come Hymen o Hymenaeus!
 
-==================================================
-Ut vidua in nudo vitis quae nascitur aruo,
-numquam se extollit, numquam mitem educat uvam,
-sed tenerum prono deflectens pondere corpus
-iam iam contingit summum radice flagellum;
-hanc nulli agricolae, nulli coluere iuvenci:
-at si forte eadem est ulmo coniuncta marito,
-multi illam agricolae, multi coluere iuvenci:
-sic virgo dum intacta manet, dum inculta senescit;
-cum par conubium maturo tempore adepta est,
-cara viro magis et minus est invisa parenti.
-Hymen o Hymenaee, Hymen ades o Hymenaee!
-
-Et tu ne pugna cum tali coniuge virgo.
-non aequom est pugnare, pater cui tradidit ipse,
-ipse pater cum matre, quibus parere necesse est.
-virginitas non tota tua est, ex parte parentum est,
-tertia pars patrest, pars est data tertia matri,
-tertia sola tua est: noli pugnare duobus,
-qui genero suo iura simul cum dote dederunt.
-Hymen o Hymenaee, Hymen ades o Hymenaee!
-
-****************************
-
-START
-AJC
-
 Like an unwed vine growing in a treeless field,
 she never raises herself, never raises a grape,
 but bending her tender body with a hanging twisting weight
@@ -166,5 +158,3 @@ a third for your father, a third given to your mother,
 only a third is yours: don't fight with the two of them,
 who by right gave it to their son-in-law along with your dowery.
 Hymen o Hymenaeus, come Hymen o Hymenaeus!
-
-END
