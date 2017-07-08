@@ -6,7 +6,8 @@ Probat rem senatus de mittendis legatis:
 
 The senate approves the motion about sending legates:
 but they didn't figure out who would be sent,
-and especially due to the fear for himself each one refused this embassy.
+and each one turned this embassy down
+out of a particular fear for his own safety.
 
 
 Pompeius enim discedens ab urbe in senatu dixerat eodem se habiturum loco,
@@ -14,20 +15,20 @@ Pompeius enim discedens ab urbe in senatu dixerat eodem se habiturum loco,
 
 For Pompey, marching off from the city, had said in the senate 
 by that very spot he was going to have,
-those who had remained behind and who had been in the field.
+those of Rome who had remained behind and those who had been in Caesar's camps.
 
 
 Sic triduum disputationibus excusationibusque extrahitur. 
 
-Thus was it dragged out for three days by disputes and excuses.
+Thus was it dragged out for three days with disputes and excuses.
 
 
 Subicitur etiam L. Metellus, tribunus plebis, ab inimicis Caesaris,
  qui hanc rem distrahat, reliquasque res,
  quascumque agere instituerit, impediat. 
 
-Even L. Metellus, the tribune of the people, was exposed by Caesar's enemies ,
-who would wrench the matter apart, and the remaining business,
+Even L. Metellus, the tribune of the people, was brought low by Caesar's enemies,
+who would tear apart first one bit, then the rest,
 and would hinder whatever matters they had decided to take up.
 
 
@@ -35,6 +36,8 @@ Cuius cognito consilio Caesar frustra diebus aliquot consumptis,
  ne reliquum tempus amittat, infectis eis, quae agere destinaverat,
  ab urbe proficiscitur atque in ulteriorem Galliam pervenit.
 
-Of whom having learned of the plan Caesar in vain several days were eaten up,
-lest he lose the remaining time, without accomplished what had been intended,
-departed from the city and reached outer Gaul.
+By the time Caesar had understood their plan several days had been uselessly
+eaten up.
+To keep from losing the time left to him, 
+he left what he'd intended undone,
+and left the city and for outer Gaul.
