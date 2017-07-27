@@ -22,31 +22,6 @@ tum Thetidis Peleus incensus fertur amore,
 tum Thetis humanos non despexit hymenaeos,
 tum Thetidi pater ipse iugandum Pelea sensit.
 
-LXIV. The Argonauts and the nuptials of Thetis and Peleus.
-
-Once upon a time pines sprung from Pelion's peak
-are said to have floated through Neptune's clear waves
-to Phasidos' tides and  Aeetaeos' lands,
-when the chosen youths, the young oaks of Argos,
-seeking to snatch Colchis' gilded pelt,
-dared to shoot briny channels with their swift ship,
-sweeping the deep blue surface of the sea with fir oars.
-The goddess who preserves the strongholds at the summits of cities
-herself made the craft flying on a light breeze,
-joining the curved keel with a web of pine.
-It gave the first lesson to unschooled Amphitrite;
-who, soon as it cut the windy surface of the sea with its prow
-and bent with rowing whitened by the froth of the wave,
-the faces of the Nereides rose up out of the gleaming white whirlpools
-of the strait, marveling at the portent of the sea.
-On that very day, mortal men saw by daylight, with their eyes,
-the sea-born Nymphs with bodies laid bare 
-to the breasts, showing above the white whirlpool.
-Then fiery Peleus is brought to love Thetis,
-then Thetis did not despise human marriage,
-then the Thetis' father himself deemed her union with Peleus.
-
-
 o nimis optato saeclorum tempore nati
 heroes, salvete, deum genus! o bona matrum
 progenies, salvete iter...
@@ -70,6 +45,29 @@ non glebam prono convellit vomere taurus,
 non falx attenuat frondatorum arboris umbram,
 squalida desertis rubigo infertur aratris.
 
+LXIV. The Argonauts and the nuptials of Thetis and Peleus.
+
+Once upon a time pines sprung from Pelion's peak
+are said to have floated through Neptune's clear waves
+to Phasidos' tides and  Aeetaeos' lands,
+when the chosen youths, the young oaks of Argos,
+seeking to snatch Colchis' gilded pelt,
+dared to shoot briny channels with their swift ship,
+sweeping the deep blue surface of the sea with fir oars.
+The goddess who preserves the strongholds at the summits of cities
+herself made the craft flying on a light breeze,
+joining the curved keel with a web of pine.
+It gave the first lesson to unschooled Amphitrite;
+who, soon as it cut the windy surface of the sea with its prow
+and bent with rowing whitened by the froth of the wave,
+the faces of the Nereides rose up out of the gleaming white whirlpools
+of the strait, marveling at the portent of the sea.
+On that very day, mortal men saw by daylight, with their eyes,
+the sea-born Nymphs with bodies laid bare 
+to the breasts, showing above the white whirlpool.
+Then fiery Peleus is brought to love Thetis,
+then Thetis did not despise human marriage,
+then the Thetis' father himself deemed her union with Peleus.
 In the time of the ages too well desired,
 hail, heroes, a race born of the gods! 
 O, best progeny of mothers, hail...
@@ -92,3 +90,4 @@ the low-lying vine is not cleared by the bent hoe,
 the bull does not dislodge a clod with an inclined plow, 
 the pruner's knife does not thin the shade of the trees,
 and filthy rust is carried in by abandoned plows.
+
