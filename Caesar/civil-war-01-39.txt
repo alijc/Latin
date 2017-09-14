@@ -22,11 +22,10 @@ Caesar legiones in Hispaniam praemiserat VI,
 Caesar had sent 6 legions ahead into Spain,
 5000 auxiliaries of infantry, 300 of horse,
 which he had held to be the best combatants of all,
-and an equal number from Gaul,
-which he himself had subdued,
-by name from all of the cities by/to the noblest and strongest also summoned,
-to here of the best families of men out of Aquitane and the mountains,
-he had added those who touch the province of Gaul.
+and an equal number from Gaul (which he himself had subdued),
+having also summoned the noblest and strongest from all the cities by name,
+to here he had added men of the best families from Aquitane and
+from the mountains that touch the province of Gaul.
 
 
 Audierat Pompeium per Mauretaniam cum legionibus iter in Hispaniam facere
@@ -39,14 +38,14 @@ his legions and that his arrival was imminent.
 Simul a tribunis militum centurionibusque mutuas pecunias sumpsit;
  has exercitui distribuit. 
 
-At the same time he took up borrowed money from the soldiers' tribunes and the
-centurions; he distributed these to the army.
+At the same time he borrowed money from the soldiers' tribunes and the
+centurions; he distributed this to the army.
 
 
 Quo facto duas res consecutus est,
  quod pignore animos centurionum devinxit
  et largitione militum voluntates redemit.
 
-When this was done two things followed,
-that/because/which he bound fast the spirit of the centurions with a pledge
-and made good the good will of the soldiers by his generousity.
+When this was done two things resulted,
+that he bound fast the spirit of the centurions with a pledge
+and bought the good will of the soldiers by his generousity.
