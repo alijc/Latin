@@ -205,6 +205,24 @@ frons exspirantis praeportat pectoris iras,
 huc huc adventate, meas audite querellas,
 quas ego, vae misera, extremis proferre medullis
 cogor inops, ardens, amenti caeca furore.
+quae quoniam verae nascuntur pectore ab imo,
+vos nolite pati nostrum vanescere luctum,
+sed quali solam Theseus me mente reliquit,
+tali mente, deae, funestet seque suosque.'
+
+has postquam maesto profudit pectore voces,
+supplicium saevis ecens anxia factis,
+annuit invicto caelestum numine rector;
+quo motu tellus atque horrida contremuerunt
+aequora concussitque micantia sidera mundus.
+ipse autem caeca mentem caligine Theseus
+consitus oblito dimisit pectore cuncta,
+quae mandata prius constanti mente tenebat,
+dulcia nec maesto sustollens signa parenti
+sospitem Erechtheum se ostendit visere portum.
+namque ferunt olim, classi cum moenia divae
+linquentem gnatum ventis concrederet Aegeus,
+talia complexum iuveni mandata dedisse:
 
 
 
@@ -414,26 +432,6 @@ bear the rages of my heart before you,
 here, here approach, hear my grievances,
 which I, alas, poor wretch, am urged to profer from my inmost marrow, 
 helpless, burning, blinded by frantic rage.
-
-quae quoniam verae nascuntur pectore ab imo,
-vos nolite pati nostrum vanescere luctum,
-sed quali solam Theseus me mente reliquit,
-tali mente, deae, funestet seque suosque.'
-
-has postquam maesto profudit pectore voces,
-supplicium saevis ecens anxia factis,
-annuit invicto caelestum numine rector;
-quo motu tellus atque horrida contremuerunt
-aequora concussitque micantia sidera mundus.
-ipse autem caeca mentem caligine Theseus
-consitus oblito dimisit pectore cuncta,
-quae mandata prius constanti mente tenebat,
-dulcia nec maesto sustollens signa parenti
-sospitem Erechtheum se ostendit visere portum.
-namque ferunt olim, classi cum moenia divae
-linquentem gnatum ventis concrederet Aegeus,
-talia complexum iuveni mandata dedisse:
-
 Because these sorrows are begotten from my inmost heart,
 you must refuse to allow our grief to fade,
 but just as with his soul did Theseus abandon me to solitude,
@@ -446,9 +444,10 @@ at which movement the earth and the frightful sea did quake
 and the firmament shook the gleaming stars.
 While Theseus himself, beset with a dark murk, 
 dismissed from his mind with a forgetful heart all
-the commands that he held in his steadfast mind,
+the commands that he once held in a steadfast mind,
 and raising not the sweet signals for his sorrowing father
 to show himself safe and sound to visit Erechtheus' port.
-For they report of old, when Aegeus consigned the walls of the goddess
-and the forsaken son to the winds and the fleet,
+For they report of old, when Aegeus consigned his son,
+forsaken from the walls of the goddess to the winds and the fleet,
 he gave an embrace and such commands to the young man:
+
