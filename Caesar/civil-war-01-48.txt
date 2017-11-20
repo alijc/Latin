@@ -1,38 +1,38 @@
 [48] 
 Accidit etiam repentinum incommodum biduo, quo haec gesta sunt.
 
-Furthermore, something unexpected and inconvenient happens for two days,
+Furthermore, for two days something unexpected and inconvenient happened,
 by which these things were borne.
 
 
 Tanta enim tempestas cooritur,
  ut numquam illis locis maiores aquas fuisse constaret. 
 
-For such storms arise, 
- so that never in those parts was said to be more water.
+For there appeared such storms that it was said that there had never been so
+much water in those parts. 
 
 
 Tum autem ex omnibus montibus nives proluit
  ac summas ripas fluminis superavit pontesque ambo,
  quos C. Fabius fecerat, uno die interrupit. 
 
-But then out of all the mountains snows wash(ed) away
-and overcome the highest banks of the river and bridges both,
-That C. Fabius had built, broken up in a single day.
+But then snowmelt from all the mountains 
+overtopped the highest banks of the river, and both the bridges
+that C. Fabius had built were broken up in a single day.
 
 
 Quae res magnas difficultates exercitui Caesaris attulit. 
 
-Which thing brought great difficulties to Caesar's army.
+And this matter brought great difficulties to Caesar's army.
 
 
 Castra enim, ut supra demonstratum est, cum essent inter flumina duo,
  Sicorim et Cingam, spatio milium XXX, neutrum horum transiri poterat,
  necessarioque omnes his angustiis continebantur.
 
-For the camp, as has been already described, since it was between two rivers,
-Sicori and Cinga, in a space of 300 paces, neither of these could be crossed,
-and by necessity all these were being confined in a narrow space.
+For the camp, as has been already described, was between two rivers,
+the Sicoris and the Cinga, about 300 paces apart, neither of which could be
+crossed, and by necessity everyone was confined in a narrow space.
 
 
 Neque civitates, quae ad Caesaris amicitiam accesserant,
@@ -40,17 +40,17 @@ Neque civitates, quae ad Caesaris amicitiam accesserant,
  interclusi fluminibus reverti neque maximi commeatus,
  qui ex Italia Galliaque veniebant, in castra pervenire poterant. 
 
-Neither the towns, which to Caesar had approached friendship,
-to transport supplies, nor those, who had advanced far off forage,
-cut off by the rivers, turned back and not with the greatest provisions,
-who were coming out of Italy and Gaul, could reach the camp.
+The towns, that had undertaken an alliance with Caesar for transporting his
+supplies, could not reach the camp.  Neither could the men who from
+Italy and Gaul, who were out foraging far afield and were cut off and turned
+back by the rivers, without much in the way of provisions.
 
 
 Tempus erat autem difficillimum,
  quo neque frumenta in hibernis erant neque multum a maturitate aberant;
 
-But the time was very difficult,
-by whihc neither the supplies were in winters nor were far from ripe;
+Moreover it was a very difficult time of year,
+in which the supplies were not yet in storage and not quite ripe.
 
 
  ac civitates exinanitae,
@@ -58,24 +58,24 @@ by whihc neither the supplies were in winters nor were far from ripe;
  reliqui si quid fuerat,
  Caesar superioribus diebus consumpserat; 
 
-and the emptied towns,
-that Afranius nearly all supplies before Caesar's arrival had conveyed to
-Ilerda, the rest if anything had been,
-Caesar had eaten up in the recent days;
+And the towns were desolate,
+because before Caesar's arrival Afranius had nearly emptied them of supplies,
+which he'd transported to Ilerda, 
+and in the last few days Caesar had used up anything that had been left.
 
 
 pecora, quod secundum poterat esse inopiae subsidium,
  propter bellum finitimae civitates longius removerant. 
 
-the cattle, that next he could to be a relief of want,
-on account of the war the neighboring towns had removed a long time ago.
+And due to the war the neighboring towns had driven off the cattle, which could
+have been used for the needs of the second reserves.
 
 
 Qui erant pabulandi aut frumentandi causa progressi,
  hos levis armaturae Lusitani peritique earum regionum
  cetrati citerioris Hispaniae consectabantur;
 
-Those who were foraging and foraging on account of having advanced,
+Those who were foraging and purveying on account of having advanced,
 those of light armor of Lusitanians and skilled of the regions
 armed with a light shield on the side of Spain they were pursuing;
 
@@ -86,4 +86,4 @@ quibus erat proclive tranare flumen,
 
 to/by which was sloping down to swim across the river,
 which by/to their custom is of all,
-so that without skin to the army they do not go.
+so that they do not go to the army without leathers/either.
