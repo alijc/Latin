@@ -145,6 +145,29 @@ ei misero fratri iucundum lumen ademptum,
 omnia tecum una perierunt gaudia nostra,
      quae tuus in vita dulcis alebat amor.
 
+quem nunc tam longe non inter nota sepulcra
+nec prope cognatos compositum cineres,
+sed Troia obscena, Troia infelice sepultum
+detinet extremo terra aliena solo.
+ad quam tum properans fertur undique pubes
+Graecae penetralis deseruisse focos,
+ne Paris abducta gavisus libera moecha
+otia pacato degeret in thalamo.
+quo tibi tum casu, pulcerrima Laudamia,
+ereptum est vita dulcius atque anima
+coniugium: tanto te absorbens vertice amoris
+aestus in abruptum detulerat barathrum,
+quale ferunt Grai Pheneum prope Cylleneum
+siccare emulsa pingue palude solum,
+quod quondam caesis montis fodisse medullis
+audit falsiparens Amphitryoniades,
+tempore quo certa Stymphalia monstra sagitta
+perculit imperio deterioris eri,
+pluribus ut caeli tereretur ianua divis,
+Hebe nec longa virginitate foret.
+sed tuus altus amor barathro fuit altior illo,
+qui tamen indomitam ferre iugum docuit.
+
 
 I cannot conceal, godesses, how in this matter Allius
 did aid me, or with how many favors he did aid me,
@@ -202,30 +225,6 @@ Woe! delightful light withdrawn from my wretched brother,
 together with you our joys have been destroyed,
   which your sweet love nourished in your life.
 
-
-quem nunc tam longe non inter nota sepulcra
-nec prope cognatos compositum cineres,
-sed Troia obscena, Troia infelice sepultum
-detinet extremo terra aliena solo.
-ad quam tum properans fertur undique pubes
-Graecae penetralis deseruisse focos,
-ne Paris abducta gavisus libera moecha
-otia pacato degeret in thalamo.
-quo tibi tum casu, pulcerrima Laudamia,
-ereptum est vita dulcius atque anima
-coniugium: tanto te absorbens vertice amoris
-aestus in abruptum detulerat barathrum,
-quale ferunt Grai Pheneum prope Cylleneum
-siccare emulsa pingue palude solum,
-quod quondam caesis montis fodisse medullis
-audit falsiparens Amphitryoniades,
-tempore quo certa Stymphalia monstra sagitta
-perculit imperio deterioris eri,
-pluribus ut caeli tereretur ianua divis,
-Hebe nec longa virginitate foret.
-sed tuus altus amor barathro fuit altior illo,
-qui tamen indomitam ferre iugum docuit.
-
 So long now among unmarked graves
 and not laid near his kindred's ashes,
 but foul Troy, baleful Troy holds him,
@@ -233,7 +232,7 @@ buried alone in a far distant foreign land.
 To which the young warriors of Greece were then borne in haste 
 from every side, forsaking their household hearths,
 to keep delighted Paris from passing his idle times
-with the licentious abducted slut in a peaceful bedroom.
+with his licentious abducted slut in a peaceful bedroom.
 By this calamity then, beautiful Laudamia,
 was your marriage, sweeter than life and soul, snatched away:
 passion, devouring you so in a whirlpool of love,
@@ -248,4 +247,5 @@ so that the door of heaven might be worn out by more gods,
 and Hebe would not stay long in maidenhood.
 But you, who then taught the unbroken heifer to bear the yoke,
 your deep love was deeper than that chasm.
+
 
