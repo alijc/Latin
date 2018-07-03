@@ -1,10 +1,7 @@
 [79] 
-
 Genus erat hoc pugnae. 
-
 Expeditae cohortes novissimum agmen claudebant
 pluresque in locis campestribus subsistebant. 
-
 Si mons erat ascendendus,
 facile ipsa loci natura periculum repellebat, 
 quod ex locis superioribus,
@@ -14,13 +11,11 @@ neque ei, qui antecesserant,
 morantibus opem ferre poterant, 
 equites vero ex loco superiore in aversos tela coniciebant, 
 tum magno erat in periculo res.
-
 Relinquebatur, ut,
 cum eiusmodi locis esset appropinquatum, 
 legionum signa consistere iuberent magnoque impetu equitatum repellerent,
 eo submoto repente incitati cursu sese in valles universi demitterent
 atque ita transgressi rursus in locis superioribus consisterent.
-
 Nam tantum ab equitum suorum auxiliis aberant,
 quorum numerum habebant magnum,
 ut eos superioribus perterritos proeliis in medium reciperent
@@ -28,33 +23,26 @@ agmen ultroque eos tuerentur;
 quorum nulli ex itinere excedere licebat, 
 quin ab equitatu Caesaris exciperetur.
 
-
-The sort was this of the battle.
-
-The lightly-armed/unbaggaged cohorts >the rearmost column were besieging
-and many in places level were halting.
-
-if mountion was for climbing,
-easily the very nature of the place repelled danger,
-that/because from the higher ground,
-those who had gone ahead, protected their own climbing;
-as/when/with valley or place sloping was underneath,
-and not to them who had gone ahead,
-to/by delaying >power weapons could,
-cavalry indeed out of place higher into their rear cast spears,
-then to/by great was in danger the matter.
-
-it was left behind, so that,
-since of this sort to/by places were approached,
-of the legions the standards to stand together they would command
-and to/by great assault of the cavalry they might drive them back,
-having dislodged him/it suddenly at a gallop selves into valleys they
-all plunged and so having crossed back in the higher ground they made
-a stand.
-
-For so much by our cavalry to/by the auxillaries they were absent,
+This was the sort of battle it was.
+The lightly-armed cohorts brought up the rear
+and many of them made their stands on level ground.
+Where the ground was rising, the very nature of the place repelled
+danger, because those who had gotten there first could protect their
+compatriots as they made the climb;
+when in a valley or on ground sloping downward,
+and with those in the vanguard unable to offer assistance,
+in fact the cavalry turned the enemy aside by casting spears from the
+higher ground, (but also/then) the business was in great peril.
+It was left so that when they approached places like this,
+they'd command the standards of the legions to stand together
+and drive them back with a great cavalry assault,
+and after dislodging it/him/them they all thrust themselves down into the
+valleys at a gallup and made a stand after crossing back onto higher
+ground.
+For so much by our cavalry was absent from the auxillaries,
 of whom they had a great number,
-so that >them to/by higher battles >frightened men in the middle they
-recovered the column and beyond them they saw/protected;
-of whom none from the march to pass it was permitted,
-so that not from Caesar's cavalry was it warded off.
+so that they recovered the men frightened by the earlier battles
+in the middle
+they preserved the column and beyond them;
+of whom no one was allowed to leave off marching,
+who would not withdraw from Caesar's cavalry.
