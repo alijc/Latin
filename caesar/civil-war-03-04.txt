@@ -1,70 +1,51 @@
-4.1
-Legiones effecerat civium Romanorum VIIII: V ex Italia, quas traduxerat;
-unam ex Cilicia veteranam, quam factam ex duabus gemellam appellabat;
-unam ex Creta et Macedonia ex veteranis militibus,
-qui dimissi a superioribus imperatoribus in his provinciis consederant;
-duas ex Asia, quas Lentulus consul conscribendas curaverat.
-
-Praeterea magnum numerum ex Thessalia, Boeotia, Achaia Epiroque supplementi
- nomine in legiones distribuerat:
- his Antonianos milites admiscuerat.
-
+4.1 Legiones effecerat civium Romanorum VIIII: V ex Italia, quas
+traduxerat; unam ex Cilicia veteranam, quam factam ex duabus gemellam
+appellabat; unam ex Creta et Macedonia ex veteranis militibus, qui
+dimissi a superioribus imperatoribus in his provinciis consederant;
+duas ex Asia, quas Lentulus consul conscribendas curaverat.  Praeterea
+magnum numerum ex Thessalia, Boeotia, Achaia Epiroque supplementi
+nomine in legiones distribuerat: his Antonianos milites admiscuerat.
 Praeter has exspectabat cum Scipione ex Syria legiones II.
-
-Sagittarios Creta, Lacedaemone,
-ex Ponto atque Syria reliquisque civitatibus III milia numero habebat,
-funditorum cohortes sexcenarias II, equitum VII milia.
-
-Ex quibus DC Gallos Deiotarus adduxerat, D Ariobarzanes ex Cappadocia;
-ad eundem numerum Cotys ex Thracia dederat et Sadalam filium miserat;
-ex Macedonia CC erant, quibus Rhascypolis praeerat, excellenti virtute;
-D ex Gabinianis Alexandria, Gallos Germanosque,
-quos ibi A. Gabinius praesidii causa apud regem Ptolomaeum reliquerat,
-Pompeius filius cum classe adduxerat;
-DCCC ex servis suis pastorumque suorum numero coegerat;
-CCC Tarcondarius Castor et Domnilaus ex Gallograecia dederant
-(horum alter una venerat, alter filium miserat);
-CC ex Syria a Commageno Antiocho, cui magna Pompeius praemia tribuit,
-missi erant, in his plerique hippotoxotae.
-
-Huc Dardanos, Bessos partim mercenarios, partim imperio aut gratia comparatos,
-item Macedones, Thessalos ac reliquarum gentium et civitatum adiecerat
-atque eum, quem supra demonstravimus, numerum expleverat.
+Sagittarios Creta, Lacedaemone, ex Ponto atque Syria reliquisque
+civitatibus III milia numero habebat, funditorum cohortes sexcenarias
+II, equitum VII milia.  Ex quibus DC Gallos Deiotarus adduxerat, D
+Ariobarzanes ex Cappadocia; ad eundem numerum Cotys ex Thracia dederat
+et Sadalam filium miserat; ex Macedonia CC erant, quibus Rhascypolis
+praeerat, excellenti virtute; D ex Gabinianis Alexandria, Gallos
+Germanosque, quos ibi A. Gabinius praesidii causa apud regem
+Ptolomaeum reliquerat, Pompeius filius cum classe adduxerat; DCCC ex
+servis suis pastorumque suorum numero coegerat; CCC Tarcondarius
+Castor et Domnilaus ex Gallograecia dederant (horum alter una venerat,
+alter filium miserat); CC ex Syria a Commageno Antiocho, cui magna
+Pompeius praemia tribuit, missi erant, in his plerique hippotoxotae.
+Huc Dardanos, Bessos partim mercenarios, partim imperio aut gratia
+comparatos, item Macedones, Thessalos ac reliquarum gentium et
+civitatum adiecerat atque eum, quem supra demonstravimus, numerum
+expleverat.
 
 
-He ended up with 9 legions of Roman citizens: 5 that he'd brought over from
-Italy;
-a battle-tested one from Cilica, that he had combined from two similar ones;
-one from Crete and Macedonia, made up of experienced soldiers,
-who had settled in these provinces after being demobilized by their previous commanders;
-and two from Asia, whose enlistment the consul Lentulus had procured.
-
-In addition he assigned a great number of reinforcements from Thessalia,
-Boeotia, Achaia and Epirus into the rolls of the army:
-he had mixed Antony's soldiers in with these.
-
-Besides these he and Scipio were expecting 2 legions from Syria.
-
-He had 3000 archers from Crete, Sparta, Pontus and Syria and the other cities,
-1200 cohorts of slingers, and 700 horse.
-
-Deiotarus had added 600 Gauls from these places,
-Ariobarzanes 500 from Cappadocia;
-Cotys had given about the same number from Thrace and had sent his son Sadala;
-there were 200 Macedonians, distinguished in courage and led by Rhascypolis,
-
-500 from Gabinius in Alexandria, Gauls and Germans,
-that A. Gabinius had left there to protect King Ptolomy,
-
-Pompey, Jr had come with a fleet;
-he had collected 800 of his own slaves and a number of his herdsmen;
-Tarcondarius Castor and Domnilaus had given 300 from Galatia
-(of these two one had come with the troops, and the other had sent his son);
-200 had been sent from Syria by Commagenus Antiochus,
-to whom Pompey conferred a large reward, most of these were mounted archers.
-
-Here he had added Dardanians, Bessians, partly mercenaries,
-partly procured by command or by favor,
-and also Macedonians, Thessalians and the rest of the
-tribes and cities
-and >him, whom we have already shown, filled out the number.
+He ended up with 9 legions of Roman citizens: 5 that he'd brought from
+Italy; a battle-tested one from Cilica, that was called Gemella, being
+formed from two; one from Crete and Macedonia, made up of experienced
+soldiers, who had settled in those provinces after their former
+commanders disbanded them; and two from Asia, drafted by the consul
+Lentulus.  In addition he distributed a great number of reinforcements
+from Thessalia, Boeotia, Achaia and Epirus into the rolls of the army:
+he had mixed Antony's soldiers in with these.  Besides these he was
+expecting 2 legions, with Scipio, from Syria.  He had 3000 archers
+from Crete, Sparta, Pontus and Syria and the other cities, 1200
+cohorts of slingers, and 700 horse.  Deiotarus had added 600 Gauls
+from these places, Ariobarzanes 500 from Cappadocia; Cotys had given
+about the same number from Thrace and had sent his son Sadala; 200
+Macedonians were led by Rhascypolis, who was distinguished in courage,
+500 from Alexandria, Gauls and Germans, that A. Gabinius had left
+there to protect King Ptolomy - Pompey, Jr brought all these in his
+fleet; he had collected 800 of his own slaves and a number of his
+herdsmen; Tarcondarius Castor and Domnilaus had provided 300 from
+Galatia (of these two one had come with the troops, and the other had
+sent his son); 200 had been sent from Syria by Commagenus of Antioch,
+to whom Pompey conferred a large reward, most of these were mounted
+archers.  Here he had added Dardanians, Bessians, partly mercenaries,
+partly procured by command or by favor, and also Macedonians,
+Thessalians and the rest of the tribes and cities, filled out the
+number that we indicated above.
