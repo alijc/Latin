@@ -1,48 +1,39 @@
-16.1
-Caesar eo tempore cum legione una profectus ad recipiendas ulteriores civitates
-et rem frumentariam expediendam,
-qua angusta utebatur, erat ad Buthrotum, oppidum oppositum Corcyrae.
-
-Ibi certior ab Acilio et Murco per litteras factus de postulatis Libonis et
-Bibuli legionem relinquit; ipse Oricum revertitur.
-
-Eo cum venisset, evocantur illi ad colloquium.
-
-Prodit Libo atque excusat Bibulum,
-quod is iracundia summa erat inimicitiasque habebat
-etiam privatas cum Caesare ex aedilitate et praetura conceptas:
-ob eam causam colloquium vitasse,
-ne res maximae spei maximaeque utilitatis eius iracundia impedirentur.
-
-Suam summam esse ac fuisse semper voluntatem,
-ut componeretur atque ab armis discederetur,
-sed potestatem eius rei nullam habere,
-propterea quod de consilii sententia summam belli rerumque omnium Pompeio
-permiserint.
-
-Sed postulatis Caesaris cognitis missuros ad Pompeium,
-atque illum reliqua per se acturum hortantibus ipsis.
-
-Interea manerent indutiae, dum ab illo rediri posset, neve alter alteri noceret. Huc addit pauca de causa et de copiis auxiliisque suis.
+16.1 Caesar eo tempore cum legione una profectus ad recipiendas
+ulteriores civitates et rem frumentariam expediendam, qua angusta
+utebatur, erat ad Buthrotum, oppidum oppositum Corcyrae.  Ibi certior
+ab Acilio et Murco per litteras factus de postulatis Libonis et Bibuli
+legionem relinquit; ipse Oricum revertitur.  Eo cum venisset,
+evocantur illi ad colloquium.  Prodit Libo atque excusat Bibulum, quod
+is iracundia summa erat inimicitiasque habebat etiam privatas cum
+Caesare ex aedilitate et praetura conceptas: ob eam causam colloquium
+vitasse, ne res maximae spei maximaeque utilitatis eius iracundia
+impedirentur.  Suam summam esse ac fuisse semper voluntatem, ut
+componeretur atque ab armis discederetur, sed potestatem eius rei
+nullam habere, propterea quod de consilii sententia summam belli
+rerumque omnium Pompeio permiserint.  Sed postulatis Caesaris cognitis
+missuros ad Pompeium, atque illum reliqua per se acturum hortantibus
+ipsis.  Interea manerent indutiae, dum ab illo rediri posset, neve
+alter alteri noceret.  Huc addit pauca de causa et de copiis
+auxiliisque suis.
 
 
 At the time Caesar had advanced with a single legion to recapture the
-most distant towns and secure his grain supply.
-He was making use of the crisis, and was at Buthrotum,
-a town across from Corcyra.
-When informed there by Acilius and Murcus through letters about the
-requests of Libo and Bibulus, he left the legion and returned to Oricus. 
-When he arrived there, they were summoned to speak with him.
-Libo came forward and made an excuse for Bibulus,
-because he was in a violent temper and still had a personal enmity for Caesar,
-formed from the the time of his aedileship and praetorship, saying:
-That he had for this reason hitherto avoided a dialog,
-to keep from impeding these matters of great hope and great advantage.
-That his utmost desire was, and always had been,
-for a reconciliation and laying down of arms.
-But he hadn't had the power to accomplish this,
-since, with regard to the counsel's opinion, they'd entrusted Pompey with
-the ultimate power over the war, and everything else as well.
-
-But after learning of Caesar's requests, >those to by sent to Pompey,
-and him the remaining things through self to be gonna act by encouraging them.
+most distant towns and secure his grain supply, which had become
+uncertain, and was at Buthrotum, a town across from Corcyra.  When
+informed there by Acilius and Murcus through letters about the
+requests of Libo and Bibulus, he left the legion and returned to
+Oricum.  When he arrived there, they were summoned to speak with him.
+Libo came forward and made an excuse for Bibulus, because he was in a
+violent temper and still had a personal enmity for Caesar, formed from
+the the time of his aedileship and praetorship, saying: That he had
+for this reason avoided the conference, to keep from impeding these
+matters of such great hope and great advantage.  That his utmost
+desire was, and always had been, for a reconciliation and laying down
+of arms.  But he hadn't had the power to accomplish this, since, with
+regard to the counsel's opinion, they'd entrusted Pompey with the
+ultimate power over the war, and everything else as well.  But after
+he learned of Caesar's demands, he would send them to Pompey, and he
+would act on what remained himself, urging them on.  In the meantime,
+the truce should stand, and no one should do harm to another, until an
+answer could be returned.  He added a little about the cause and about
+his troops and auxiliaries.
