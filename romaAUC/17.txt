@@ -1,17 +1,20 @@
 Rei publicae Romanae vitia
 
-A. Igitur ante bella Punica domi militiaeque boni mores colebantur; 1
-concordia maxima, minim avaritia erat; 2
-ius bonumque apud eos non legibus magis quam natura valebat. 3
-Iurgia, discordias, simultates cum hostibus exercebant,
-cives com civibus det virtute certabant.
-ln suppliciis deorum magmfici, domi parci, in amicos fideles erant.
-Duabus his artibus, audacia in bello, ubi pax evenerat aequitate,
-seque remque publicam curabant.4
+The defects of the Roman republic
 
-Sed ubi labore atque iustitia res publica crevit,5
-reges magni bello domiti, nationes ferae et populi ingentes vi subacti,5
-Carthago aemula imperi Romani, ab stirpe interiit,7
+
+A. Igitur ante bella Punica domi militiaeque boni mores colebantur;
+concordia maxima, minim avaritia erat; 
+ius bonumque apud eos non legibus magis quam natura valebat.
+Iurgia, discordias, simultates cum hostibus exercebant,
+cives cum civibus de virtute certabant.
+In suppliciis deorum magnifici, domi parci, in amicos fideles erant.
+Duabus his artibus, audacia in bello, ubi pax evenerat aequitate,
+seque remque publicam curabant.
+
+Sed ubi labore atque iustitia res publica crevit,
+reges magni bello domiti, nationes ferae et populi ingentes vi subacti,
+Carthago aemula imperi Romani, ab stirpe interiit,
 cuncta maria terraeque patebant, saevire fortuna ac miscere omnia coepit.9
 Qui labores, pericula, dubias atque asperas res facile toleraverant,10
 eis otium, divitiae, optanda alias, oneri miseriaeque fuere.11
@@ -22,6 +25,24 @@ pro his superbiam, crudelitatem, deos neglegere, omnia venalia habere edocuit.15
 Haec primo paulatim crescere, interdum vindicari; 16
 post, ubi contagio quasi pestilentia invasit, civitas irnmutata,
 imperium ex iustissimo atque optimo crudele intolerandumque factum.17
+
+And so good character was honored in war and peace before the Punic Wars;
+there was the greatest harmony, and the least avarice;
+justice and good prevailed there not so much by laws as from nature.
+They carried out quarrels, disagreements, and enmities with their enemies,
+while citizens vied in virtue with their fellow citizens.
+They were magnificant in their supplications of the gods, sparing at home,
+and faithful to their friends.
+With both of these arts, boldness in war, and justice in times of peace,
+they took care of both themselves and the republic.
+
+But when the republic thrived through labor and justice,
+great kings were conquered in war, savage nations and unnatural
+peoples were subjugated by force,
+Carthage, envious of Roman authority, perished by race,
+all the seas and lands lay open, fortune began to rage and to stir 
+everything up.
+
 
 B.
 Potentiae Romanorum prior Scipio Viam aperuerat, luxuriae posterior aperuit.18
