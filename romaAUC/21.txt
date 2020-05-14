@@ -1,20 +1,18 @@
 Marius consulatum petit
 
-Bello Iugurthino,l
-Uticae forte C. Mario, legato Metelli, per hostias diis supplicanti,2
-magna atque mirabilia portendi haruspex dixit.3
-At illum iam antea consulatus ingens cupido exagitabat, 4
-ad quem capiendum, praeter vetustatem familiae, alia omnia abunde ei erant:5
-industira, probitas, belli magna scienta; animus militiae ingens,
-domi modicus, libidinis et divitiarum victor, tantum modo gloriae avidus.6
-Ubi primum tribunatum militarem a populo petit,7
-plerisque faciem eius ignorantibus, factis notus per omnis tribus declaratur.8
-Deinde ab eo magistratu alium post alium sibi peperit.9
-Tamen is ad id tempus consulatum appetere non audebat.10
-Etiam tum alios magistratus plebs,
-consulatum nobilitas inter se per manus tradebat.15
-Novus nemo tam clarus neque tam egregiis factis erat,
-quin is indignus illo honore haberetur.12
+Bello Iugurthino, Uticae forte C. Mario, legato Metelli, per
+hostias diis supplicanti, magna atque mirabilia portendi haruspex
+dixit.  At illum iam antea consulatus ingens cupido exagitabat, ad
+quem capiendum, praeter vetustatem familiae, alia omnia abunde ei
+erant: industria, probitas, belli magna scientia; animus militiae
+ingens, domi modicus, libidinis et divitiarum victor, tantum modo
+gloriae avidus.  Ubi primum tribunatum militarem a populo petit,
+plerisque faciem eius ignorantibus, factis notus per omnis tribus
+declaratur.  Deinde ab eo magistratu alium post alium sibi
+peperit.  Tamen is ad id tempus consulatum appetere non audebat.
+Etiam tum alios magistratus plebs, consulatum nobilitas inter se
+per manus tradebat.  Novus nemo tam clarus neque tam egregiis
+factis erat, quin is indignus illo honore haberetur.
 
 Igitur ubi Marius haruspicis dicta eodem intendere videt
 quo cupido animi hortabatur,13
@@ -36,7 +34,22 @@ Ita cupidine atque ira, pessimis consultoribus, grassari; 25
 neque facto ullo neque dicto abstinere, quod modo ambitiosum foret.26
 
 
+Marius reaches for the consulship
 
-
- 
-
+By chance in Utica, during the Jugurthine War, while C. Marius,
+Metellus' deputy, was supplicating the gods with sacrifices, the
+diviner spoke to him, predicting great and wonderful things for
+him.  But even before that a great desire for the consulship had
+stirred in him.  He had everything, save for the antiquity of his
+family, in abundance to get it: diligence, honesty, great miltary
+skill; a remarkable spirit in war, but restrained in peace,
+victorious over the desire for wealth, desirous only for glory.
+When he first sought the military tribuneship from the people the
+majority of them didn't know him from Adam, but through his deeds
+he became well-known through all the tribes.  Then, from this
+office he next obtained another for himself.  Yet up to that time
+he hadn't dare seek the consulship.  Then too, the common people
+awarded other offices, while the nobility granted the consulship
+from hand to hand among themselves.  No new man was so illustrious
+or marked by such distiguished deeds that he would be deemed
+worthy of that honor.
