@@ -1,5 +1,4 @@
 34.1
-
 Caesar Antonii exercitu coniuncto deducta Orico legione,
 quam tuendae orae maritimae causa posuerat,
 temptandas sibi provincias longiusque procedendum existimabat et,
@@ -10,7 +9,6 @@ atque equitibus CC in Thessaliam,
 C. Calvisium Sabinum cum cohortibus V paucisque equitibus in Aetoliam misit;
 maxime eos, quod erant propinquae regiones,
 de re frumentaria ut providerent, hortatus est.
-
 Cn. Domitium Calvinum cum legionibus duabus, XI et XII,
 et equitibus D in Macedoniam proficisci iussit;
 cuius provinciae ab ea parte, quae libera appellabatur,
@@ -18,19 +16,19 @@ Menedemus, princeps earum regionum,
 missus legatus omnium suorum excellens studium profitebatur.
 
 
-Caesar joined up with Antony's army drawn down from/by the Orican/Coastal legion,
-which he had positioned for the sake of protecting the sea shore,
-for testing (legions?)self >the provinces and longer for advancing he thought
-and, when to him out of Thessaly and Aetolia the legates arrived,
-who having been sent the garrison of their tribes the levied towns for doing,
->L. Cassius Longinus with a legion of rookies, which was called the 27th,
+After Caesar joined up with Antony's army and withdrew the legion from Oricos
+(that he'd posted there to defend the sea shore),
+he was thinking that he should march out further and attack the provinces.
+And after he met with the legates from Thessaly and Aetolia,
+who had sent aid and been promised citizenship for their people for doing so,
+he sent L. Cassius Longinus with a legion of fresh recruits, called the 27th,
 and 200 horse into Thessaly,
-C. Calvisius Sabinus with 5 cohorts and a few horse into Aetolia he sent;
-especially them, because/what were nearby regions,
-about the business of resupply they might provide for he was encouraged.
-
->Cn. Domitius Calvinus with two legions, the 9th and 11th,
-and with 500 horse into Macedonia he ordered to proceed;
-whose provinces from the part/side, which was called free,
-Menedemus, the chiefain of the region,
-having been sent legate of all his excellent zeal he was professing.
+and C. Calvisius Sabinus with 5 cohorts and a few horse into Aetolia;
+he was encouraged that these might provide in the business of resupply,
+chiefly because they were nearby regions.
+He ordered Cn. Domitius Calvinus to proceed with two legions, the 9th and 11th,
+and with 500 horse into Macedonia;
+Menedemus, the chieftain of the region,
+whose provinces were from the part called free,
+had been sent as a legate for all his possessions
+and was professing his preeminent zeal.
