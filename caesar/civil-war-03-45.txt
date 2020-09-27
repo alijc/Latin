@@ -9,12 +9,12 @@ cum una ex parte prope aequum aditum haberet,
 primum sagittariis funditoribusque circumiectis,
 postea levis armaturae magna multitudine missa tormentisque prolatis munitiones impediebat;
 neque erat facile nostris uno tempore propugnare et munire.
-
 Caesar, cum suos ex omnibus partibus vulnerari videret,
 recipere se iussit et loco excedere.
 Erat per declive receptus.
 Illi autem hoc acrius instabant neque regredi nostros patiebantur,
 quod timore adducti locum relinquere videbantur.
+
 Dicitur eo tempore glorians apud suos Pompeius dixisse:
 non recusare se, quin nullius usus imperator existimaretur,
 si sine maximo detrimento legiones Caesaris sese recepissent inde,
@@ -23,7 +23,7 @@ quo temere essent progressae.
 
 In attacking the defences each side advanced with great strength:
 Caesar, to hem Pompey in as closely as possible;
-Pompey, to capture as many hills as possible and as large a area as possble,
+Pompey, to capture as many hills and as large an area as possble,
 and for this reason the battle took place at close quarters.
 In the midst of this,
 after Caesar's ninth legion captured a certain garrison and commenced
@@ -35,4 +35,11 @@ He obstructed us, first by positioning archers and slingers on our flank,
 and then by sending in a great multitude of light infantry
 and bringing siege engines forward;
 and it was not easy for our men defend themselves and erect fortifications at the same time.
-
+When Caesar saw his men getting wounded from all sides,
+he ordered them to retreat and to withdraw from the spot,
+and they retreated down the slope.
+But at this the enemy were in fierce pursuit and didn't allow our men to
+retreat, because led by dread >place to abandon they seemed.
+It is said that at the time boasting before our men Pompey said:
+not to reject selves, that not a commander is valued to be of no use,
+if Caesar's legions had retreated from where they had rashly advanced without the greatest defeat.
