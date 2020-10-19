@@ -1,60 +1,43 @@
-47.1
-Erat nova et inusitata belli ratio
-cum tot castellorum numero tantoque spatio et tantis munitionibus et toto obsidionis genere,
-tum etiam reliquis rebus.
-
-Nam quicumque alterum obsidere conati sunt,
-perculsos atque infirmos hostes adorti aut proelio superatos aut aliqua
-offensione permotos continuerunt,
-cum ipsi numero equitum militumque praestarent;
-causa autem obsidionis haec fere esse consuevit,
-ut frumento hostes prohiberent.
-
-At tum integras atque incolumes copias Caesar inferiore militum numero continebat,
-cum illi omnium rerum copia abundarent;
-cotidie enim magnus undique navium numerus conveniebat,
-quae commeatum supportarent,
-neque ullus flare ventus poterat,
-quin aliqua ex parte secundum cursum haberent.
-
-Ipse autem consumptis omnibus longe lateque frumentis summis erat in angustiis.
-Sed tamen haec singulari patientia milites ferebant.
-
-Recordabantur enim eadem se superiore anno in Hispania perpessos labore et patientia maximum bellum confecisse,
-meminerant ad Alesiam magnam se inopiam perpessos,
-multo etiam maiorem ad Avaricum,
-maximarum gentium victores discessisse.
-
-Non illi hordeum cum daretur, non legumina recusabant;
-pecus vero cuius rei summa erat ex Epiro copia, magno in honore habebant.
+47.1 Erat nova et inusitata belli ratio cum tot castellorum numero
+tantoque spatio et tantis munitionibus et toto obsidionis genere,
+tum etiam reliquis rebus.  Nam quicumque alterum obsidere conati
+sunt, perculsos atque infirmos hostes adorti aut proelio superatos
+aut aliqua offensione permotos continuerunt, cum ipsi numero equitum
+militumque praestarent; causa autem obsidionis haec fere esse
+consuevit, ut frumento hostes prohiberent.  At tum integras atque
+incolumes copias Caesar inferiore militum numero continebat, cum
+illi omnium rerum copia abundarent; cotidie enim magnus undique
+navium numerus conveniebat, quae commeatum supportarent, neque ullus
+flare ventus poterat, quin aliqua ex parte secundum cursum haberent.
+Ipse autem consumptis omnibus longe lateque frumentis summis erat in
+angustiis.  Sed tamen haec singulari patientia milites ferebant.
+Recordabantur enim eadem se superiore anno in Hispania perpessos
+labore et patientia maximum bellum confecisse, meminerant ad Alesiam
+magnam se inopiam perpessos, multo etiam maiorem ad Avaricum,
+maximarum gentium victores discessisse.  Non illi hordeum cum
+daretur, non legumina recusabant; pecus vero cuius rei summa erat ex
+Epiro copia, magno in honore habebant.
 
 
-It was a novel and strange plan of war,
-not only in the extent of redoubts in number and area,
-both in such great fortifications and in every sort of siege,
-but also in everything else as well.
-
-For whichever side tried to besiege the other
-surrounded an enemy demoralized and weakened   of assailed
-either overcome by battle or agitated by some accident,
-when they outnumbered them in horse and infantry;
-but for the sake of the siege this nearly to be he was inured,
-to keep the enemy from supplies.
-
-But then Caesar surrounded fresh, uninjured and well supplied troops with a inferior number of soldiers;
-for a great number of ships, carrying provisions,
-were stopping in from every direction on a daily basis,
+It was a novel and strange plan of war, not only in the number and
+extent of the redoubts, both in the size of the fortifications and
+in the whole character of the sieges, but in everything else as
+well.  For whenever one side tries to blockade another, which they
+outnumber them in horse and infantry, they fall upon a demoralized
+and weakened enemy, and surround men either overcome by battle or
+agitated by some accident.  And this is the most customary reason
+for a siege, to keep the enemy from supplies.  But at that time
+Caesar was outnumbered, and was blockading troops who were fresh,
+sound and well supplied; for a great number of ships, carrying
+provisions, were stopping in from every direction on a daily basis,
 as any wind that blew was favorable for ships coming from somewhere.
-
-But he having used up all the crops to the bitter end, far and wide,
-was in a squeeze.
-But the soldiers nevertheless bore these things by patience alone.
-
-For they remembered that they themselves
-had endured to the fullest with toil and patience a year or two back in Spain
-and had brought a very great war to fruition.
-
-They wouldn't refuse barley when it was given out, nor pulse;
-indeed, 
-herd whose highest thing was supplied from Epirum,
-they held in great honor.
+While Caesar had used up all the crops around, far and wide, and was
+in a squeeze.  But the soldiers nevertheless bore these things with
+singular patience.  For they remembered that they themselves had
+endured to the fullest with toil and patience a year back in Spain
+and had brought a very great war to fruition.  They remembered that
+they'd endured great privation at Alesia, and far greater at
+Avaricum, and had marched off as victors over the greatest tribes.
+They didn't refuse barley when it was given out, nor pulse; indeed,
+cattle, which was supplied from Epirus in abundance, they held in
+great honor as the ultimate business.
