@@ -19,30 +19,25 @@ Sed quis in adversis beneficiorum servat memoriam?  Aut quis ullam
 calamitosis deberi putat gratiam?  Aut quando fortuna non mutat
 fidem?  Consilio itaque Theodoti et Achillae, missi sunt ab rege
 qui Pompeium venientem exciperent hortarenturque ut ex oneraria
-nave in eam quae obviam processerat transcenderet.
+nave in eam quae obviam processerat transcenderet.  Quod cum
+fecisset, princeps Romani nominis imperio arbitrioque Aegyptii
+mancipii iugulatus est.  Hic, post tres consulatus et totidem
+triumphos domitumque terrum orbem, sanctissimi atque
+praestantissimi viri, duodesexagesimum annum agentis, pridie
+natalem ipsius vitae, fuit exitus.  Sed certe de Pompeii morte
+nemini dubium umquam fuit.  Tanta enim desperatio rerum eius
+omnium regum et populorum animos occuparat, ut, quocumque
+venisset, hoc futurum esset.
 
----------------------------------------------------
-Quod cum fecisset, princeps Romani nominis imperio arbitrioque Aegyptii
-mancipii iugulatus est.11
-Hic, post tres consulatus et totidem triumphos domitumque terrum orbem,12
-sanctissimi atque praestantissimi viri,
-duodesexagesimum annum agentis, pridie natalem ipsius vitae, fuit exitus. 13
-Sed certe de Pompeii morte nemini dubium umquam fuit.
-Tanta enim desperatio rerum eius omnium regum et populorum animos occuparat,
-ut, quocumque venisset, hoc futurum esset. 14
-
-Pompeio mortuo, reliqui optimates a Caesare Thapsi victi sunt,15
-Cato vero non interfuit proelio, quod Uticam servabat; 16
-sed, accepta partium clade, nihil cunctatus, ut sapiente dignum erat,
-mortem sibi etiam laetus accivit. 17
-Nam postquam filium comitesque ab amplexu dimisit,
-in noctem lecto ad lucernam Platonis libro qui immortalitatem animae docet,
-paulum se quieti dedit. 18
-Tunc circa primam vigiliam, stricto gladio,19
-pectus semel iterumque percussit.
-Ille autem, virtutum viva imago, incumbens gladio,
-simul de se actum esse ac de re publica palam fecit. 20
-
+Pompeio mortuo, reliqui optimates a Caesare Thapsi victi sunt,
+Cato vero non interfuit proelio, quod Uticam servabat; sed,
+accepta partium clade, nihil cunctatus, ut sapiente dignum erat,
+mortem sibi etiam laetus accivit.  Nam postquam filium
+comitesque ab amplexu dimisit, in noctem lecto ad lucernam
+Platonis libro qui immortalitatem animae docet, paulum se quieti
+dedit.  Tunc circa primam vigiliam, stricto gladio, pectus semel
+iterumque percussit.  Ille autem, virtutum viva imago, incumbens
+gladio, simul de se actum esse ac de re publica palam fecit.
 
 
 The death of Pompey and Cato
@@ -70,3 +65,26 @@ to ruined men?  Or when does fortune not alter loyalty?  And so by
 the advice of Theodotius and Achilles, the king sent men to
 receive the arriving Pompey and urge him to climb out of the cargo
 ship into one had come to meet him.
+
+============================
+And after he did this, a Roman prince had his throat cut,
+by the command and authority of an Egyptian slave.
+This was the end of a most august and outstanding man,
+on the day before his fifty-ninth birthday, 
+after three consulships and as many triumphs and the conquest of the world.
+But certainly no-one ever had a doubt about the death of Pompey.
+For his affairs were in such desperate straits and had seized the minds of kings and of people,
+that wherever he might have gone, this was going to happen.
+
+After Pompey's death, the rest of the optimates were defeated by
+Caesar at Thapsus.  In truth, Cato wasn't present at the battle
+because he was guarding Utica; but, when he received news of his
+faction's ruin, without hesitation, as was worthy for a
+philosopher, he cheerfully committed suicide.  For after he
+released his son and comrades from his embrace, and read far
+into the night by lamplight from a book by Plato, who taught the
+immortality of the soul, he allowed himself a bit of repose.
+Then, around the first watch, he drew a sword and pierced his
+breast once and then again.  But he, the living image of virtue,
+falling on his sword, made it clear that all was lost for both
+him and for the republic.
