@@ -65,8 +65,8 @@ It was clearly agreed upon among nearly everyone that the sort of
 death that had fallen to him was almost according to his wish.
 For once, when he had read in Xenophon that in his final illness
 Cyrus had commanded certain things regarding his own funeral,
-scorning a slow kind of death so much that he'd chosen a sudden
-and swift one for himself; and would sooner have been murdered,
+scorning a slow kind of death so much that he would've chosen a sudden
+and swift one for himself; and would sooner have been slain,
 in a speech that came up over dinner at Marcus Lepidus', about
 what might be the most suitable end of life, he had preferred a
 sudden and unexpected one.
@@ -74,16 +74,34 @@ sudden and unexpected one.
 
 B. Ciceronis de Caesaris caede duae sententiae
 
-CICERO BASILO SAL.22
-Tibi gratulor, mihi gaudeo;23 te amo, tua tueor;24 a te amari et
-quid agas quidque agatur certior fieri volo.25
+CICERO BASILO SAL.
+Tibi gratulor, mihi gaudeo; te amo, tua tueor;
+a te amari et quid agas quidque agatur certior fieri volo.
 
 CICERO ATTICO SAL.
+Equidem doleo, quod numquam in ulla civitate accidit,
+non una cum libertate rem publicam recuperatam.
+Horribile est quae loquantur, quae minitentur.
+Ac vereor Gallica etiam bella, ipse Sextus quo evadat.
+Sed omnia licet concurrant, Idus Martiae consolantur.
+Nostri autem heroes quod per ipsos confici potuit
+gloriosissime et magnificentissime confecerunt;
+reliquae res opes et copias desiderant, quas nullas habemus.
 
-Equidem doleo, quod numquam in ulla civitate accidit, non una
-cum libertate rem publicam recuperatam.26 Horribile est quae loquan-
-tur, quae minitentur.27 Ac vereor Gallica etiam bella, ipse Sextus quo
-evadat.28 Sed omnia licet concurrant, 29 Idus Martiae consolantur.
-Nostri autem heroes quod per ipsos confici potuit gloriosissime et
-magnificentissime confecerunt;30 reliquae res opes et copias desiderant,
-quas nullas habemus.
+
+Two opinions of Cicero on Caesar's death
+
+CICERO TO BASILUS, GREETINGS
+I congratulate you, I rejoice for my own sake;
+I love you, I protect your interests; I wish to be loved by you,
+and to find out more about what you are doing and how it's going with you.
+
+CICERO TO ATTICUS, GREETINGS
+For my part, I grieve for what never happened in any city,
+for a republic to be restored with even a single liberty.
+It's terrible what they say, what they threaten.
+And I also dread the war in Gaul, from which Sextus may himself escape.
+But even if all else joins against us, let the Ides of March console us.
+For because he could be killed through the efforts of our heroes,
+they dispatched him most gloriously and magnificently;
+the remaining matters require resources and wealth, which we have none of.
