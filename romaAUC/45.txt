@@ -21,8 +21,22 @@ Cassii caput, cum evocatus advenit nuntians Brutum esse victorem.
 Qui cum imperatorem prostratum videret, "Sequar," inquit, "eum quem
 mea occidit tarditas," et ita in gladium incubuit.
 
-Post paucos deinde dies Brutus iterum conflixit cum hostibus et, victus acie, cum in tumulum nocte ex fuga se recepisset, 12 impetravit a Stratone, familiari suo, ut manum morituro commodaret sibi 13 impellensque se in mucronem gladii eius, uno ictu transfixus, expiravit protinus. Hunc exitum M. Bruti septimum et tricesimum annum agentis Fortuna esse voluit, incorrupto animo eius in diem quae illi omnes virtutes unius temeritate facti abstulit. 14 Fuit autem dux Cassius melior quanto vir Brutus; 15 e quibus Brutum amicum habere malles, inimicum magis timeres Cassium; 16 in altero maior vis, in altero virtus. Qui si vicissent, quantum rei publicae interfuit Caesarem Octavianum potius habere quam Antonium principem, tantum retulisset habere Brutum quam Cassium.17
-Fractis Bruti Cassiique partibus, Antonius, transmarinas obiturus provincias, ad Orientem ordinandum substitit.18 Caesar autem in Italiam ad veteranos municipalibus agris collocandos regressus est.19 Nec successum victoriae moderatus est, sed, capite Bruti Romam misso ut statuae Caesaris subiceretur, 20 in alios splendidissimos captivos non sine verborum contumelia saeviit. 21
+Post paucos deinde dies Brutus iterum conflixit cum hostibus et,
+victus acie, cum in tumulum nocte ex fuga se recepisset,
+impetravit a Stratone, familiari suo, ut manum morituro commodaret sibi
+impellensque se in mucronem gladii eius, uno ictu transfixus, expiravit protinus.
+Hunc exitum M. Bruti septimum et tricesimum annum agentis Fortuna esse voluit,
+incorrupto animo eius in diem quae illi omnes virtutes unius temeritate facti abstulit.
+Fuit autem dux Cassius melior quanto vir Brutus;
+e quibus Brutum amicum habere malles, inimicum magis timeres Cassium;
+in altero maior vis, in altero virtus.
+Qui si vicissent, quantum rei publicae interfuit Caesarem Octavianum potius habere quam Antonium principem, tantum retulisset habere Brutum quam Cassium.
+Fractis Bruti Cassiique partibus, Antonius, transmarinas obiturus provincias,
+ad Orientem ordinandum substitit.
+Caesar autem in Italiam ad veteranos municipalibus agris collocandos regressus est.
+Nec successum victoriae moderatus est,
+sed, capite Bruti Romam misso ut statuae Caesaris subiceretur, 
+in alios splendidissimos captivos non sine verborum contumelia saeviit.
 
 
 The Battle of Philippi
@@ -51,3 +65,29 @@ cut off Cassius' head, when the veteran arrived to report that
 Brutus was the victor.  And when he saw the general struck down, he
 said, "I'll follow him whom my tardiness killed", and so fell on his
 sword.
+
+
+Then, after a few days, Brutus again fought with the enemy and,
+defeated in battle, after he'd retreated to a hill in the night in his flight,
+he asked Strato, his servant, to lend him a hand in his death
+and driving himself onto the point of his sword,
+was pierced in a single stroke and died at once. 
+Fortune willed this to be the end of M. Brutus,
+after reaching  his thirty-seventh year with his spirit uncorrupted,
+until that day in which he swept all his virtues away in a single rash act.
+But Cassius was the better general, as much as Brutus was the better man;
+and between them, you'd rather have Brutus for a friend,
+and dread to have Cassius as an enemy;
+in one was great strength, in the other was virtue.
+But if any men had succeeded,
+it would have been as much better for the republic have Brutus over Cassius as
+the leader, as to have Caesar Octavianus rather than Antony.
+With Brutus' and Cassius' factions crushed, Antony,
+since he was about to go overseas,
+started making arrangements to head East.
+But Caesar returned to Italy, to settle the veterans on municipal fields.
+And he didn't guide the outcome of the victory, but,
+with the head of Brutus having been sent to Rome
+to be placed at the feet of the statue of Caesar,
+he raged against the other splendid prisoners, not without words of abuse.
+
