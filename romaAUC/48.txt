@@ -18,26 +18,26 @@ mox Tiberii principatum et cetera, sine ira et studio, quorum
 causas procul habeo.
 
 
-Postquam, Bruto et Cassio caesis, nulla iam publica arma, Pom-
-peius apud Siciliam oppressus,13 exutoque Lepido, interfecto Antonio,
-ne Iulianis quidem partibus nisi Caesar dux reliquus;14 posito trium-
-viri nomine, consulem se ferens et ad tuendam plebem tribunicio iure
-contentum,!5 ubi militem donis, populum annona, cunctos dulcedine
-otii pellexit,16 insurgere paulatim, munia senatus, magistratuum,
-legum, in se trahere,!7 nullo adversante, cum ferocissimi per acies aut
-proscriptione cecidissent,18 ceteri nobilium, quanto quis servitio
-promptior, opibus et honoribus extollerentur !9 ac, novis ex rebus aucti,
-tuta et praesentia quam vetera et periculosa mallent.20 Neque pro-
-vinciae illum rerum statum abnuebant, suspecto senatus populique
-imperio, ob certamina potentium et avaritiam magistratuum, invalido
-legum auxilio, quae vi, ambitu, postremo pecunia turbabantur.21
+Postquam, Bruto et Cassio caesis, nulla iam publica arma,
+Pompeius apud Siciliam oppressus, exutoque Lepido, interfecto Antonio,
+ne Iulianis quidem partibus nisi Caesar dux reliquus;
+posito triumviri nomine, consulem se ferens et ad tuendam plebem tribunicio iure contentum,
+ubi militem donis, populum annona, cunctos dulcedine otii pellexit,
+insurgere paulatim, munia senatus, magistratuum, legum, in se trahere,
+nullo adversante, cum ferocissimi per acies aut proscriptione cecidissent,
+ceteri nobilium, quanto quis servitio promptior, opibus et honoribus extollerentur
+ac, novis ex rebus aucti, tuta et praesentia quam vetera et periculosa mallent.
+Neque provinciae illum rerum statum abnuebant,
+suspecto senatus populique imperio,
+ob certamina potentium et avaritiam magistratuum,
+invalido legum auxilio, quae vi, ambitu, postremo pecunia turbabantur.
 
-Bellum ea tempestate nullum nisi adversus Germanos supererat,22
+Bellum ea tempestate nullum nisi adversus Germanos supererat,
 abolendae magis infamiae ob amissum cum Quintilio Varo exercitum
-quam cupidine proferendi imperii aut dignum ob praemium.23 Domi
-res tranquillae, eadem magistratuum vocabula; iuniores post Actiacam
-victoriam, etiam senes plerique inter bella civium nati; quotus quisque
-reliquus qui rem publicam vidisset? 24
+quam cupidine proferendi imperii aut dignum ob praemium.
+Domi res tranquillae, eadem magistratuum vocabula;
+iuniores post Actiacam victoriam, etiam senes plerique inter bella civium nati;
+quotus quisque reliquus qui rem publicam vidisset?
 
 
 Preface to the Annals of Cornelius Tacitus
@@ -62,3 +62,34 @@ recent hatreds.  Due to that my plan is to relate only a little
 about Augustus and that from the end of his life, then the rule
 of Tiberius and the rest, without anger and zeal, the causes for
 which I hold far off.
+
+
+
+Afterwards, with Brutus and Cassius stuck down, no longer public arms,
+Pompey overthrown on Sicily, with Lepidus cast off, Antony killed,
+not even a single leader remaining for the Julian party except Caesar;
+having put aside the title of triumvir, presenting himself as consul,
+content with protecting the plebs through tribunal law,
+whereby he won over the soldier with gifts, the people with provisions,
+and everyone with sweetness and ease,
+he gradually grew in power, taking upon himself the duties of the senate,
+the magistrates, and the laws,
+with no-one opposing him,
+after the fiercest men had been struck down through battles or proscription,
+since the rest of the nobles, by however much each was ready for slavery,
+could be lifted up by wealth and honors and
+made wealthier from this new property, prefered the safe present days
+over the dangerous olden times.
+Nor did the provinces reject that state of affairs,
+with the authority of the senate and the people looked up to,
+on account of the rivalries of powerful men and the greed of the magistrates,
+from the feeble aid of laws, that were thrown into confusion
+by violence, solicitation, and in the end, bribery.
+
+There was no war left at the time except against the Germans,
+more for the sake of obliterating the disgrace of losing Quintilius Varus' army
+than for the desire of advancing the empire or for the sake of a worthy prize.
+At home things were quiet, the same names of the magistrates;
+the younger men were born after the victory at Actium,
+even most of their elders were born among the civil wars;
+how few remained who'd seen the republic?
