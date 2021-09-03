@@ -1,10 +1,10 @@
 Caedes Remi
 
 Vox fuit haec regis: "Condenti, Iuppiter, urbem,
- et genitor Mavors Vestaque mater, ades;1
-quosque pium est adhibere deos, advertite cuncti.2
- Auspicibus vobis hoc mihi surgat opus.3
-Longa sit huic aetas dominaeque potentia terrae,4
+ et genitor Mavors Vestaque mater, ades;
+quosque pium est adhibere deos, advertite cuncti.
+ Auspicibus vobis hoc mihi surgat opus.
+Longa sit huic aetas dominaeque potentia terrae,
  sitque sub hac oriens occiduusque dies."
 Ille precabatur; tonitru dedit omina laevo
  Iuppiter et laevo fulmina missa polo.5
@@ -23,3 +23,12 @@ Haec ubi rex didicit, lacrimas introrsus obortas
 Flere palam non vult exemplaque fortia servat; 15
  "Sic" que "meos muros transeat hostis" ait.16
 
+
+The end of Remus
+
+This was the voice of the king: "For founding a city, Jupiter,
+ both Father Mars and Mother Vesta, attend me;
+Ye gods whom it is pious to summon, all turn to me.
+ Under your auspices this work rises to me.
+Long be the lifetime for it, and the power for mistress land,
+ and may the day be under this, rising and setting."
