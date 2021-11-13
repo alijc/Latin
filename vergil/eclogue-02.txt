@@ -14,7 +14,7 @@ Thestylis et rapido fessis messoribus aestu    &           10
 alia serpyllumque herbas contundit olentis.&
 at mecum raucis, tua dum vestigia lustro,&
 sole sub ardenti resonant arbusta cicadis.
-
+==============================================================
 
 Eclogue II&
 
@@ -22,7 +22,7 @@ The shepherd Corydon burned for fair Alexis,
 the delight of his master, he didn't have what he hoped for.
 He came so much, so often, among the thick-set beech-trees,
 with their shady tree-tops.  There, alone, he scattered
-these artless songs in the hills and forests with an empty zeal;&
+these artless songs in the hills and forests with an empty zeal;
 
 'O, hardhearted Alexis, care you nothing for my songs?
 Do you show me no pity? Compel me to die?
@@ -32,4 +32,39 @@ and Thestylis, in a swift passion, for the weary reapers
 crushes the garlic and thyme and fragrant herbs.
 But with me, while I track your footsteps,
 the orchards resound with raucous cicadas under the burning sun.
+==============================================================
 
+
+nonne fuit satius tristis Amaryllidos iras&
+atque superba pati fastidia? nonne Menalcan,  &             15
+quamvis ille niger, quamvis tu candidus esses?&
+o formose puer, nimium ne crede colori;&
+alba ligustra cadunt, vaccinia nigra leguntur.&
+
+Despectus tibi sum nec qui sim quaeris, Alexi,&
+quam dives pecoris, nivei quam lactis abundans.  &             20
+mille meae Siculis errant in montibus agnae;&
+lac mihi non aestate novum, non frigore defit.&
+canto quae solitus, si quando armenta vocabat,&
+Amphion Dircaeus in Actaeo Aracyntho.&
+nec sum adeo informis; nuper me in litore vidi,   &            25
+cum placidum ventis staret mare. non ego Daphnin&
+iudice te metuam, si numquam fallit imago.
+==============================================================
+
+
+Wasn't it better for sad Amarylluses to suffer
+rages and over-weening pride?  And look at Menalcas,
+isn't he as dark as you are fair?
+O beauteous boy, don't put too much trust in your complexion;
+white privet flowers die, while dark blueberries are gathered up.
+
+I am despised by you and you don't ask who I am, Alexis,
+than wealthy of snowy-white cattle, than rich of milk.
+A thousand of my lambs wander in the Sicilian mountains;
+fresh milk doesn't fail me in summer, nor in winter either.
+I sing what I like, if ever a cow calls me,
+Amphion of Dirce in Actaeus Aracynthus.
+And indeed, I am not deformed; not long ago I saw myself at the shore,
+when the calm sea rested from the winds.  Not I >Daphnae
+to/by a judge me I will/may fear, if never the likeness deceives.
