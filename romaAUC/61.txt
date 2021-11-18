@@ -53,21 +53,21 @@ Vergil imitated these lines in the sixth book of the Aeneid as well:
    the one who saves the republic for us by delaying.
 
 =====================================================
-C.  Undique conveniunt velut imber tela tribuno; 17
-    configunt parmam. 18 Tinnit hastilibus umbo; 19
-    aerato sonitu galeae. 20 Sed nec pote quisquam
-    undique nitendo corpus discerpere ferro.21
-    Semper adundantes hastas frangitque quatitque.22
-    Totum sudor habet corpus; multumque laborat; 23
+C.  Undique conveniunt velut imber tela tribuno; 
+    configunt parmam. Tinnit hastilibus umbo;
+    aerato sonitu galeae.  Sed nec pote quisquam
+    undique nitendo corpus discerpere ferro.
+    Semper adundantes hastas frangitque quatitque.
+    Totum sudor habet corpus; multumque laborat; 
     nec respirandi fit copia. Praepete ferro
-    Histri tela manu iacientes sollicitabant, 24
+    Histri tela manu iacientes sollicitabant,
 
-Quos versus Vergilius de incluso Turno in nono Aeneidos gra...
-elegantiore imitatus est: 25
+Quos versus Vergilius de incluso Turno in nono Aeneidos gratia
+elegantiore imitatus est:
 
     Ergo nec clipeo iuvenis subsistere tantum
-    nec dextra valet, 26 iniectis sic undique telis
-    obruitur. 27 Strepit adsiduo cava tempora circum
+    nec dextra valet, iniectis sic undique telis
+    obruitur.  Strepit adsiduo cava tempora circum
     tinnitu galea, 28 et saxis solida aera fatiscunt, 29
     discussaeque iubae capiti,30 nec sufficit umbo
     ictibus. 31 Ingeminant hastis et Troes et ipse
@@ -75,3 +75,18 @@ elegantiore imitatus est: 25
     liquitur 33 et piceum (nec respirare potestas)
     flumen agit; 34 fessos quatit aeger anhelitus artus, 35
 
+C.  From every side the spears converge, like rain, towards the tribune; 
+    they pierce his shield; Its boss clangs with spears;
+    his helmet with brassy clangs. But it is not possible for anyone,
+    pressing on him from every side, to mangle his body with iron.
+    He breaks the constant waves of spears and shakes them from his shield.
+    Sweat covers his whole body; and he labors hard;
+    he has no chance to draw a breath. With flying iron
+    the Istrians, casting javelins by hand, stirred up...
+
+Vergil imitated these lines with elegant grace in the ninth book of the Aeneid,
+writing about the trapped Turnus.
+
+    And so not with his shield can the young man make a stand,
+    nor with his right hand either, with javelins cast from every side thus
+    he is buried.
