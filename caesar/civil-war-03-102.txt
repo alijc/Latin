@@ -1,64 +1,56 @@
-102.1
-Caesar omnibus rebus relictis persequendum sibi Pompeium existimavit,
-quascumque in partes se ex fuga recepisset,
-ne rursus copias comparare alias et bellum renovare posset,
-et quantumcumque itineris equitatu efficere poterat,
-cotidie progrediebatur legionemque unam minoribus itineribus subsequi iussit.
-Erat edictum Pompei nomine Amphipoli propositum,
-uti omnes eius provinciae iuniores, Graeci civesque Romani,
-iurandi causa convenirent.
-Sed utrum avertendae suspicionis causa Pompeius proposuisset,
-ut quam diutissime longioris fugae consilium occultaret,
-an ut novis dilectibus, si nemo premeret,
-Macedoniam tenere conaretur, existimari non poterat.
-Ipse ad ancoram unam noctem constitit et vocatis ad se Amphipoli hospitibus
-et pecunia ad necessarios sumptus corrogata,
-cognito Caesaris adventu,
-ex eo loco discessit et Mytilenas paucis diebus venit.
-Biduum tempestate retentus navibusque aliis additis actuariis in Ciliciam
-atque inde Cyprum pervenit.
-Ibi cognoscit consensu omnium Antiochensium civiumque Romanorum,
-qui illic negotiarentur,
-arma capta esse excludendi sui causa nuntiosque dimissos ad eos,
-qui se ex fuga in finitimas civitates recepisse dicerentur,
-ne Antiochiam adirent:
-id si fecissent, magno eorum capitis periculo futurum.
-Idem hoc L. Lentulo, qui superiore anno consul fuerat,
-et P. Lentulo consulari ac nonnullis aliis acciderat Rhodi;
-qui cum ex fuga Pompeium sequerentur atque in insulam venissent,
-oppido ac portu recepti non erant missisque ad eos nuntiis,
-ut ex his locis discederent contra voluntatem suam naves solverant.
-Iamque de Caesaris adventu fama ad civitates perferebatur.
+102.1 Caesar omnibus rebus relictis persequendum sibi Pompeium
+existimavit, quascumque in partes se ex fuga recepisset, ne rursus
+copias comparare alias et bellum renovare posset, et quantumcumque
+itineris equitatu efficere poterat, cotidie progrediebatur
+legionemque unam minoribus itineribus subsequi iussit.  Erat edictum
+Pompei nomine Amphipoli propositum, uti omnes eius provinciae
+iuniores, Graeci civesque Romani, iurandi causa convenirent.  Sed
+utrum avertendae suspicionis causa Pompeius proposuisset, ut quam
+diutissime longioris fugae consilium occultaret, an ut novis
+dilectibus, si nemo premeret, Macedoniam tenere conaretur, existimari
+non poterat.  Ipse ad ancoram unam noctem constitit et vocatis ad se
+Amphipoli hospitibus et pecunia ad necessarios sumptus corrogata,
+cognito Caesaris adventu, ex eo loco discessit et Mytilenas paucis
+diebus venit.  Biduum tempestate retentus navibusque aliis additis
+actuariis in Ciliciam atque inde Cyprum pervenit.  Ibi cognoscit
+consensu omnium Antiochensium civiumque Romanorum, qui illic
+negotiarentur, arma capta esse excludendi sui causa nuntiosque
+dimissos ad eos, qui se ex fuga in finitimas civitates recepisse
+dicerentur, ne Antiochiam adirent: id si fecissent, magno eorum
+capitis periculo futurum.  Idem hoc L. Lentulo, qui superiore anno
+consul fuerat, et P. Lentulo consulari ac nonnullis aliis acciderat
+Rhodi; qui cum ex fuga Pompeium sequerentur atque in insulam
+venissent, oppido ac portu recepti non erant missisque ad eos
+nuntiis, ut ex his locis discederent contra voluntatem suam naves
+solverant.  Iamque de Caesaris adventu fama ad civitates
+perferebatur.
 
 
-Caesar assumed that Pompey would pursue every opportunity that remained to him
-in whichever regions he might take himself in his flight,
-and to keep him from collecting other forces and renewing the war again,
-he advanced each day by however much his cavalry was able,
-and ordered one legion to follow them at a slower pace.
-A resolution had been proclaimed at Amphipolus, in Pompey's name,
-that all draft-age men of his province, whether Greek or Roman citizens,
-should assemble to swear an oath of allegiance.
-But he couldn't judge
-whether Pompey proposed this to divert suspicion
-and conceal his flight for as long as possible,
-or to  attempt to occupy Macedonia with fresh levies, if no one pursued him.
-Pomper himself stood at anchor one night and,
-after summoning the hosts of Amphipolus and collecting money for needed
-expenses, he learned of Caesar's arrival and withdrew from there
-and went to Mytilenae for a few days.
-After being held up for two days by a storm and with other faster ships added to
-his fleet, he reached Cilicia and Cyprus.
-There he learned that, by the general consent of all Antiochian and Roman
-citizens who did business there, 
-captured arms were of his exclusion cause and that messengers sent off to
-those, who had been said to have taken flight to nearby cities,
-for fear that they would attack Antioch;
-had they had done it, they'd be in great peril of their heads.
-The same thing had happened at Rhodes to L. Lentulus,
-who had been consul the previous year.
-and to P. Lentulus to/by consular and several others;
-who when they followed Pompey from flight and reached the island,
-had not been taken in by the town and harbor after sending messengers to
-them, so that they withdrew from these places against their will and set sail.
-And already the rumor of Caesar's arrival was being carried to the cities.
+Caesar decided on pursuing Pompey with every opportunity left to him,
+in whichever regions he might take himself in his flight, to keep him
+from collecting other forces and renewing the war again.  And so he
+advanced each day by however much his cavalry was able, and ordered
+one legion to follow them at a slower pace.  A resolution had been
+proclaimed at Amphipolus, in Pompey's name, that all draft-age men of
+his province, whether Greek or Roman citizens, should assemble.  But
+he couldn't judge whether Pompey proposed this to divert suspicion
+and conceal his flight for as long as possible, or to attempt to
+occupy Macedonia with fresh levies, if no one pursued him.  Pompey
+himself lay at anchor one night and after summoning his friends in
+Amphipolus and collecting money for needed expenses, he learned of
+Caesar's arrival and withdrew from there and went to Mytilenae in a
+few days.  After being held up for two days by a storm and with other
+faster ships added to his fleet, he reached Cilicia and from there
+Cyprus.  There he learned that, by general consensus, all of the
+Antiochians and the Roman citizens who did business there, that the
+armory had been seized in order to shut him out and that messengers
+had been sent off to those who were said to have taken flight to
+nearby cities, to keep them from approaching Antioch; that if they
+did so, they'd be in great peril of their heads.  The same thing had
+happened at Rhodes to L. Lentulus, who had been consul the previous
+year, and to P. Lentulus, of consular rank, and several others.  When
+these men reached the island, following Pompey in his flight, they
+had not been allowed into the town and harbor, but had been sent
+messages ordering them to withdraw from there.  They set sail
+unwillingly, as news of Caesar's arrival was already being carried to
+the cities.
