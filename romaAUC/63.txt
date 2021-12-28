@@ -14,26 +14,6 @@ vidi, alia egomet gessi; quae illi litteris, ea ego militando
 didici.  Nunc vos existumate facta an dicta pluris sint.
 Contemnunt novitatem meam, ego illorum ignaviam.
 
-Marius' speech before the people
-
-After Marius was made consul by the impassioned commoners, the
-people ordered him to the province of Numidia. Before this they'd
-been hostile to the nobility, and indeed pursued them continuously
-and ferociously. And the senate, which had been hostile,
-didn't dare deny him anything.  Then Marius, for the sake
-of exhorting both the commoners and nobility, as was his wont,
-called a meeting to stir up the people. Then he set out in words in
-this manner:
-
-"You have ordered me to wage war against Iugurtha, a thing that the
-nobility bore with great anxiety. Now, Romans, compare me, a new
-man, with their arrogance. There are things that they are
-accustomed to hear and read, to see as their role, but I have done
-other things; what they learned from letters, I myself learned from
-being a soldier. Now you must judge whether what is done is greater
-than what is said. They despise my newness, and I their idleness.
-
-
 "Quod si iure me despiciunt, faciant idem maioribus suis, quibus
 uti mihi ex virtute nobilitas coepit.  Invident honori meo; ergo
 invideant labori, innocentiae, periculis etiam meis, quoniam per
@@ -52,6 +32,25 @@ milites scribere, non more maiorum ex classibus sed capite censos
 plerosque.  Igitur cum aliquanto maiore numero quam decretum erat
 in Africam profectus est.
 
+
+Marius' speech before the people
+
+After Marius was made consul by the impassioned commoners, the
+people ordered him to the province of Numidia. Before this they'd
+been hostile to the nobility, and indeed pursued them continuously
+and ferociously. And the senate, which had been hostile,
+didn't dare deny him anything.  Then Marius, for the sake
+of exhorting both the commoners and nobility, as was his wont,
+called a meeting to stir up the people. Then he set out in words in
+this manner:
+
+"You have ordered me to wage war against Iugurtha, a thing that the
+nobility bore with great anxiety. Now, Romans, compare me, a new
+man, with their arrogance. There are things that they are
+accustomed to hear and read, to see as their role, but I have done
+other things; what they learned from letters, I myself learned from
+being a soldier. Now you must judge whether what is done is greater
+than what is said. They despise my newness, and I their idleness.
 
 "But if they justly despise me, let them do the same to their
 ancestors, as nobility was created for me with their courage.
