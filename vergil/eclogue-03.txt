@@ -260,7 +260,7 @@ aurea mala decem misi; cras altera mittam.&
 
 O quotiens et quae nobis Galatea locuta est!&
 partem aliquam, venti, divom referatis ad auris.
-
+ 
 ========================================
 Damoetas:
 
@@ -286,3 +286,65 @@ Damoetas:
 
 Oh, how often Galatea spoke to me, and the things that she said!
 Winds, please carry some part of those to the ears of the gods.
+ 
+========================================
+1.1  Menalcas&
+
+Quid prodest quod me ipse animo non spernis, Amynta,&
+si, dum tu sectaris apros, ego retia servo?  &             75
+
+                         Damoetas&
+
+Phyllida mitte mihi; meus est natalis, Iolla,&
+cum faciam vitula pro frugibus, ipse venito.&
+
+                         Menalcas&
+
+Phyllida amo ante alias; nam me discedere flevit&
+et longum 'formose, vale, vale,' inquit, Iolla.&
+
+                         Damoetas&
+
+Triste lupus stabulis, maturis frugibus imbres, &              80
+arboribus venti, nobis Amaryllidos irae.&
+
+                         Menalcas&
+
+Dulce satis umor, depulsis arbutus haedis,&
+lenta salix feto pecori, mihi solus Amyntas.&
+
+                         Damoetas&
+
+Pollio amat nostram, quamvis est rustica, Musam;&
+Pierides, vitulam lectori pascite vestro.               85
+========================================
+
+Menalcas:
+
+What's the use that you yourself don't spurn me, Amyntas,
+if, while you pursue the boars, I guard the snares.
+
+Damoetas:
+
+Send Phyllis to me; it's my birthday, Iollas,
+when I might make with a calf for crops, he himself must come.
+
+Menalcas:
+
+I love Phyllis above the rest; for she wepr that I left her
+and long said, "Handsome one, farewell, farewell", Iollas.
+
+Damoetas:
+
+sadly the wolf in the folds/dens, to/by early crops the rains,
+to/by trees the winds, to us Amaryllis? the rages.
+
+Menalcas:
+
+sweetlyl enough the moisture, kto/by driven off kids the arbutus/madrone,
+bending willow to/by breeding flock/herd, for me only Amyntas.
+
+Damoetas:
+
+Pollio loves our Muse, although she's a bumpkin;
+Pierides??, graze a calf to your reader.
