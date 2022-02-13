@@ -29,12 +29,12 @@ Achillam sese ex regia traiecit unaque bellum administrare coepit.
 Sed celeriter est inter eos de principatu controversia orta;
 quae res apud milites largitiones auxit;
 magnis enim iacturis sibi quisque eorum animos conciliabat.
-
-Haec dum apud hostes geruntur, Pothinus, nutricius
-pueri et procurator regni in parte Caesaris, cum ad Achillam nuntios
-mitteret hortareturque, ne negotio desisteret neve animo deficeret,
-indicatis deprehensisque internuntiis a Caesare est interfectus. Haec
-initia belli Alexandrini fuerunt.
+Haec dum apud hostes geruntur, Pothinus,
+nutricius pueri et procurator regni in parte Caesaris,
+cum ad Achillam nuntios mitteret hortareturque,
+ne negotio desisteret neve animo deficeret,
+indicatis deprehensisque internuntiis a Caesare est interfectus.
+Haec initia belli Alexandrini fuerunt.
 
 Pharos is on a towering island,
 built up with amazing works; which has taken its name from the island.
@@ -70,5 +70,9 @@ herself.
 But a dispute quickly rose between them about the leadership;
 which increased the largess among the soldiers;
 for only by great cost to oneself could the heart of any one of them be won over.
-
-....
+While these things were going on among the enemy, Pothinus,
+the boy's tutor and the king's deputy for Caesar's side,
+sent messengers to Achillas and urged him not to leave off the negotiation
+or to lose heart.
+But when his going-betweens with Caesar were intercepted he was killed.
+These things were the beginnings of the Alexandrian war.
