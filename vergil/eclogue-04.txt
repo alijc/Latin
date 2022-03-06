@@ -55,6 +55,7 @@ molli paulatim flavescet campus arista&
 incultisque rubens pendebit sentibus uva&
 et durae quercus sudabunt roscida mella.               30
 
+==============================================
 
 He will take up the life of the gods, and will see heroes
 mingling with gods and will himself be seen by them,
@@ -74,3 +75,5 @@ and the deeds of your parent, and to recognize what virtue is,
 bit by bit the plain will turn yellow with soft ears of grain
 and a reddening grape will hang from uncultivated thorns,
 and hard oaks will sweat dewy honey.
+
+==============================================
