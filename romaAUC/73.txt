@@ -90,12 +90,12 @@ atque olim missas flemus amicitias,
 certe non tanto mors immatura dolori est
 Quintiliae, quantum gaudet amore tuo.32
 
-If anything pleasing or welcome to the silent tomb
-can fall from our sorrow, Calvus, 
-with this longing we revive our former loves
-and ever weep for lost friends,
+If anything pleasing or welcome can fall to silent tombs
+from our sorrow, Calvus, 
+then with this longing we revive former loves
+and weep for friendships long lost,
 surely an untimely death is less a grief to Quintilia
-than were her joys in your love.
+than her rejoicing in your love.
 
 
 E.
@@ -105,14 +105,14 @@ quotque post aliis erunt in annis,
 gratias tibi maximas Catullus
 agit pessimus omnium poeta; 
 tanto pessimus omnium poeta,
-quanto tu optimus omnium patronus.37
+quanto tu optimus omnium patronus.
 
 Oh, most eloquent of Romulus' descendants,
-despite how many there are and were, Marcus Tullius,
+despite how many there are and how many there were, Marcus Tullius,
 and how many there will be later in coming years,
 Catullus, the worst poet of all,
-gives you the greatest thanks;
-he is as much the worst poet of all,
+gives the greatest thanks to you.
+He is as much the worst poet of all,
 as you are the best advocate of all.
 
 
@@ -120,5 +120,5 @@ F.
 Nil nimium studeo, Caesar, tibi velle placere,
  nec scire utrum sis albus an ater homo.
 
-Not at all do I desire, Caesar, to wish to please you,
- nor to know whether you are a fair man or a dark one.
+I'm none too eager to wish to please you, Caesar,
+    or even to know whether you're a fair man, or a dark one.
