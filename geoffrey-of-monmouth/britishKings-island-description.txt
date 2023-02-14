@@ -1,24 +1,35 @@
 
 DESCRIPTIO INSVLAE
 
-Britannia, insularum optima, in occidentali occeano inter Galliam et
-Hiberniam sita, octingenta milia in longum, ducenta uero in latum continens, 25
-quicquid mortalium usui congruit indeficienti fertilitate ministrat. Omni
-etenim genere metalli fecunda, campos late pansos habet, colles quoque
-praepollenti culturae aptos, in quibus frugum diuersitates ubertate glebae
-temporibus suis proueniunt. Habet et nemora uniuersis ferarum generibus
-repleta, quorum in saltibus et alternandis animalium pastibus gramina 30
-conueniunt et aduolantibus apibus flores diuersorum colorum mella
-distribuunt. Habet etiam prata sub aeriis montibus amoeno situ uirentia, in
-quibus fontes lucidi, per nitidos riuos leni murmure manantes, pignus suauis
-soporis in ripis accubantibus irritant.
+Britannia, insularum optima,
+in occidentali occeano inter Galliam et Hiberniam sita,
+octingenta milia in longum, ducenta uero in latum continens, 25
+quicquid mortalium usui congruit indeficienti fertilitate ministrat.
+Omni etenim genere metalli fecunda,
+campos late pansos habet, colles quoque praepollenti culturae aptos,
+in quibus frugum diuersitates ubertate glebae temporibus suis proueniunt.
+Habet et nemora uniuersis ferarum generibus repleta,
+quorum in saltibus et alternandis animalium pastibus gramina conueniunt
+et aduolantibus apibus flores diuersorum colorum mella distribuunt.
+Habet etiam prata sub aeriis montibus amoeno situ uirentia,
+in quibus fontes lucidi, per nitidos riuos leni murmure manantes,
+pignus suauis soporis in ripis accubantibus irritant.
 
 A DESCRIPTION OF THE ISLAND
 
-Britain, the best of islands, situated in the western ocean
-between Gaul and Ireland, eigth hundred miles in length two hundred truly in
-width containing.
-
+Britain, the noblest of islands,
+is situated in the western ocean between Gaul and Ireland,
+enclosing a length of eight hundred miles and a width of two hundred.
+Since it is rich in every sort of metal, and has wide expansive plains,
+and also hills suitable for flourishing cultivation,
+in which, with the fertility of soil, a diversity of crops prospers
+in their own seasons.
+And it has forests filled with every sort of wild beast,
+of which turfs converge in passes and alternating pastures of animals
+and flowers of diverse colors distribute honey to bees that fly to them.
+It also has, in a charming setting under towering mountains, verdent meadows
+in which clear springs, flowing with gentle murmurs into shining streams,
+invoke a pledge of pleasant sleep to those who lie on the banks.
 
 Porro lacubus atque piscosis fluuiis
 urigua est et absque meridiarsc piagae freto, quo ad Gallias nauigatur, tria. 35
