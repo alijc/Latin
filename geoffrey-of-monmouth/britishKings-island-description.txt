@@ -14,24 +14,6 @@ et aduolantibus apibus flores diuersorum colorum mella distribuunt.
 Habet etiam prata sub aeriis montibus amoeno situ uirentia,
 in quibus fontes lucidi, per nitidos riuos leni murmure manantes,
 pignus suauis soporis in ripis accubantibus irritant.
-
-A DESCRIPTION OF THE ISLAND
-
-Britain, the noblest of islands,
-is situated in the western ocean between Gaul and Ireland,
-enclosing a length of eight hundred miles and a width of two hundred,
-and supplies whatever is suited for mortals' use with its unfailing fertility.
-It is indeed rich in every sort of metal, and has wide expansive plains,
-and also hills suitable for flourishing cultivation,
-in which, with the fertility of soil, a diversity of crops prospers
-in their own seasons.
-Also, it has forests filled with every sort of wild beast,
-in whose glades are both grass fit for alternating pastures of animals
-and flowers of diverse colors that  distribute honey to bees that fly to them.
-It also has, charmingly sited under towering mountains, verdent meadows
-in which clear springs, flowing with gentle murmurs in shining streams,
-invoke a pledge of pleasant sleep to those who lie on their banks.
-
 Porro lacubus atque piscosis fluuiis irrigua est
 et absque meridianae plagae freto, quo ad Gallias nauigatur,
 tria nobilia flumina, Tamensis uidelicet et Sabrinae nec non et Humbri,
@@ -50,6 +32,22 @@ donec ultione diuina propter ipsorum superbiam superueniente
 Pictis et Saxonibus cesserunt.
 Qualiter uero et unde applicuerunt restat nunc perarare ut in subsequentibus explicabitur.
 
+A DESCRIPTION OF THE ISLAND
+
+Britain, the noblest of islands,
+is situated in the western ocean between Gaul and Ireland,
+enclosing a length of eight hundred miles and a width of two hundred,
+and supplies whatever is suited for mortals' use with its unfailing fertility.
+It is indeed rich in every sort of metal, and has wide expansive plains,
+and also hills suitable for flourishing cultivation,
+in which, with the fertility of soil, a diversity of crops prospers
+in their own seasons.
+Also, it has forests filled with every sort of wild beast,
+in whose glades are both grass fit for alternating pastures of animals
+and flowers of diverse colors that  distribute honey to bees that fly to them.
+It also has, charmingly sited under towering mountains, verdent meadows
+in which clear springs, flowing with gentle murmurs in shining streams,
+invoke a pledge of pleasant sleep to those who lie on their banks.
 What's more, it is well watered with lakes and rivers teeming with fish and,
 in addition to the channel to its south, over which one can sail to Gaul,
 and extends three notable rivers, like three arms,
