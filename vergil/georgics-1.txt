@@ -803,7 +803,7 @@ suspiciens patulis captauit naribus auras,&
 aut arguta lacus circumuolitauit hirundo&
 et ueterem in limo ranae cecinere querelam.
 ========================================
-Already then a wave behaves badly towards curved keels,
+Already now the wave behaves badly towards curved keels,
 as the swift gulls fly back from the middle of the sea
 and bear a clamor to the shore, and as ocean birds
 play on dry land, and the heron quits his familiar marshes
@@ -822,4 +822,5 @@ nor did the airborne cranes flee it, rising in the inmost valleys,
 or a heifer, looking up into the sky,
 tried to catch the breeze with flaring nostrils,
 or a melodious swallow flies over lakes
-and frogs sang an ancient complaint in the mire.
+and in the mire the frogs sing their old complaint.
+========================================
