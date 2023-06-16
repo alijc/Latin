@@ -1014,9 +1014,9 @@ let no-one advise me to travel that night across the deep
 or cast off from the shore.
 But if, when it brings back the day and then conceals it,
 it's a bright orb, you should have no fear of rain-clouds
-and you'll see forests, stirred by the North Wind in a clear sky.
+and you'll see forests stirred by the North Wind in a clear sky.
 In the end, the sun will give you signs of
-what the late Evening Star might bear,
+what the late Evening Star might bring,
 where the wind might drive tranquil clouds,
 what the moist South Wind might might have in mind.
 Who would dare call the sun false?
@@ -1030,3 +1030,32 @@ and ill-omened hounds and monstrous birds gave signs.
 How often have we seen Etna, with her forges burst,
 boil over into the Cyclops' fields, 
 and roll balls of flame and molten rocks!
+========================================
+
+armorum sonitum toto Germania caelo&
+audiit, insolitis tremuerunt motibus Alpes.    &           475
+uox quoque per lucos uulgo exaudita silentis&
+ingens, et simulacra modis pallentia miris&
+uisa sub obscurum noctis, pecudesque locutae&
+(infandum!); sistunt amnes terraeque dehiscunt,&
+et maestum inlacrimat templis ebur aeraque sudant.  &             480
+proluit insano contorquens uertice siluas&
+fluuiorum rex Eridanus camposque per omnis&
+cum stabulis armenta tulit. nec tempore eodem&
+tristibus aut extis fibrae apparere minaces&
+aut puteis manare cruor cessauit, et altae   &            485
+per noctem resonare lupis ululantibus urbes.&
+========================================
+Germany heard the clash of arms across the sky,
+the Alps quaked with unaccustomed commotion.
+Then too, a mighty voice is clearly heard in sacred still groves,
+and pale images of a wondrous size are seen in the dark of night,
+and animals speak (unspeakable!),
+rivers come to a halt and lands gape open
+and sad ivory weeps and bronze sweats in the temples.
+It purifies, twirling forests in a mad vortex,
+and Eridanus, the king of rivers, carries off herds and cattle
+across every plain.  And at the same time did not cease
+either ill-boding fibers to appear in gloomy entrails
+nor blood did cease to flow from wells, and lofty cities
+to resound in the night with howling wolves.
