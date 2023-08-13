@@ -162,7 +162,7 @@ plantae immittuntur: nec longum tempus, et ingens &              80
 exiit ad caelum ramis felicibus arbos,&
 miratastque[miraturque] nouas frondes et non sua poma.
 ========================================
-Indeed, the bristly arbutus is grafted with a walnut sucker,
+Indeed, the rough arbutus is grafted with a walnut sucker,
 and barren plane-trees have borne healthy apple-trees,
 and chestnuts-trees beech trees; and ash-trees turned hoary with white
 pear blossoms and swine crushed acorns under elm-trees.
@@ -177,3 +177,5 @@ a path is split into solid wood with wedges, then fertile
 cuttings are inserted: and not long after
 a huge tree rises towards the sky with fruiting branches,
 and marvels at new leaves and fruit that's not its own.
+========================================
+
