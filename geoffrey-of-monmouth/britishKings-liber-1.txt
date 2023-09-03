@@ -1009,11 +1009,12 @@ meditantes se nequaquam prius illinc abscedere antequam ipsi inclusi
 uel colla uincienda catenis traderent
 uel longa fame afflicti saeuissima morte tormentarentur.
 =================================================
-And so everyone that he'd bought armed themselves and,
+And so everyone that he'd brought armed themselves and,
 formed into twelve columns, advanced towards their enemy.
 And likewise Brutus stationed men to face them and advanced,
 not in a womanly fashion, but wisely instructing his troops
-what was to be done and giving orders on how they should attack or stand firm.
+what was to be done and instructing them what should be done
+when he told them to attack or stand firm.
 Then the battle was joined.
 In the beginning the Trojans prevailed and made a bitter slaughter of the enemy,
 mowing down nearly two thousand of their men;
@@ -1023,10 +1024,11 @@ And so even though the Gauls had been overwhelmed at first,
 because there were thirty times as many of them,
 they were still able to reform and attack the Trojans from all sides and,
 throwing them into confusion, forced them back into their camp.
-And so, having gained a victory, they block them up within their camp,
+
+And so, having gained the victory, they blocked them up within their camp,
 thinking that they wouldn't on any account leave there until those shut up
 either surrendered their necks to be bound in chains
-or afflicted with long lasting hunger, were tormented with a cruel death.
+or, afflicted with long lasting hunger, were tormented with a cruel death.
 
 =================================================
 Sequenti interea nocte Corineus iniuit
