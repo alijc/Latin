@@ -1062,25 +1062,29 @@ Many thousands soon fell as wounds were inflicted on both sides,
 since no-one was sparing of his adversary.
 Brutus' nephew, a Trojan named Turnus, was there,
 and there was no man stronger or braver than he, save Corineus.
+=================================================
+
+Hic solus solo gladio suo sexcentos uiros peremit,
+sed ab irruentibus Gallis cicius quam debuisset interfectus est.
+De nomine ipsius praedicta ciuitas Turonis uocabulum nacta est,
+quia ibidem sepultus fuit.
+Cum igitur utraeque turmae acrius pugnarent,
+superuenit ex inprouiso Corineus et a tergo hostes celeriter inuasit.
+Audatiores proinde insurgentes ceteri ex altera parte incumbunt
+stragemque facere contendunt.
+=================================================
+He killed six-hundred men by himself with only his sword,
+but was killed by the attacking Gauls sooner than he should have been.
+From his own name the aforementioned city of Tours got its name,
+because he was buried in that very place.
+And so while both sides fought more fiercely,
+Corineus arrived from out of nowhere and at once attacked the enemy from behind.
+So then the rest of the daring men, rising up from the other side, attacked
+and strove to make a slaughter.
 
 
-Hic solus
-solo gladio suo sexcentos uiros peremit, sed ab irruentibus Gallis cicius
-quam debuisset interfectus est. De nomine ipsius praedicta ciuitas Turonis
-uocabulum nacta est, quia ibidem sepultus fuit. Cum igitur utraeque turmae
-acrius pugnarent, superuenit ex inprouiso Corineus et a tergo hostes celeriter
-inuasit, Audatiores proinde insurgentes ceteri ex altera parte incumbunt
-stragemque facere contendunt. Itaque Galli solo clamore Corineiensium,
+Itaque Galli solo clamore Corineiensium,
 qui a tergo inuaserant, stupefacti sunt et arbitrantes plures aduenisse
 quam aduenerant campum deserere festinant. Quos Troes usque ferientes
 insequuntur, insequendo uero prosternunt, nec prosternere cessauerunt
 donec uictoriam habuerunt. Brutus itaque, licet tantus triumphus illi
-
-420
-
-425
-
-430
-
-435
-
