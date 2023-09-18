@@ -1081,18 +1081,35 @@ And so while both sides fought on fiercely,
 Corineus arrived from out of nowhere and at once attacked the enemy from behind.
 Then the rest rose up more boldly and attacked from the other side,
 striving for a slaughter.
+=================================================
 
+Itaque Galli solo clamore Corineiensium, qui a tergo inuaserant, stupefacti sunt
+et arbitrantes plures aduenisse quam aduenerant campum deserere festinant.
+Quos Troes usque ferientes insequuntur, insequendo uero prosternunt,
+nec prosternere cessauerunt donec uictoriam habuerunt.
+Brutus itaque, licet tantus triumphus illi maximum intulisset gaudium,
+dolore tamen angebatur quia numerus suorum cotidie minuebatur,
+Gallorum autem semper multiplicabatur.
+In dubio tandem existens utrum diutius eos oppugnaret,
+praeelegit naues suas salua adhuc maiori parte sociorum
+nec non et reuerentia uictoriae adire atque
+insulam quam ei diuinus praedixerat monitus exigere.
+=================================================
+And so the Gauls were stupified by the war-cry of Corineus' men,
+who had attacked from behind, and observing that more had arrived than
+had reached the field, hastened to quit the field.
+And the Trojans pursued them, slaying them at every point,
+toby pursuing indeed they bowled them over,
+and didn't stop doing that until they gained the day.
+And so, even though such a great triumph had brought Brutus great delight,
+he was nevertheless troubled because his own numbers were falling daily,
+while those of the Gauls steadily increased.
+In doubt finally proving whether further he should attack them,
+he chose his ships safeF thus far toby the greater part of his companions
+and not not and uneasy of victory to undertake and
+>island which to him the god had foretold to drive out the warnings.
 
-Itaque Galli solo clamore Corineiensium,
-qui a tergo inuaserant, stupefacti sunt et arbitrantes plures aduenisse
-quam aduenerant campum deserere festinant. Quos Troes usque ferientes
-insequuntur, insequendo uero prosternunt, nec prosternere cessauerunt
-donec uictoriam habuerunt. Brutus itaque, licet tantus triumphus illi
-maximum intulisset gaudium, dolore tamen angebatur quia numerus suorum 445
-cotidie minuebatur, Gallorum autem semper multiplicabatur. In dubio
-tandem existens utrum diutius eos oppugnaret, praeelegit naues suas salua
-adhuc maiori parte sociorum nec non et reuerentia uictoriae adire atque
-insulam quam ei diuinus praedixerat monitus exigere. Nec plura, petiuit
+Nec plura, petiuit
 suorum assensu classem suam et repleuit eam ex uniuersis diuiciis quas 450
 acquisiuerat et ipsam ingressus est. Prosperis quoque uentis promissam
 insulam exigens, in Totonesio littore applicuit.
