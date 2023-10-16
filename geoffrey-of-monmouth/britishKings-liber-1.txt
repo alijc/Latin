@@ -1192,8 +1192,8 @@ suis et quantum uelocitas pro pondere sinebat ad proxima littora cucurrit.
 One day, while Brutus was celebrating a feast day to the gods
 in the harbor where he had landed, this giant showed up with twenty others
 and inflicted a dreadful slaughter on the Britons.
-But the Britons, at length coming together from all sides,
-prevailed against them and killed them all, except for Goemagog.
+But the Britons, coming together from all sides,
+prevailed against them in the end and killed them all, except for Goemagog.
 Brutus had given orders to keep this one alive,
 wishing to see a wrestling match between him and Corineus,
 who was boiling over beyond measure to do battle with such as these.
@@ -1207,15 +1207,61 @@ broke three of his ribs, two on the right side, and one on the left.
 From this Corineus was driven into a rage.
 He regained his strength and seized upon the other with his arms
 and with as much speed as his burden allowed, raced to the nearby seashore.
+=================================================
+
+Deinde, summitatem excelsae rupis nactus,
+excussit se et praedictum letabile monstrum,
+quod super humeros suos ferebat, infra mare proiecit.
+At ille, per abrupta saxorum cadens,
+in mille frusta dilaceratus est et fluctus sanguine maculauit.
+Locus autem ille, nomen ex praecipitatione gigantis adeptus,
+Saltus Goemagog usque in praesentem diem uocatur.
+
+Diuiso tandem regno, affectauit Brutus ciuitatem aedificare.
+Affectum itaque suum exequens,
+circuiuit tocius patriae situm ut congruum locum inueniret.
+Perueniens ergo ad Tamensem fluuium,
+deambulauit littora locumque nactus est proposito suo perspicuum.
+Condidit itaque ciuitatem ibidem eamque Troiam Nouam uocauit.
+Ea, hoc nomine multis postmodum temporibus appellata,
+tandem per corruptionem uocabuli Trinouantum dicta fuit.
+At postquam Lud frater Cassibellauni, qui cum Iulio Caesare dimicauit,
+regni gubernaculum adeptus est,
+cinxit eam nobilissimis muris nec non et turribus mira arte fabricatis;
+de nomine quoque suo iussit eam dici Kaerlud, id est ciuitas Lud.
+=================================================
+Then, when he reached the summit of a tall cliff,
+he shrugged off the aforementioned deadly monster
+that he carried on his shoulders, and threw it into the sea.
+And the giant, falling on broken rocks,
+was torn into a thousand pieces and stained the waves with its blood.
+Now that place gained its name from the giant's downfall,
+and is called Goemagog's Leap up to the present day.
+
+At last, with the kingdom divided, Brutus desired to build a city.
+And so following his feeling, he went round the situation of the whole country
+to find a fit spot.
+Therefore, on reaching the Thames River,
+he strolled the banks and found a spot clear for his intention.
+And so he founded a city in that very place and called it Troy Nova.
+This city, after having been called by this name for many seasons,
+finally, through the corruption of the name, became known as Trinovanta.
+But after Lud, the brother of Caswallon, who fought against Julius Caesar,
+inherited the government of the kingdom,
+he surrounded it with remarkable walls, and also towers constructed with
+wondrous skill;
+after his own name he also ordered it to be called Kaerlud, that is Lud City.
 
 
+Vnde postea maxima contentio orta est inter ipsum et Nennium fratrem suum,
+qui grauiter ferebat illum uelle nomen Troiae in patria sua delere.
+Quam contentionem quia Gildas hystoricus satis
+prolixe tractauit, eam praeterire praeelegi, ne id quod tantus scriba tanto
+stilo perarauit uidear uiliori dictamine maculare.
 
-Deinde, summitatem excelsae rupis nactus, excussit se et praedictum letabile monstrum, quod super humeros suos ferebat, infra mare proiecit. At ille, per abrupta saxorum cadens, in mille frusta dilaceratus est et fluctus sanguine maculauit. Locus autem ille, nomen ex praecipitatione gigantis adeptus, Saltus Goemagog usque in
-480
-485
-22
-praesentem diem uocatur. Diuiso tandem regno, affectauit Brutus ciuitatem aedificare. Affectum itaque suum exequens, circuiuit tocius patriae situm ut congruum locum
-490
-458 in CY (cf. § 80.191): om. cett.
-462 [fuit]
-463 [etiam] HG 464 quoque OCSE: -que H
+Postquam igitur praedictus dux praedictam urbem condidit, dedicauit
+eam ciuibus iure uicturis deditque legem qua pacifice tractarentur.
+Regnabat tunc in Iudaea Heli sacerdos et archa testamenti capta erat a
+Philisteis. Regnabant etiam in Troia filii Hectoris, expulsis posteris
+Antenoris. Regnabat in Italia Siluius Aeneas, Aeneae filius, auunculus
+Bruti, Latinorum tercius.
