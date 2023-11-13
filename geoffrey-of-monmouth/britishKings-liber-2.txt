@@ -46,7 +46,6 @@ nichil sibi ipsi retinens praeter aurum et argentum quod infra naues inuenit.
 Retinuit quoque sibi tres puellas mirae pulcritudinis,
 quarum prima filia fuerat cuiusdam regis Germaniae
 quam praedictus Humber cum duabus rapuerat dum patriam uastaret.
-
 Erat nomen illius Estrildis,
 et erat tantae pulcritudinis quod non leuiter reperiebatur quae ei conferri
 poterat;
@@ -67,9 +66,9 @@ The aforesaid Humber had seized her along with the other two
 while ravaging their country.
 Her name was Estrildis, and she was of such beauty that it wasn't easy
 to find her match;
-neither Indian ivory nor fleshly falling snow nor any lily surpassed
+neither Indian ivory nor fleshly fallen snow nor any lily surpassed
 the whiteness of her flesh.
-
+======================================================================
 
 Amore itaque illius Locrinus captus uoluit
 cubilia eius inire ipsamque sibi maritali taeda copulare. Quod cum Corineo
