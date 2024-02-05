@@ -351,10 +351,8 @@ in multa frusta contritus.
 
 Dato igitur fatis Bladud, erigitur Leir filius eiusdem in regem,
 qui .lx. annis patriam uiriliter rexit.
-Aedificauit autem super flumen Soram ciuitatem,
-quae Britannice de nomine eius Kaerleir, Saxonice uero Lerecestre nuncupatur.
 ======================================================================
-Then Bladud succeeded him and managed the kingdom for twenty years.
+Then his son Bladud succeeded him and managed the kingdom for twenty years.
 He built the town of Kaerbadum, which is now called Bath,
 and built hot baths in it fit for human use.
 He put these under the charge of the goddess Minerva,
@@ -370,24 +368,42 @@ crushed into many pieces.
 
 And so, after Bladud passed away, his son Lear was elevated to king,
 and ruled his country with vigor for 60 years.
-Now he built a city on the Soar river,
-which is called Kaerleir in British, from his name, and Leicester in Saxon.
-
 ======================================================================
 
+Aedificauit autem super flumen Soram ciuitatem,
+quae Britannice de nomine eius Kaerleir, Saxonice uero Lerecestre nuncupatur.
 Cui negata masculini sexus prole natae sunt
-tantummodo tres filiae, uocatae Gonorilla, Regau, Cordeilla. Pater eas miro
-amore sed magis iuniorem, uidelicet Cordeillam, diligebat. Cumque in
-senectutem uergere coepisset, cogitauit regnum suum ipsis diuidere easque 140
-ralibus maritis copulare qui easdem cum regno haberent; sed ut sciret quae
-illarum parte regni potiore dignior esset, adiuit singulas ut interrogaret quae
-ipsum magis diligeret. Interrogante igitur illo, Gonorilla prius numina caeli
-testata est ipsum sibi maiori dilectioni esse quam animam quae in corpore
-suo degebat. Cui pater:
+tantummodo tres filiae, uocatae Gonorilla, Regau, Cordeilla.
+Pater eas miro amore sed magis iuniorem, uidelicet Cordeillam, diligebat.
+Cumque in senectutem uergere coepisset, cogitauit regnum suum ipsis diuidere
+easque talibus maritis copulare qui easdem cum regno haberent;
+sed ut sciret quae illarum parte regni potiore dignior esset,
+adiuit singulas ut interrogaret quae ipsum magis diligeret.
+Interrogante igitur illo, Gonorilla prius numina caeli testata est
+ipsum sibi maiori dilectioni esse quam animam quae in corpore suo degebat.
+Cui pater:
 
-«Quoniam senectutem meam uitae tuae praeposuisti, te, carissima
-filia, maritabo iuueni quemcumque elegeris cum tercia parte regni
-Britanniae'.
+'Quoniam senectutem meam uitae tuae praeposuisti, te, carissima filia,
+ maritabo iuueni quemcumque elegeris cum tercia parte regni Britanniae'.
+======================================================================
+Now he built a city on the Soar river,
+which is called Kaerleir in British, from his name, and Leicester in Saxon.
+to whom having been denied offspring of masculine sex were born
+merely three daughters, named Goneril, Regan and Cordelia.
+Their father regarded them with wonderful love, but the youngest, namely
+Cordelia, most of all.
+And when he began to sink into old age, he thought to share his kingdom with them
+and to couple them with such husbands as might have themsame with the kingdom;
+but in order to know which of them would be more suitable in the role of monarch,
+he visited each one to ask who loved him more.
+And so, when he asked, Goneril first swore on the gods of heaven
+that he was dearer to her than the soul that resided in her body.
+And her father said to her:
+
+'Since I have put my old age in front of your life, you, dearest daughter,
+ I will give in marriage to whichever young man you choose,
+ with a third part of the kingdom of Britain.'
+======================================================================
 
 Deinde Regau, quae secunda erat, exemplo sororis suae beniuolentiam
 patris allicere uolens, iureiurando respondit se nullatenus aliter exprimere 150
