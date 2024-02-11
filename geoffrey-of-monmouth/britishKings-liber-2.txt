@@ -386,9 +386,9 @@ Cui pater:
 'Quoniam senectutem meam uitae tuae praeposuisti, te, carissima filia,
  maritabo iuueni quemcumque elegeris cum tercia parte regni Britanniae'.
 ======================================================================
-Now he built a city on the Soar river,
+Now he built a city on the River Soar,
 which is called Kaerleir in British, from his name, and Leicester in Saxon.
-Now he, having been denied offspring of masculine sex, 
+Now he, having been denied offspring of the masculine gender, 
 begat only three daughters, named Goneril, Regan and Cordelia.
 Their father regarded them with wonderful love, but the youngest, namely
 Cordelia, most of all.
@@ -403,24 +403,48 @@ And her father said to her:
 'My dearest daughter, since you have put my old age before your own life,
  I will give you in marriage to whichever young man you choose,
  with a third part of the kingdom of Britain.'
-
 ======================================================================
 
-Deinde Regau, quae secunda erat, exemplo sororis suae beniuolentiam
-patris allicere uolens, iureiurando respondit se nullatenus aliter exprimere 150
-nisi quod illum super omnes creaturas diligeret. Credulus ergo pater iurauit
-quod eadem dignitate quam primogenitae promiserat ipsam cum alia parte
-regni maritaret. At Cordeilla iunior, cum intellexisset eum praedictarum
-adulationibus acquieuisse, temptare illum cupiens aliter respondere
-perrexit:
+Deinde Regau, quae secunda erat,
+exemplo sororis suae beniuolentiam patris allicere uolens,
+iureiurando respondit se nullatenus aliter exprimere 
+nisi quod illum super omnes creaturas diligeret.
+Credulus ergo pater iurauit quod eadem dignitate
+quam primogenitae promiserat ipsam cum alia parte regni maritaret.
+At Cordeilla iunior,
+cum intellexisset eum praedictarum adulationibus acquieuisse,
+temptare illum cupiens aliter respondere perrexit:
 
-«Est uspiam, pater mi, filia quae patrem suum plus quam patrem
-praesumat diligere? Non reor equidem ullam esse quae hoc fateri audeat
-nisi iocosis uerbis ueritatem celare nitatur. Nempe ego dilexi te semper
-ut patrem et adhuc a proposito meo non diuertor. Et si ex me magis
-extorquere insistis, audi certitudinem amoris quem aduersum te habeo
-et interrogationibus tuis finem impone. Etenim quantum habes tantum
-uales tantumque te diligo'.
+'Est uspiam, pater mi, filia quae patrem suum plus quam patrem praesumat diligere?
+Non reor equidem ullam esse quae hoc fateri audeat
+nisi iocosis uerbis ueritatem celare nitatur.
+Nempe ego dilexi te semper ut patrem et adhuc a proposito meo non diuertor.
+Et si ex me magis extorquere insistis,
+audi certitudinem amoris quem aduersum te habeo
+et interrogationibus tuis finem impone.
+Etenim quantum habes tantum uales tantumque te diligo'.
+======================================================================
+Then Regan, who was his second daughter, wished to draw her father's favor,
+after her sister's example, and answered with an oath
+that she herself could say nothing else but that she
+loved him above all other creatures.
+And so, the trusting father swore that, since she had promised with the same
+dignity as his first-born, he would marry her off with another part of the kingdom.
+But the youngest one, Cordelia,
+when she realized that he'd acquiesced to the flatteries of the aforementioned,
+desiring to test him, proceeded to reply in a different vein:
+
+"Is there anywhere, my father, a daughter who presumes to love her father more
+than a father?
+For my part, I don't think there is anyone who dares to admit this
+unless she's trying to conceal the truth with joking speech.
+Certainly I have always loved you as my father and up until now
+I have not been swayed from my intention.
+And if you insist on extorting more from me, hear the assurance of love
+that I hold towards you and put an end to your questions.
+Indeed as much you have as you are strong and as I love you.
+
+======================================================================
 
 Porro pater, ratus eam ex habundantia cordis dixisse, uehementer indignans
 quod responsurus erat hoc modo manifestare non distulit:
