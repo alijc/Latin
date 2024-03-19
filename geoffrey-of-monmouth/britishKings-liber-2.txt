@@ -535,18 +535,41 @@ Now this enraged Lear and he left Maglaunus to make for Henuinus, the duke of
 Cornwall, who had married his other daughter, Regan.
 But after he had been honorably received by the duke, 
 not a year went by before discord sprang up between the two households.
+======================================================================
 
+Quam ob rem Regau in indignationem uersa praecepit patri cunctos socios
+deserere praeter quinque qui ei obsequium praestarent.
+Porro pater, ultra modum anxius, reuersus est iterum ad primogenitam,
+existimans se posse commouere illam in pietatem ut cum familia sua retineretur.
+At illa nequaquam a coepta indignatione reuersa est
+sed per numina caeli iurauit quod nullatenus secum commaneret
+nisi postpositis ceteris solo milite contentus fuisset;
+increpabat etiam eum senem et in nulla re abundantem uelle cum tanta familia incedere.
+======================================================================
+And on account of this Regan was angered in her turn and ordered her father
+to give up all his companions, except for five to serve as his retinue.
+And her father, upset beyond measure, returned back again to his first-born,
+thinking that he'd be able to stir her pity and so stay with his family.
+But she hadn't turned her back on her earlier anger one whit
+and swore on the gods of heaven that there was no way he could stay with her,
+unless he put aside most of his men and be content with only a single soldier;
+she chided him that he, old as he was and rich in nothing,
+wished to proceed with such a large household. 
 
-Quam ob rem Regau in
-indignationem uersa praecepit patri cunctos socios deserere praeter que
-qui ei obsequium praestarent. Porro pater, ultra modum anxius, reuersus
+Cumque
+illa assensum uoluntati eius nullo modo praebuisset, paruit ipse et relictis
+ceteris cum solo milite remansit. At cum in memoria pristinae dignitatis
+reductus fuisset, detestando miseriam in quam redactus erat, cogitare coepit
+quod iuniorem filiam trans occeanum exigeret, sed dubitabat ipsam nil
+uelle sibi facere, quoniam eam tam ingloriose ut praedictum est dedisset.
+Indignans tamen miseriam suam diutius ferre, transfretauit ad Gallias;
+sed transfretando cum Se tercium infra nauim inter principes qui aderant
+aspexisset, in haec uerba cum fletu et singultu prorupit:
 
-e : | se posse commouere illam in pietatem
-- 14 ^imaaenitam. existimans 4e DOM OON" OTT n n
+*O inreuocabilia seria fatorum, quae solito cursu fixum iter tenditis, cur
+unquam me ad instabilem felicitatem promouere uoluistis, cum maior
 
- 
+|| ^na eit insam amissam recolere quam sequentis infelicitatis praesentia
+; c s aja ananenria QquO tot
 
-195
-
-200
-
+secum inglorius maneret. Elapso deinde biennio, moram eo apud gener roe e ERN
