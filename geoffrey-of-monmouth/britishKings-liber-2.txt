@@ -555,21 +555,40 @@ and swore on the gods of heaven that there was no way he could stay with her,
 unless he put aside most of his men and be content with only a single soldier;
 she chided him that he, old as he was and rich in nothing,
 wished to proceed with such a large following. 
+======================================================================
 
-Cumque
-illa assensum uoluntati eius nullo modo praebuisset, paruit ipse et relictis
-ceteris cum solo milite remansit. At cum in memoria pristinae dignitatis
-reductus fuisset, detestando miseriam in quam redactus erat, cogitare coepit
-quod iuniorem filiam trans occeanum exigeret, sed dubitabat ipsam nil
-uelle sibi facere, quoniam eam tam ingloriose ut praedictum est dedisset.
+Cumque illa assensum uoluntati eius nullo modo praebuisset,
+paruit ipse et relictis ceteris cum solo milite remansit.
+At cum in memoria pristinae dignitatis reductus fuisset,
+detestando miseriam in quam redactus erat,
+cogitare coepit quod iuniorem filiam trans occeanum exigeret,
+sed dubitabat ipsam nil uelle sibi facere,
+quoniam eam tam ingloriose ut praedictum est dedisset.
 Indignans tamen miseriam suam diutius ferre, transfretauit ad Gallias;
-sed transfretando cum Se tercium infra nauim inter principes qui aderant
-aspexisset, in haec uerba cum fletu et singultu prorupit:
+sed transfretando cum se tercium infra nauim inter principes
+qui aderant aspexisset, in haec uerba cum fletu et singultu prorupit:
 
-*O inreuocabilia seria fatorum, quae solito cursu fixum iter tenditis, cur
-unquam me ad instabilem felicitatem promouere uoluistis, cum maior
+'O inreuocabilia seria fatorum, quae solito cursu fixum iter tenditis,
+ cur unquam me ad instabilem felicitatem promouere uoluistis,
+ cum maior poena sit ipsam amissam recolere quam sequentis infelicitatis praesentia urgeri?
 
-|| ^na eit insam amissam recolere quam sequentis infelicitatis praesentia
-; c s aja ananenria QquO tot
+....Magis etenim aggrauat me illius temporis memoria quo tot...
+======================================================================
+And after she had by no means given her assent to his wish, he obeyed her
+and remained there with only a single soldier, with the rest abandoned.
+But when he was drawn back to the memory of his former dignity,
+cursing the misery that he'd been reduced to,
+he began to think about his younger daughter that he'd driven out across the ocean,
+but doubted that she would wish to do anything for him,
+since he'd so ingloriously bestowed on her what has already been said.
+Nevertheless, long scorning to bear his woe, he crossed the sea to Gaul;
+but crossing with him the >thirdMN among the leaders
+who were present, he might had seen,
+in these words with weeping and sobbing he broke out:
 
-secum inglorius maneret. Elapso deinde biennio, moram eo apud gener roe e ERN
+'O you grave irrevocable events of fate,
+that stretch the unchangeable path in its wonted course,
+why ever do you wish to move me forward to an unsteady fortune,
+when a greater punishment would be call to my mind the daughter lost to me,
+than to be presently hemmed in by pursuing misfortunes?
+
