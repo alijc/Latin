@@ -571,8 +571,6 @@ qui aderant aspexisset, in haec uerba cum fletu et singultu prorupit:
 'O inreuocabilia seria fatorum, quae solito cursu fixum iter tenditis,
  cur unquam me ad instabilem felicitatem promouere uoluistis,
  cum maior poena sit ipsam amissam recolere quam sequentis infelicitatis praesentia urgeri?
-
-....Magis etenim aggrauat me illius temporis memoria quo tot...
 ======================================================================
 And after she had by no means given her assent to his wish, he obeyed her
 and remained there with only a single soldier, letting the rest go.
@@ -592,4 +590,46 @@ he broke out, weeping and sobbing, in these words:
  why did you ever wish to advance me to an inconstant fortune,
  when a greater punishment would be call my lost daughter to my mind,
  than to be hemmed in by the presence of the next misfortune?
+======================================================================
 
+ Magis etenim aggrauat me illius temporis memoria quo tot centenis milibus
+ militum stipatus et moenia urbium diruere et prouincias hostium uastare
+ solebam quam calamitas miseriae meae,
+ quae ipsos qui iam sub pedibus meis iacebant debilitatem meam deserere coegit.
+ O irata fortuna!
+ Venietne dies umquam qua ipsis uicem reddere potero
+ qui sic tempora mea secuti paupertatem meam diffugierunt?
+ O Cordeilla filia, quam uera sunt dicta illa quae michi respondisti
+ quando quaesiui a te quem amorem aduersum me haberes!
+ Dixisti enim "quantum habes tantum uales tantumque te diligo".
+ Dum igitur habui quod potui dare, uisus fui ualere eis
+ qui non michi sed donis meis amici fuerant.
+ Interim dilexerunt me sed magis munera mea;
+ nam abeuntibus muneribus et ipsi abierunt.
+ Sed qua fronte, karissima filia, te audebo exigere,
+ qui ob praedicta uerba iratus putaui te maritare deterius quam sorores tuas,
+ quae post beneficia quae eis impendi me exulem et pauperem esse patiuntur?".
+======================================================================
+ and indeed the memory of that time aggravates me more where so many
+ hundred thousands of soldiers i having been pressed, and to demolish city walls
+ and lay waste to enemy provinces i was wont
+ than the calamity of my misery,
+ which compelled my infirmity to desert those who now lay under my feet.
+ O wrathful fortune!
+ Will the day never come in which I will be able to repay those in turn
+ who, having thus followed my (good) times, fled my poverty?
+ O my daughter Cordelia, how true are the words that you answered me
+ when I asked you what sort of love you held towards me!
+ For you said "as much as you have that much you thrive and that much I love
+ you".
+ Therefore, while I had what I could give, I seemed to thrive
+ to those who had been friends, not to me, but to my gifts.
+ Meanwhile/nevertheless, they loved me, but my offerings more;
+ for when the gifts went away, they themselves departed.
+ But by which face, dearest daughter, I intend to drive you out,
+ I who, angry on account of the aforesaid words, thought to marry you
+ more poorly thabn your sisters,
+ who, after the kindnesses that I expended to them,
+ suffered me to be a poor man and an exile. 
+
+Vt tandem haec et similia dicendo applicuit, uenit Karitiam, ubi filia sua erat. Expectans autem extra urbem, misit ei nuncium suum qui indicaret ipsum in tantam miseriam collapsum; et quia non habebat quid comederet uel indueret, misericordiam illius petebat. Quo indicato, commota est Cordeilla et fleuit amare quaesiuitque quot milites secum habuisset. Qui respondit ipsum neminem habere, excepto quodam armigero qui foris cum eo expectabat. Tunc illa cepit quantum opus erat auri et argenti deditque ut patrem ad aliam ciuitatem duceret ibique ipsum
