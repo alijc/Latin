@@ -894,7 +894,7 @@ Statuit siquidem inter cetera quae multo tempore post beatus Gildas scripsit
 ut templa deorum et ciuitates talem dignitatem haberent
 ut quicumque fugitiuus siue reus ad ea confugeret cum uenia coram inimico suo abiret. 
 ======================================================================
-And so, when they launched the assault, the two kings were killed, and many
+And so when they launched the assault, the two kings were killed and many
 others with them.
 But Dunuallo Molmutius, fearful that he'd be attacked by his own men,
 returned with his comrades and shed the enemy armor.
@@ -907,6 +907,8 @@ and after entirely subugating the whole island,
 he made a crown of gold for himself and restored the island to its former state.
 He established laws that were called the Molmutine Laws among the Britons,
 which are celebrated to this day among Englishmen.
+======================================================================
+
 He set up, among the other things that St Gildas wrote about long afterwards,
 that the temples of the gods and cities should have such a standing
 that if any fugitive or debtor fled to them
