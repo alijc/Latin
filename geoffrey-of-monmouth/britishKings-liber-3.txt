@@ -76,16 +76,12 @@ ipsumque citissimis uelis sequebatur.
 Nauali igitur aggressu facto,
 cepit forte nauem qua praedicta puella fuerat
 illatisque uncis illam inter consocios attraxit.
-
-Illis autem hinc et inde infra profundum congredientibus,
-25
-30
 ========================================
 Meanwhile, after this had been reported to his brother, he was indignant,
 because he acted so without his permission and against his person. 
 And so he attacked Northumbria and seized its provincial cities
 and garrisoned them with his own men.
-After Brennius heard a rumor about his brother's actions, he readied a ship
+After Brennius heard a report on his brother's actions, he readied a ship
 and returned to Britain, bringing a host of Norwegians with him.
 And while he plowed the main, secure with a favorable wind,
 he was met by Guichtlacus, the king of the Danes, who had been following him;
@@ -95,3 +91,6 @@ and was pursuing him with swift sails.
 And so, when the naval assault commenced,
 by chance he captured the ship on which the aforesaid lass was
 and dragged it in among his companions with grappling hooks.
+========================================
+
+Illis autem hinc et inde infra profundum congredientibus,
