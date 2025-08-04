@@ -571,12 +571,10 @@ aspexit in eadem Romanorum exercitum castra et tentoria ponentem;
 adduxerat enim eos Androgeus ibidem ut illic occultum impetum urbi ingererent.
 Nec mora, aduertentes Romani Britones superuenire armauerunt sese ocius
 militesque suos per cateruas statuerunt.
-
-Ex alia uero parte armis induuntur Britones et sese per turmas consociant.
 ========================================
 And so, after reading this letter, Julius got advice from his inner circle
 that he should not go to Britain solely at the duke's invitation,
-unless they should arrange hostages that would make it safe for him to land.
+but that they should arrange hostages that would make it safe for him to land.
 Androgeus quickly sent him his son Scaeua and
 30 noble youths from among his close relatives.
 And so, after the hostages had been given, Caesar felt safe.
@@ -591,19 +589,15 @@ for Androgeus had persuaded them to come to that very place to carry out a sneak
 attack on the city.
 On seeing the Britons arrive, the Romans swiftly
 armed themselves and drew up their soldiers in companies.
-Indeed, from another quarter the Britons put on their armor
-and joined themselves up in squadrons.
+
+========================================
+
+Ex alia uero parte armis induuntur Britones et sese per turmas consociant.
 
 
 At Androgeus cum quinque milibus armatorum
-195
-200
-205
-171 meis A YM: suis uel meis Q: suis G
-172 fort. merita <ite
-172 exhereditare
-185 liberare A
-199 uastare
-1)
-5
-50)
+
+
+
+Indeed, from another quarter the Britons put on their armor
+and joined themselves up in squadrons.
