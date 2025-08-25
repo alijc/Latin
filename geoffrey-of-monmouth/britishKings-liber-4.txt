@@ -676,7 +676,7 @@ Proinde aduertere debuerat illum per quem tantum imperatorem ex regno suo
 pepulit posse ipsum iterum restituere.
 Non eram igitur iniuste tractandus, qui tunc illud obsequium,
 nunc istud inferre poteram.
-Insipientia obducitur qui commilitones quibus triumphat iniuriis uel contumeliis infestat. 
+
 ========================================
 When the second day had passed and Cassibellaunus had nothing left to eat,
 he was afraid of succumbing to hunger and ending up a prisoner of Caesar.
@@ -688,22 +688,70 @@ And after the messengers recounted this, Androgeus said:
 'It's not a good look for a leader to be as mild as a lamb in war
 and as savage as a lion in peace.
 O gods of heaven and earth, my lord, who once commanded me, now entreats me.
-Does he, who Caesar once asked for peace,
+Does he, whom Caesar once asked for peace,
 really desire to make peace with him, and to give him his submission?
-Then he ought to have noticed that the man who drove so great a general
+Then he ought to have realized that the man who drove so great a general
 away from his kingdom would be able to bring him back again.
 I ought not to have been treated so unjustly,
 I who could then perform that service, and can now perform this one.
-He who is cloaked in foolishness deals injuries or affronts on 
-his fellow soldiers, through whom he triumphed.
+
+========================================
+
+Insipientia obducitur qui commilitones quibus triumphat iniuriis uel contumeliis
+infestat.
+Non enim est ullius ducis uictoria sed illorum qui pro eo sanguinem suum pugnando diffundunt.
+Tamen pacificabo illum si potero, quia iniuria quam michi intulit satis uindicata est in illo cum misericordiam meam imploret'.
+
+Post haec festinauit Androgeus ad Iulium amplexusque ipsius genua eum in hunc allocutus est sermonem:
+
+'Ecce satis uindicasti te in Cassibellaunum.
+Misericordiam de illo habe.
+Quid amplius agendum est quam ut subiectionem faciens uectigal Romanae dignitati reddat?".
+
+Cumque nichil respondisset Caesar, ait iterum Androgeus:
+
+'Hoc solum pactus sum tibi, Caesar,
+ut summisso Cassibellauno Britanniam tibi subdere laborarem.
+Ecce uictus est Cassibellaunus et Britannia tibi auxilio meo subdita.
+Quid ultra tibi debeo?
+Nolit creator omnium ut dominum meum misericordiam meam orantem
+rectumque michi de illata iniuria offerentem patiar umquam
+uel in uinculis uinciri.
+Non leue est interficere Cassibellaunum me uiuente,
+cui auxilium meum reddere non erubescam nisi consilio meo parueris'.
+========================================
+He is swallowed in foolishness who deals injuries or affronts on 
+his fellow soldiers, through whom he has triumphed.
+For victory does not belong to any leader
+but to those who pour out their blood for it in battle.
+Nevertheless I will make peace with him if I can,
+since the harm that was inflicted on me has been sufficiently against
+avenged him when he begged for my mercy.'
+
+After this Androgeus hastened to Julius and embraced his knees
+and addressed him in this speech:
+
+'Look, you have avenged yourself suficiently on Cassibellaunus.
+ Have mercy on him.
+ What more ought be done than for him to make submission and render tribute
+ to the Roman authority?'
+
+And when Caesar gave no answer, Androgeus again said:
+
+'This alone have I agreed to you, Caesar,
+ to work to supply Britain to you upon Cassibellaunus' submission.
+ Look, Cassibellaunus is defeated and Britain is supplied to you by my aid.
+ What more do I owe you?
+ The creator of all does not want that I should allow my lord,
+ who is begging my mercy and offering rectitude to me for the injury inflicted,
+ to ever be bound in chains.
+ While I live, it will not be easy to kill Cassibellaunus,
+ to whom I will not blush to render my aid if you do not comply with me.'
 
 
+Timore igitur Androgei mitigatus Iulius cepit a Cassibellauno concordiam cum uectigali singulis annis reddendo; erat autem uectigal quod spopondit tria milia librarum argenti. Exin amici facti adinuicem Iulius et Cassibellaunus mutua donaria alter alteri dederunt. Deinde hiemauit Caesar in Britannia et redeunte uere in Gallias transfretauit. Succedente postmodum tempore, collectis undique ex omni genere militibus Romam contra Pompeium perrexit.
 
+Cumque postmodum septem anni praeterissent, defunctus est Cassibellaunus et in Eboraco sepultus. Cui successit Tenuantius dux Cornubiae, frater Androgei; nam Androgeus Romam cum Caesare profectus fuerat. Diademate igitur insignitus Tenuantius regnum in diligentia optinuit. Erat ipse bellicosus uir et qui uigorem iusticiae colebat. Post illum promotus est ad culmen regale Kimbelinus filius suus, miles strenuus, quem Augustus Caesar nutriuerat et armis decorauerat. Hic in tantam amiciciam Romanorum inciderat ut cum posset tributum eorum detinere gratis impendebat. In diebus illis natus est dominus noster Iesus Christus, cuius precioso sanguine redemptum est humanum genus, quod anteacto tempore daemonum catena obligabatur.
 
-
-
-Non enim est ullius ducis
-240
-207 [delituit] OCHS (cf. "Transm. 90)
-207 auxilium Y (cf. Introd.)
-207 Caesari (cf. Introd
+Kimbelinus igitur, cum Britanniam decem annis gubernasset, genuit duos filios, quorum primogenito nomen erat Guider, alteri Aruiragus. Exin, expletis uitae suae diebus, cessit gubernaculum regni Guiderio. Cum igitur tributum quod appetebant Romanis denegaret, superuenit Claudius, qui in imperium subrogatus fuerat. Aderat secum princeps miliciae suae, uocabulo
+280
