@@ -882,7 +882,7 @@ Portus autem ille ab illo tempore usque in hodiernum diem Portus Hamonis appella
 ========================================
 In the end the Romans were routed and broke into two parts, disgracefully
 deserting the field of battle; in one part Caesar made for the protection of
-the fleet, while Hamo made for the woods, since he didn't have time to make it
+the fleet, while Hamo made for the woods, since he didn't have time to get
 to the ships. 
 And so Aruiragus, thinking that Claudius was fleeing with Hamo, hastened to
 follow him and didn't stop chasing him from place to place until he overtook
@@ -891,13 +891,40 @@ There was a good harbor there, and merchant ships were moored there.
 And so when Hamo had tried to board these,
 Aruiragus showed up out of nowhere and killed him at once.
 Now that harbor from that time up to this day is called Southampton.
+========================================
+
+Interea Claudius resociatis sociis oppugnabat praedictam ciuitatem,
+quae tunc Kaerperis, nunc autem Portcestria uocatur.
+Nec mora, moenibus eius dirutis ciuibusque subactis insecutus est Aruiragum,
+iam in Guintoniam ingressum.
+Exinde obsedit ciuitatem diuersisque machinationibus illam opprimere nitebatur.
+Aruiragus uero, ut sese obsessum inspexit,
+consociauit cateruas suas apertisque portis ad proeliandum egressus est.
+Cumque irruptionem facere affectasset, direxit Claudius nuntios ad ipsum,
+mandans ut concordiam inirent.
+Quippe timebat regis audatiam Britonumque fortitudinem praeferebatque ipsos
+sensu et sapientia subiugare quam dubium certamen inire.
+Mandabat igitur ei concordiam daturumque promittebat sese filiam suam
+si tantummodo regnum Britanniae sub Romana potestate recognouisset.
+========================================
+Meanwhile, Claudius had reunited with his allies and was attacking the aforesaid
+city, which was called Kaerperis then, but Portchester now.
+And after its defenses were quickly overrun and its citizens conquered,
+he attacked Aruiragus, who was already advancing against Guintonia.
+Then he besieged the city and advanced with various war engines to crush it.
+Indeed, when Aruiragus himself inspected the blockade,
+he joined his troops, opened the gates and sallied out to battle.
+And when he had tried to make an assault, Claudius sent envoys to to him,
+demanding that he enter into a treaty.
+Of course, he was afraid of the king's audacity and the Britons' strength
+and would rather subjugate them through sense and reason than take on a
+doubtful contest.
+And so he demanded a treaty of him and promised him his own daughter
+if he would only recgonize that the kingdom of Britain was under Roman power.
 
 
 
-
-
-
-Interea Claudius resociatis sociis oppugnabat praedictam ciuitatem, quae tunc Kaerperis, nunc autem Portcestria uocatur. Nec mora, moenibus eius dirutis ciuibusque subactis insecutus est Aruiragum, iam in Guintoniam ingressum. Exinde obsedit ciuitatem diuersisque machinationibus illam opprimere nitebatur. Aruiragus uero, ut sese obsessum inspexit, consociauit cateruas suas apertisque portis ad proeliandum egressus est. Cumque irruptionem facere affectasset, direxit Claudius nuntios ad ipsum, mandans ut concordiam inirent. Quippe timebat regis audatiam Britonumque fortitudinem praeferebatque ipsos sensu et sapientia subiugare quam dubium certamen inire. Mandabat igitur ei concordiam daturumque promittebat sese filiam suam si tantummodo regnum Britanniae sub Romana potestate recognouisset. Postpositis ergo debellationibus, suaserunt maiores natu Aruirago promissionibus Claudii acquiescere; dicebant autem non esse ei
+Postpositis ergo debellationibus, suaserunt maiores natu Aruirago promissionibus Claudii acquiescere; dicebant autem non esse ei
 315
 320
 0001
