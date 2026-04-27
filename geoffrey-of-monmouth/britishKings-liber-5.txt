@@ -400,26 +400,51 @@ And so, after Constantius joined with her, he fathered a son on her,
 and called him Constantine.
 Then, after eleven years had passed, 
 Constantius died at York, leaving the kingdom to his son.
+=========================================================================
 
+Qui ut solio honoris potitus est,
+coepit infra paucos annos probitatem maximam habere,
+leoninam feritatem ostendere, iusticiam inter populos tenere.
+Latronum rapacitatem hebetabat, tyrannorum saeuitiam conculcabat,
+pacem ubique renouare studebat.
 
+Ea tempestate erat quidam tyrannus Romae, uocabulo Maxentius,
+qui quosque nobiles, quosque probissimos ciues exhereditare nitebatur
+pessimaque tyrannide rem publicam opprimebat.
+Incumbente igitur ipsius saeuicia, diffugiebant exterminati ad Constantinum in
+Britanniam et ab ipso honorifice excipiebantur.
+Denique, cum multi tales ad illum confluxissent, incitauerunt eum in odium
+aduersus praedictum tyrannum et talia ei saepissime obiciebant:
 
-Qui ut solio honoris potitus est, coepit infra paucos annos probitatem maximam habere, leoninam feritatem ostendere, iusticiam inter populos tenere. Latronum rapacitatem hebetabat, tyrannorum saeuitiam conculcabat, pacem ubique renouare studebat.
-140
-145
-79
-150
-Ea tempestate erat quidam tyrannus Romae, uocabulo Maxentius, qui quosque nobiles, quosque probissimos ciues exhereditare nitebatur pessimaque tyrannide rem publicam opprimebat. Incumbente igitur ipsius saeuicia, diffugiebant exterminati ad Constantinum in Britanniam et ab ipso honorifice excipiebantur. Denique, cum multi tales ad illum confluxissent, incitauerunt eum in odium aduersus praedictum tyrannum et talia ei saepissime obiciebant:
-155
-'Quousque calamitatem et exilium nostrum patieris, Constantine? Vt quid moraris nos in natale solum restituere? Tu solus es ex generatione nostra qui mod amisimus nobis reddere expulso uales Maxentio. Raitonning conferri queat sive in fortitudine
+'Quousque calamitatem et exilium nostrum patieris, Constantine?
+Vt quid moraris nos in natale solum restituere?
+Tu solus es ex generatione nostra qui quod amisimus nobis reddere expulso uales
+Maxentio.
+Quis etenim princeps regi Britanniae conferri queat
+siue in fortitudine robustorum militum siue in copia auri et argenti?
+Obsecramus te, redde nobis possessiones nostras,
+redde coniuges et liberos nostros Romam cum exercitu nobiscum petendo'.
+=========================================================================
+And when he became master of the throne of honor, he
+began after a few years to have the greatest uprightness,
+to show the ferocity of a lion, to preserve justice among the peoples.
+He weakened the rapacity of brigands, trampled the cruelty of tyrants,
+strove to restore peace everywhere.
 
-anni praeterissent, ipse apud Eboracum morti subiacuit regnumque filio donauit. Qui ut solio honoris potitus est, coepit infra paucos annos probitatem maximam habere, leoninam feritatem ostendere, iusticiam inter populos tenere. Latronum rapacitatem hebetabat, tyrannorum saeuitiam conculcabat, pacem ubique renouare studebat.
-145
-79
-Ea tempestate erat quidam tyrannus Romae, uocabulo Maxentius, qui quosque nobiles, quosque probissimos ciues exhereditare nitebatur pessimaque tyrannide rem publicam opprimebat. Incumbente igitur ipsius saeuicia, diffugiebant exterminati ad Constantinum in Britanniam et ab ipso honorifice excipiebantur. Denique, cum multi tales ad illum confluxissent, incitauerunt eum in odium aduersus praedictum tyrannum et talia ei saepissime obiciebant:
-150
-15:
-'Quousque calamitatem et exilium nostrum patieris, Constantine? Vt quid moraris nos in natale solum restituere? Tu solus es ex generatione nostra qui quod amisimus nobis reddere expulso uales Maxentio. Quis etenim princeps regi Britanniae conferri queat siue in fortitudine robustorum militum siue in copia auri et argenti? Obsecramus te, redde nobis possessiones nostras, redde coniuges et liberos nostros Romam cum exercitu nobiscum petendo'.
-16
-131 [Coel]
-132 [tamen]
-149 [Romael OCSE
+At the time there was a certain tyrant of Rome, Maxentius by name,
+who strove to disinherit both nobles and the most honest citizens
+and oppressed the republic with the worst tyranny.
+And so, under the pressure of his cruelty,
+the banished fled to Constantine in Britain and were received by him honorably.
+Finally, after many such had flocked to him,
+they urged him into hatred against the aforesaid tyrant and
+very often upbraided hem with speeches like this:
+
+'How long will you allow our misfortune and banishment, Constantine?
+Why do you put off restoring us to our native soil?
+You alone of our generation are strong enough to restore what we have lost
+by driving Maxentius out. 
+Indeed, which leader could compare to the king of Britain
+in either strength of hardy soldiers or supply of gold and silver?
+We entreat you, restore our possessions to us,
+restore our wives and children by attacking Rome with your army and with us.'
