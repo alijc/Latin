@@ -515,13 +515,41 @@ Therefore Octavius, disturbed on account of his lost kingdom,
 headed to Norway by ship, to get help from King Gumbert.
 Meanwhile, he had issued an edict to his friends, 
 to strive with all their power to threaten Trahern with death.
+=========================================================================
+
+Comes ergo oppidi municipii, qui ipsum prae ceteris diligebat,
+praeceptis illius parere non distulit.
+Nam dum Trahern ex urbe Lundoniarum quadam die recederet,
+delituit cum centum militibus in quadam conualle nemoris
+qua ille transiturus erat atque
+in ipsum praetereuntem inopinum fecit impetum ac inter commilitones interfecit.
+Quod cum nunciatum esset Octauio, reuersus est in Britanniam et dissipatis
+Romanis solium regni recuperauit.
+Exin tantam probitatem tantamque copiam auri et argenti
+in breui tempore nactus fuit ita ut neminem timeret.
+
+Regnum autem Britanniae ab illo tempore usque in diebus Gratiani et Valentiniani feliciter optinuit.
+=========================================================================
+And so the count of a nearby town, who loved him above all others,
+made no delay in obeying his command.
+For, one day, while Trahern was leaving the city of London,
+he hid with a hundred knights in a forested valley that he would be passing and
+made an unexpected attack on him as he passed by and killed him among his
+comrades.
+And when this was reported to Octavius, he returned to Britain and regained
+the throne with the dispersed Romans.
+Then, he soon obtained such honesty and such an abundance of gold and silver
+that he feared no-one.
+But he happily held the kingdom of Britain from that time to the days of
+Gratianius and Valentinianius.
 
 
-Comes ergo oppidi municipii, qui ipsum prae ceteris diligebat, praeceptis illius parere non distulit. Nam dum Trahern ex urbe Lundoniarum quadam die recederet, delituit cum centum militibus in quadam conualle nemoris qua ille transiturus erat atque in ipsum praetereuntem inopinum fecit impetum ac inter commilitones interfecit. Quod cum nunciatum esset Octauio, reuersus est in Britanniam et dissipatis Romanis solium regni recuperauit.
-185
-190
-Exin tantam probitatem tantamque copiam auri et argenti in breui tempore nactus fuit ita ut neminem timeret. Regnum autem Britanniae ab illo tempore usque in diebus Gratiani et Valentiniani feliciter optinuit.
 81
 insul
 Denique senio confectus, disponere populo uolens, quaesiuit a consiliariis suis quem post ipsius fata in regem de progenie sua erigere affectassent. Vnicam tantum filiam habens, filio caruerat cui regimen patriae permitteret. Fuerunt itaque qui laudabant ut filiam suam alicui moritaret ut firmiori pace fruerentur; lium regni
 195
+
+#dock-container .dock-border {
+    display: none !important;
+}
+
