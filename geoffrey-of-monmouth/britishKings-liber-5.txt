@@ -538,12 +538,45 @@ And when this was reported to Octavius, he returned to Britain, scattered the
 Romans and regained the throne. Then, he soon obtained such honesty and such an
 abundance of gold and silver that he feared no-one.  He happily held the kingdom
 of Britain from that time to the days of Gratianius and Valentinianius.
+=========================================================================
+
+Denique senio confectus, disponere populo uolens, quaesiuit a consiliariis suis
+quem post ipsius fata in regem de progenie sua erigere affectassent.
+Vnicam tantum filiam habens, filio caruerat cui regimen patriae permitteret.
+Fuerunt itaque qui laudabant ut filiam suam alicui nobilium Romanorum
+cum regno maritaret ut firmiori pace fruerentur;
+alii uero censebant Conanum Meriadocum nepotem suum in solium regni iniciandum,
+filiam uero alicui alterius regni principi cum auro et argento copulandam.
+Dum haec inter ipsos gererentur,
+accessit Caradocus dux Cornubiae consiliumque dedit
+ut Maximianum senatorem inuitarent
+filiamque ei cum regno donarent et sic perpetua pace fruerentur.
+
+Erat autem patre Britannus, quia Loelinus auunculus Constantini,
+de quo superius mentionem feceram, ipsum genuerat;
+matre uero et natione Romanus ex utroque sanguine regalem ferebat procreationem. 
+=========================================================================
+Finally, defeated by old age, wishing to dispose to the people, he asked
+his advisors what his fates might afterwards desire to raise against the king
+about his progeny. Having only a single daughter, he lacked a son to whom he
+might entrust control of his country.
+And so there were those who recommended that he give his daughter in marriage
+with his kingdom to one of the Roman nobles to enjoy a steadier peace;
+while others thought that his grandson Conan Meriadocus should be initiated
+onto the royal throne, and that the daughter should be coupled with to some
+leader of another kingdom, along with gold and silver.
+While these matters were going on among them,
+Caradocus, the duke of Cornwall, approached and gave the advice
+that they invite senator Maximianus and present to him the daughter and kingdom
+and thus enjoy perpetual peace.
+But it was Britannus to the father, since Loelinus, Constantinus' uncle,
+about whom I have alread made mention, fathered him;
+indeed to the mother and nation out of both blood he bore regal procreation.
 
 
-81
-insul
-Denique senio confectus, disponere populo uolens, quaesiuit a consiliariis suis quem post ipsius fata in regem de progenie sua erigere affectassent. Vnicam tantum filiam habens, filio caruerat cui regimen patriae permitteret. Fuerunt itaque qui laudabant ut filiam suam alicui moritaret ut firmiori pace fruerentur; lium regni
-195
+
+Iccirco igitur stabilitatem
+
 
 #dock-container .dock-border {
     display: none !important;
